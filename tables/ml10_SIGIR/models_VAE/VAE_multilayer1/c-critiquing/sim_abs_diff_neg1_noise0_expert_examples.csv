@@ -1,0 +1,2501 @@
+user_id,step,critiquing_keyphrase,critique_polarity,clarification_keyphrase,clarification_polarity,accept_clarification,expert_keyphrase
+234,1,robots,pos,robots,pos,True,robots
+234,2,anime,neg,anime,neg,True,anime
+234,3,funny,pos,funny,pos,True,funny
+234,4,super-hero,neg,super-hero,neg,True,super-hero
+234,5,classic,pos,classic,pos,True,classic
+2714,1,comic book,neg,comic book,neg,True,comic book
+2714,2,conspiracy,pos,conspiracy,pos,True,conspiracy
+2714,3,based on a true story,pos,based on a true story,pos,True,based on a true story
+2714,4,historical,pos,historical,pos,True,historical
+2714,5,overrated,neg,overrated,neg,True,overrated
+4686,1,magic,pos,magic,pos,True,magic
+4686,2,based on a book,pos,based on a book,pos,True,based on a book
+4686,3,james bond,neg,james bond,neg,True,james bond
+4686,4,nonlinear,pos,nonlinear,pos,True,nonlinear
+4686,5,comic book,neg,comic book,neg,True,comic book
+7910,1,war,pos,war,pos,True,war
+7910,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7910,3,action,neg,action,neg,True,action
+7910,4,steven spielberg,neg,steven spielberg,neg,True,steven spielberg
+7910,5,classic,neg,classic,neg,True,classic
+3440,1,space,pos,space,pos,True,space
+3440,2,tom hanks,pos,tom hanks,pos,True,tom hanks
+3440,3,true story,pos,true story,pos,True,true story
+3440,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+3440,5,historical,pos,historical,pos,True,historical
+6019,1,dark comedy,pos,dark comedy,pos,True,dark comedy
+6019,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+6019,3,crime,neg,crime,neg,True,crime
+6019,4,serial killer,neg,serial killer,neg,True,serial killer
+6019,5,biography,pos,biography,pos,True,biography
+713,1,fantasy,pos,fantasy,pos,True,fantasy
+713,2,dvd,pos,dvd,pos,True,dvd
+713,3,magic,pos,magic,pos,True,magic
+713,4,overrated,pos,overrated,pos,True,overrated
+713,5,based on a book,pos,based on a book,pos,True,based on a book
+7922,1,time travel,pos,time travel,pos,True,time travel
+7922,2,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+7922,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+7922,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+7922,5,bruce willis,neg,bruce willis,neg,True,bruce willis
+4887,1,violence,pos,violence,pos,True,violence
+4887,2,organized crime,pos,organized crime,pos,True,organized crime
+4887,3,classic,neg,classic,neg,True,classic
+4887,4,nonlinear,pos,nonlinear,pos,True,nonlinear
+4887,5,mental illness,neg,mental illness,neg,True,mental illness
+1656,1,war,pos,war,pos,True,war
+1656,2,classic,pos,classic,pos,True,classic
+1656,3,disturbing,pos,disturbing,pos,True,disturbing
+1656,4,based on a book,pos,based on a book,pos,True,based on a book
+1656,5,violent,pos,violent,pos,True,violent
+4786,1,anime,pos,anime,pos,True,anime
+4786,2,japan,pos,japan,pos,True,japan
+4786,3,comic book,pos,comic book,pos,True,comic book
+4786,4,animation,pos,animation,pos,True,animation
+4786,5,dystopia,pos,dystopia,pos,True,dystopia
+7305,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+7305,2,mafia,pos,mafia,pos,True,mafia
+7305,3,organized crime,pos,organized crime,pos,True,organized crime
+7305,4,fantasy,neg,fantasy,neg,True,fantasy
+7305,5,prison,neg,prison,neg,True,prison
+1609,1,classic,pos,classic,pos,True,classic
+1609,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1609,3,world war ii,pos,world war ii,pos,True,world war ii
+1609,4,film noir,pos,film noir,pos,True,film noir
+1609,5,war,pos,war,pos,True,war
+2936,1,serial killer,pos,serial killer,pos,True,serial killer
+2936,2,crime,pos,crime,pos,True,crime
+2936,3,cannibalism,pos,cannibalism,pos,True,cannibalism
+2936,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+2936,5,drugs,neg,drugs,neg,True,drugs
+3789,1,comic book,pos,comic book,pos,True,comic book
+3789,2,bruce willis,pos,bruce willis,pos,True,bruce willis
+3789,3,serial killer,neg,serial killer,neg,True,serial killer
+3789,4,black comedy,pos,black comedy,pos,True,black comedy
+3789,5,animation,neg,animation,neg,True,animation
+172,1,superhero,pos,superhero,pos,True,superhero
+172,2,super-hero,pos,super-hero,pos,True,super-hero
+172,3,action,pos,action,pos,True,action
+172,4,comic book,pos,comic book,pos,True,comic book
+172,5,dvd,pos,dvd,pos,True,dvd
+4315,1,action,pos,action,pos,True,action
+4315,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+4315,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+4315,4,classic,neg,classic,neg,True,classic
+4315,5,crime,pos,crime,pos,True,crime
+4943,1,classic,pos,classic,pos,True,classic
+4943,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4943,3,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+4943,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+4943,5,serial killer,neg,serial killer,neg,True,serial killer
+5002,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+5002,2,dystopia,pos,dystopia,pos,True,dystopia
+5002,3,martial arts,pos,martial arts,pos,True,martial arts
+5002,4,comic book,neg,comic book,neg,True,comic book
+5002,5,dvd,pos,dvd,pos,True,dvd
+1006,1,music,pos,music,pos,True,music
+1006,2,biography,pos,biography,pos,True,biography
+1006,3,true story,pos,true story,pos,True,true story
+1006,4,drugs,pos,drugs,pos,True,drugs
+1006,5,overrated,pos,overrated,pos,True,overrated
+6346,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+6346,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+6346,3,nazis,pos,nazis,pos,True,nazis
+6346,4,classic,neg,classic,neg,True,classic
+6346,5,prison,neg,prison,neg,True,prison
+2571,1,classic,pos,classic,pos,True,classic
+2571,2,holocaust,neg,holocaust,neg,True,holocaust
+2571,3,teen,pos,teen,pos,True,teen
+2571,4,drugs,neg,drugs,neg,True,drugs
+2571,5,girlie movie,pos,girlie movie,pos,True,girlie movie
+1474,1,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+1474,2,psychology,pos,psychology,pos,True,psychology
+1474,3,serial killer,pos,serial killer,pos,True,serial killer
+1474,4,classic,pos,classic,pos,True,classic
+1474,5,hitchcock,pos,hitchcock,pos,True,hitchcock
+4413,1,religion,pos,religion,pos,True,religion
+4413,2,hilarious,pos,hilarious,pos,True,hilarious
+4413,3,nonlinear,neg,nonlinear,neg,True,nonlinear
+4413,4,twist ending,neg,twist ending,neg,True,twist ending
+4413,5,fantasy,neg,fantasy,neg,True,fantasy
+1402,1,cult film,pos,cult film,pos,True,cult film
+1402,2,quirky,pos,quirky,pos,True,quirky
+1402,3,overrated,pos,overrated,pos,True,overrated
+1402,4,action,neg,action,neg,True,action
+1402,5,comic book,neg,comic book,neg,True,comic book
+7935,1,comic book,pos,comic book,pos,True,comic book
+7935,2,super-hero,pos,super-hero,pos,True,super-hero
+7935,3,magic,neg,magic,neg,True,magic
+7935,4,superhero,pos,superhero,pos,True,superhero
+7935,5,violence,neg,violence,neg,True,violence
+5587,1,fantasy,pos,fantasy,pos,True,fantasy
+5587,2,based on a book,pos,based on a book,pos,True,based on a book
+5587,3,magic,pos,magic,pos,True,magic
+5587,4,dvd,pos,dvd,pos,True,dvd
+5587,5,overrated,pos,overrated,pos,True,overrated
+7710,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+7710,2,drugs,pos,drugs,pos,True,drugs
+7710,3,violence,pos,violence,pos,True,violence
+7710,4,british,pos,british,pos,True,british
+7710,5,organized crime,pos,organized crime,pos,True,organized crime
+2746,1,paris,pos,paris,pos,True,paris
+2746,2,animation,pos,animation,pos,True,animation
+2746,3,anime,neg,anime,neg,True,anime
+2746,4,fun,pos,fun,pos,True,fun
+2746,5,france,pos,france,pos,True,france
+1482,1,drama,pos,drama,pos,True,drama
+1482,2,ghosts,pos,ghosts,pos,True,ghosts
+1482,3,girlie movie,pos,girlie movie,pos,True,girlie movie
+1482,4,chick flick,pos,chick flick,pos,True,chick flick
+1482,5,death,pos,death,pos,True,death
+2892,1,tom cruise,pos,tom cruise,pos,True,tom cruise
+2892,2,japan,pos,japan,pos,True,japan
+2892,3,anime,neg,anime,neg,True,anime
+2892,4,fantasy,neg,fantasy,neg,True,fantasy
+2892,5,intense,pos,intense,pos,True,intense
+4019,1,classic,pos,classic,pos,True,classic
+4019,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+4019,3,satire,pos,satire,pos,True,satire
+4019,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+4019,5,black comedy,pos,black comedy,pos,True,black comedy
+2928,1,space,pos,space,pos,True,space
+2928,2,aliens,pos,aliens,pos,True,aliens
+2928,3,dvd,pos,dvd,pos,True,dvd
+2928,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+2928,5,horror,pos,horror,pos,True,horror
+199,1,drugs,pos,drugs,pos,True,drugs
+199,2,depressing,pos,depressing,pos,True,depressing
+199,3,dark,pos,dark,pos,True,dark
+199,4,based on a book,pos,based on a book,pos,True,based on a book
+199,5,revenge,pos,revenge,pos,True,revenge
+2804,1,violence,pos,violence,pos,True,violence
+2804,2,organized crime,pos,organized crime,pos,True,organized crime
+2804,3,nonlinear,pos,nonlinear,pos,True,nonlinear
+2804,4,time travel,neg,time travel,neg,True,time travel
+2804,5,crime,pos,crime,pos,True,crime
+5624,1,fantasy,pos,fantasy,pos,True,fantasy
+5624,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+5624,3,based on a book,pos,based on a book,pos,True,based on a book
+5624,4,action,pos,action,pos,True,action
+5624,5,adventure,pos,adventure,pos,True,adventure
+6398,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+6398,2,classic,neg,classic,neg,True,classic
+6398,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+6398,4,action,neg,action,neg,True,action
+6398,5,space,neg,space,neg,True,space
+6780,1,space,pos,space,pos,True,space
+6780,2,aliens,pos,aliens,pos,True,aliens
+6780,3,dvd,pos,dvd,pos,True,dvd
+6780,4,classic,pos,classic,pos,True,classic
+6780,5,mafia,neg,mafia,neg,True,mafia
+658,1,martial arts,pos,martial arts,pos,True,martial arts
+658,2,beautiful,pos,beautiful,pos,True,beautiful
+658,3,dvd,pos,dvd,pos,True,dvd
+658,4,anime,neg,anime,neg,True,anime
+658,5,violence,pos,violence,pos,True,violence
+5595,1,england,pos,england,pos,True,england
+5595,2,classic,pos,classic,pos,True,classic
+5595,3,cute,pos,cute,pos,True,cute
+5595,4,family,pos,family,pos,True,family
+5595,5,james bond,neg,james bond,neg,True,james bond
+837,1,zombies,pos,zombies,pos,True,zombies
+837,2,action,pos,action,pos,True,action
+837,3,comedy,pos,comedy,pos,True,comedy
+837,4,horror,pos,horror,pos,True,horror
+837,5,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+6831,1,twist ending,pos,twist ending,pos,True,twist ending
+6831,2,suspense,pos,suspense,pos,True,suspense
+6831,3,organized crime,pos,organized crime,pos,True,organized crime
+6831,4,conspiracy,pos,conspiracy,pos,True,conspiracy
+6831,5,serial killer,neg,serial killer,neg,True,serial killer
+6911,1,robots,pos,robots,pos,True,robots
+6911,2,time travel,pos,time travel,pos,True,time travel
+6911,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+6911,4,action,pos,action,pos,True,action
+6911,5,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+617,1,quirky,pos,quirky,pos,True,quirky
+617,2,fantasy,neg,fantasy,neg,True,fantasy
+617,3,hilarious,pos,hilarious,pos,True,hilarious
+617,4,family,pos,family,pos,True,family
+617,5,drugs,pos,drugs,pos,True,drugs
+2273,1,drama,pos,drama,pos,True,drama
+2273,2,classic,neg,classic,neg,True,classic
+2273,3,fantasy,neg,fantasy,neg,True,fantasy
+2273,4,romance,pos,romance,pos,True,romance
+2273,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+3777,1,classic,pos,classic,pos,True,classic
+3777,2,war,pos,war,pos,True,war
+3777,3,dvd,neg,dvd,neg,True,dvd
+3777,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+3777,5,surreal,neg,surreal,neg,True,surreal
+5053,1,teen,pos,teen,pos,True,teen
+5053,2,drama,pos,drama,pos,True,drama
+5053,3,high school,pos,high school,pos,True,high school
+5053,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+5053,5,tom hanks,neg,tom hanks,neg,True,tom hanks
+6472,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+6472,2,space,pos,space,pos,True,space
+6472,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+6472,4,classic,pos,classic,pos,True,classic
+6472,5,disney,neg,disney,neg,True,disney
+7562,1,classic,pos,classic,pos,True,classic
+7562,2,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+7562,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+7562,4,cult film,pos,cult film,pos,True,cult film
+7562,5,quirky,neg,quirky,neg,True,quirky
+4788,1,heist,pos,heist,pos,True,heist
+4788,2,crime,pos,crime,pos,True,crime
+4788,3,fantasy,neg,fantasy,neg,True,fantasy
+4788,4,brad pitt,pos,brad pitt,pos,True,brad pitt
+4788,5,matt damon,pos,matt damon,pos,True,matt damon
+1106,1,japan,pos,japan,pos,True,japan
+1106,2,classic,pos,classic,pos,True,classic
+1106,3,anime,neg,anime,neg,True,anime
+1106,4,historical,pos,historical,pos,True,historical
+1106,5,action,pos,action,pos,True,action
+1692,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+1692,2,classic,pos,classic,pos,True,classic
+1692,3,future,pos,future,pos,True,future
+1692,4,boring,pos,boring,pos,True,boring
+1692,5,space,pos,space,pos,True,space
+6187,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+6187,2,overrated,pos,overrated,pos,True,overrated
+6187,3,revenge,pos,revenge,pos,True,revenge
+6187,4,martial arts,pos,martial arts,pos,True,martial arts
+6187,5,dystopia,neg,dystopia,neg,True,dystopia
+5307,1,super-hero,pos,super-hero,pos,True,super-hero
+5307,2,superhero,pos,superhero,pos,True,superhero
+5307,3,animation,pos,animation,pos,True,animation
+5307,4,johnny depp,neg,johnny depp,neg,True,johnny depp
+5307,5,family,pos,family,pos,True,family
+7039,1,action,pos,action,pos,True,action
+7039,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+7039,3,crime,pos,crime,pos,True,crime
+7039,4,holocaust,neg,holocaust,neg,True,holocaust
+7039,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+1745,1,surreal,pos,surreal,pos,True,surreal
+1745,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+1745,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1745,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+1745,5,interesting,pos,interesting,pos,True,interesting
+4520,1,anime,pos,anime,pos,True,anime
+4520,2,children,pos,children,pos,True,children
+4520,3,fantasy,pos,fantasy,pos,True,fantasy
+4520,4,beautiful,pos,beautiful,pos,True,beautiful
+4520,5,sports,pos,sports,pos,True,sports
+3096,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+3096,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+3096,3,dystopia,pos,dystopia,pos,True,dystopia
+3096,4,based on a book,pos,based on a book,pos,True,based on a book
+3096,5,memory,pos,memory,pos,True,memory
+4937,1,dark comedy,pos,dark comedy,pos,True,dark comedy
+4937,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4937,3,aliens,neg,aliens,neg,True,aliens
+4937,4,action,neg,action,neg,True,action
+4937,5,biography,pos,biography,pos,True,biography
+5376,1,super-hero,pos,super-hero,pos,True,super-hero
+5376,2,comic book,pos,comic book,pos,True,comic book
+5376,3,new york,pos,new york,pos,True,new york
+5376,4,action,pos,action,pos,True,action
+5376,5,sequel,pos,sequel,pos,True,sequel
+6300,1,organized crime,pos,organized crime,pos,True,organized crime
+6300,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+6300,3,violence,pos,violence,pos,True,violence
+6300,4,mafia,pos,mafia,pos,True,mafia
+6300,5,serial killer,neg,serial killer,neg,True,serial killer
+133,1,los angeles,pos,los angeles,pos,True,los angeles
+133,2,film noir,pos,film noir,pos,True,film noir
+133,3,classic,pos,classic,pos,True,classic
+133,4,murder,pos,murder,pos,True,murder
+133,5,slow,pos,slow,pos,True,slow
+6914,1,fantasy,neg,fantasy,neg,True,fantasy
+6914,2,musical,pos,musical,pos,True,musical
+6914,3,music,pos,music,pos,True,music
+6914,4,classic,pos,classic,pos,True,classic
+6914,5,cars,pos,cars,pos,True,cars
+1604,1,martial arts,pos,martial arts,pos,True,martial arts
+1604,2,overrated,pos,overrated,pos,True,overrated
+1604,3,anime,neg,anime,neg,True,anime
+1604,4,japan,pos,japan,pos,True,japan
+1604,5,action,pos,action,pos,True,action
+1830,1,super-hero,pos,super-hero,pos,True,super-hero
+1830,2,comic book,pos,comic book,pos,True,comic book
+1830,3,new york,pos,new york,pos,True,new york
+1830,4,action,pos,action,pos,True,action
+1830,5,james bond,neg,james bond,neg,True,james bond
+2155,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+2155,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+2155,3,based on a book,pos,based on a book,pos,True,based on a book
+2155,4,dystopia,pos,dystopia,pos,True,dystopia
+2155,5,robots,pos,robots,pos,True,robots
+2614,1,comic book,pos,comic book,pos,True,comic book
+2614,2,super-hero,pos,super-hero,pos,True,super-hero
+2614,3,superhero,pos,superhero,pos,True,superhero
+2614,4,bruce willis,neg,bruce willis,neg,True,bruce willis
+2614,5,action,pos,action,pos,True,action
+5106,1,prison,neg,prison,neg,True,prison
+5106,2,seen more than once,pos,seen more than once,pos,True,seen more than once
+5106,3,classic,neg,classic,neg,True,classic
+5106,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+5106,5,serial killer,neg,serial killer,neg,True,serial killer
+3144,1,violence,pos,violence,pos,True,violence
+3144,2,mental illness,pos,mental illness,pos,True,mental illness
+3144,3,brad pitt,pos,brad pitt,pos,True,brad pitt
+3144,4,surreal,pos,surreal,pos,True,surreal
+3144,5,psychology,pos,psychology,pos,True,psychology
+2135,1,africa,pos,africa,pos,True,africa
+2135,2,thriller,pos,thriller,pos,True,thriller
+2135,3,beautiful,pos,beautiful,pos,True,beautiful
+2135,4,magic,neg,magic,neg,True,magic
+2135,5,drama,pos,drama,pos,True,drama
+7996,1,action,pos,action,pos,True,action
+7996,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+7996,3,space,neg,space,neg,True,space
+7996,4,prison,neg,prison,neg,True,prison
+7996,5,classic,neg,classic,neg,True,classic
+2454,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+2454,2,boring,pos,boring,pos,True,boring
+2454,3,jim carrey,neg,jim carrey,neg,True,jim carrey
+2454,4,surreal,neg,surreal,neg,True,surreal
+2454,5,true story,pos,true story,pos,True,true story
+3828,1,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+3828,2,tom hanks,neg,tom hanks,neg,True,tom hanks
+3828,3,drugs,neg,drugs,neg,True,drugs
+3828,4,thriller,pos,thriller,pos,True,thriller
+3828,5,time travel,neg,time travel,neg,True,time travel
+1607,1,classic,pos,classic,pos,True,classic
+1607,2,mafia,neg,mafia,neg,True,mafia
+1607,3,world war ii,pos,world war ii,pos,True,world war ii
+1607,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1607,5,hitchcock,neg,hitchcock,neg,True,hitchcock
+2202,1,religion,pos,religion,pos,True,religion
+2202,2,satire,pos,satire,pos,True,satire
+2202,3,drugs,neg,drugs,neg,True,drugs
+2202,4,funny,pos,funny,pos,True,funny
+2202,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+3424,1,prison,pos,prison,pos,True,prison
+3424,2,classic,pos,classic,pos,True,classic
+3424,3,stephen king,pos,stephen king,pos,True,stephen king
+3424,4,based on a book,pos,based on a book,pos,True,based on a book
+3424,5,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+6893,1,england,pos,england,pos,True,england
+6893,2,classic,pos,classic,pos,True,classic
+6893,3,family,pos,family,pos,True,family
+6893,4,cute,pos,cute,pos,True,cute
+6893,5,james bond,neg,james bond,neg,True,james bond
+5543,1,classic,pos,classic,pos,True,classic
+5543,2,based on a book,pos,based on a book,pos,True,based on a book
+5543,3,fantasy,pos,fantasy,pos,True,fantasy
+5543,4,surreal,pos,surreal,pos,True,surreal
+5543,5,espionage,pos,espionage,pos,True,espionage
+2987,1,christmas,pos,christmas,pos,True,christmas
+2987,2,cult film,pos,cult film,pos,True,cult film
+2987,3,musical,pos,musical,pos,True,musical
+2987,4,beautiful,pos,beautiful,pos,True,beautiful
+2987,5,disney,neg,disney,neg,True,disney
+6253,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+6253,2,animation,pos,animation,pos,True,animation
+6253,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+6253,4,hilarious,pos,hilarious,pos,True,hilarious
+6253,5,disney,pos,disney,pos,True,disney
+5604,1,robots,pos,robots,pos,True,robots
+5604,2,time travel,pos,time travel,pos,True,time travel
+5604,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+5604,4,action,pos,action,pos,True,action
+5604,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+2642,1,quirky,pos,quirky,pos,True,quirky
+2642,2,drugs,neg,drugs,neg,True,drugs
+2642,3,time travel,neg,time travel,neg,True,time travel
+2642,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+2642,5,classic,neg,classic,neg,True,classic
+132,1,teen,pos,teen,pos,True,teen
+132,2,high school,pos,high school,pos,True,high school
+132,3,drama,pos,drama,pos,True,drama
+132,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+132,5,comedy,pos,comedy,pos,True,comedy
+7373,1,animation,pos,animation,pos,True,animation
+7373,2,disney,pos,disney,pos,True,disney
+7373,3,time travel,neg,time travel,neg,True,time travel
+7373,4,dvd,pos,dvd,pos,True,dvd
+7373,5,ghosts,neg,ghosts,neg,True,ghosts
+118,1,classic,pos,classic,pos,True,classic
+118,2,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+118,3,cult film,pos,cult film,pos,True,cult film
+118,4,new york city,pos,new york city,pos,True,new york city
+118,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+1332,1,parody,pos,parody,pos,True,parody
+1332,2,hilarious,pos,hilarious,pos,True,hilarious
+1332,3,stupid,pos,stupid,pos,True,stupid
+1332,4,spoof,pos,spoof,pos,True,spoof
+1332,5,cute,pos,cute,pos,True,cute
+426,1,tom cruise,pos,tom cruise,pos,True,tom cruise
+426,2,remake,pos,remake,pos,True,remake
+426,3,zombies,neg,zombies,neg,True,zombies
+426,4,new york city,pos,new york city,pos,True,new york city
+426,5,surreal,pos,surreal,pos,True,surreal
+874,1,girlie movie,pos,girlie movie,pos,True,girlie movie
+874,2,suicide,pos,suicide,pos,True,suicide
+874,3,mental illness,pos,mental illness,pos,True,mental illness
+874,4,sad,pos,sad,pos,True,sad
+874,5,lesbian,pos,lesbian,pos,True,lesbian
+4049,1,tom cruise,pos,tom cruise,pos,True,tom cruise
+4049,2,remake,pos,remake,pos,True,remake
+4049,3,suicide,pos,suicide,pos,True,suicide
+4049,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+4049,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+3006,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3006,2,war,pos,war,pos,True,war
+3006,3,world war ii,neg,world war ii,neg,True,world war ii
+3006,4,classic,neg,classic,neg,True,classic
+3006,5,surreal,neg,surreal,neg,True,surreal
+4495,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+4495,2,martial arts,pos,martial arts,pos,True,martial arts
+4495,3,anime,neg,anime,neg,True,anime
+4495,4,revenge,pos,revenge,pos,True,revenge
+4495,5,overrated,pos,overrated,pos,True,overrated
+3271,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+3271,2,adventure,pos,adventure,pos,True,adventure
+3271,3,action,pos,action,pos,True,action
+3271,4,comic book,neg,comic book,neg,True,comic book
+3271,5,zombies,pos,zombies,pos,True,zombies
+3940,1,gay,pos,gay,pos,True,gay
+3940,2,lesbian,pos,lesbian,pos,True,lesbian
+3940,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+3940,4,dvd,pos,dvd,pos,True,dvd
+3940,5,funny,pos,funny,pos,True,funny
+702,1,action,pos,action,pos,True,action
+702,2,space,pos,space,pos,True,space
+702,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+702,4,adventure,pos,adventure,pos,True,adventure
+702,5,quirky,pos,quirky,pos,True,quirky
+7487,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+7487,2,space,pos,space,pos,True,space
+7487,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+7487,4,prison,neg,prison,neg,True,prison
+7487,5,classic,pos,classic,pos,True,classic
+3160,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3160,2,true story,pos,true story,pos,True,true story
+3160,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+3160,4,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+3160,5,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+6122,1,quirky,pos,quirky,pos,True,quirky
+6122,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+6122,3,crime,pos,crime,pos,True,crime
+6122,4,black comedy,pos,black comedy,pos,True,black comedy
+6122,5,murder,pos,murder,pos,True,murder
+5868,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+5868,2,dystopia,pos,dystopia,pos,True,dystopia
+5868,3,martial arts,pos,martial arts,pos,True,martial arts
+5868,4,dvd,pos,dvd,pos,True,dvd
+5868,5,action,pos,action,pos,True,action
+2340,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+2340,2,action,pos,action,pos,True,action
+2340,3,crime,pos,crime,pos,True,crime
+2340,4,johnny depp,neg,johnny depp,neg,True,johnny depp
+2340,5,violence,pos,violence,pos,True,violence
+2295,1,hitchcock,pos,hitchcock,pos,True,hitchcock
+2295,2,classic,pos,classic,pos,True,classic
+2295,3,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+2295,4,thriller,pos,thriller,pos,True,thriller
+2295,5,mystery,pos,mystery,pos,True,mystery
+747,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+747,2,action,pos,action,pos,True,action
+747,3,serial killer,neg,serial killer,neg,True,serial killer
+747,4,violence,pos,violence,pos,True,violence
+747,5,crime,pos,crime,pos,True,crime
+7860,1,quirky,pos,quirky,pos,True,quirky
+7860,2,crime,pos,crime,pos,True,crime
+7860,3,dark comedy,pos,dark comedy,pos,True,dark comedy
+7860,4,black comedy,pos,black comedy,pos,True,black comedy
+7860,5,murder,pos,murder,pos,True,murder
+3345,1,religion,pos,religion,pos,True,religion
+3345,2,dvd,pos,dvd,pos,True,dvd
+3345,3,boring,pos,boring,pos,True,boring
+3345,4,slow,pos,slow,pos,True,slow
+3345,5,serial killer,neg,serial killer,neg,True,serial killer
+2601,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+2601,2,drama,pos,drama,pos,True,drama
+2601,3,dvd,pos,dvd,pos,True,dvd
+2601,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+2601,5,intense,pos,intense,pos,True,intense
+5699,1,los angeles,pos,los angeles,pos,True,los angeles
+5699,2,film noir,pos,film noir,pos,True,film noir
+5699,3,classic,pos,classic,pos,True,classic
+5699,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+5699,5,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+6567,1,animation,pos,animation,pos,True,animation
+6567,2,disney,pos,disney,pos,True,disney
+6567,3,dvd,pos,dvd,pos,True,dvd
+6567,4,magic,neg,magic,neg,True,magic
+6567,5,boring,pos,boring,pos,True,boring
+1547,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1547,2,war,pos,war,pos,True,war
+1547,3,classic,neg,classic,neg,True,classic
+1547,4,action,pos,action,pos,True,action
+1547,5,drama,pos,drama,pos,True,drama
+4883,1,comic book,pos,comic book,pos,True,comic book
+4883,2,dystopia,pos,dystopia,pos,True,dystopia
+4883,3,politics,pos,politics,pos,True,politics
+4883,4,revenge,pos,revenge,pos,True,revenge
+4883,5,terrorism,pos,terrorism,pos,True,terrorism
+4425,1,classic,pos,classic,pos,True,classic
+4425,2,based on a book,pos,based on a book,pos,True,based on a book
+4425,3,fantasy,pos,fantasy,pos,True,fantasy
+4425,4,nonlinear,neg,nonlinear,neg,True,nonlinear
+4425,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+4994,1,boxing,pos,boxing,pos,True,boxing
+4994,2,clint eastwood,pos,clint eastwood,pos,True,clint eastwood
+4994,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4994,4,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+4994,5,overrated,pos,overrated,pos,True,overrated
+5592,1,comic book,pos,comic book,pos,True,comic book
+5592,2,super-hero,pos,super-hero,pos,True,super-hero
+5592,3,superhero,pos,superhero,pos,True,superhero
+5592,4,action,pos,action,pos,True,action
+5592,5,future,pos,future,pos,True,future
+7659,1,dark comedy,pos,dark comedy,pos,True,dark comedy
+7659,2,dvd,pos,dvd,pos,True,dvd
+7659,3,classic,pos,classic,pos,True,classic
+7659,4,biography,pos,biography,pos,True,biography
+7659,5,world war ii,neg,world war ii,neg,True,world war ii
+1718,1,classic,pos,classic,pos,True,classic
+1718,2,japan,pos,japan,pos,True,japan
+1718,3,historical,pos,historical,pos,True,historical
+1718,4,action,pos,action,pos,True,action
+1718,5,drama,pos,drama,pos,True,drama
+6030,1,prison,pos,prison,pos,True,prison
+6030,2,classic,pos,classic,pos,True,classic
+6030,3,stephen king,pos,stephen king,pos,True,stephen king
+6030,4,based on a book,pos,based on a book,pos,True,based on a book
+6030,5,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+6256,1,high school,pos,high school,pos,True,high school
+6256,2,comedy,pos,comedy,pos,True,comedy
+6256,3,slow,pos,slow,pos,True,slow
+6256,4,comic book,neg,comic book,neg,True,comic book
+6256,5,prison,neg,prison,neg,True,prison
+725,1,great soundtrack,pos,great soundtrack,pos,True,great soundtrack
+725,2,black and white,pos,black and white,pos,True,black and white
+725,3,dvd,pos,dvd,pos,True,dvd
+725,4,nonlinear,neg,nonlinear,neg,True,nonlinear
+725,5,religion,pos,religion,pos,True,religion
+258,1,classic,pos,classic,pos,True,classic
+258,2,fantasy,pos,fantasy,pos,True,fantasy
+258,3,based on a book,pos,based on a book,pos,True,based on a book
+258,4,war,pos,war,pos,True,war
+258,5,musical,pos,musical,pos,True,musical
+6812,1,espionage,pos,espionage,pos,True,espionage
+6812,2,matt damon,pos,matt damon,pos,True,matt damon
+6812,3,memory,pos,memory,pos,True,memory
+6812,4,boring,pos,boring,pos,True,boring
+6812,5,super-hero,neg,super-hero,neg,True,super-hero
+5578,1,action,pos,action,pos,True,action
+5578,2,police,pos,police,pos,True,police
+5578,3,arnold schwarzenegger,neg,arnold schwarzenegger,neg,True,arnold schwarzenegger
+5578,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+5578,5,harrison ford,neg,harrison ford,neg,True,harrison ford
+1410,1,nazis,pos,nazis,pos,True,nazis
+1410,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+1410,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+1410,4,classic,neg,classic,neg,True,classic
+1410,5,serial killer,neg,serial killer,neg,True,serial killer
+1294,1,high school,pos,high school,pos,True,high school
+1294,2,comedy,pos,comedy,pos,True,comedy
+1294,3,overrated,pos,overrated,pos,True,overrated
+1294,4,fantasy,neg,fantasy,neg,True,fantasy
+1294,5,teen,pos,teen,pos,True,teen
+2305,1,drugs,neg,drugs,neg,True,drugs
+2305,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+2305,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+2305,4,drama,pos,drama,pos,True,drama
+2305,5,history,pos,history,pos,True,history
+3491,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+3491,2,mafia,pos,mafia,pos,True,mafia
+3491,3,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+3491,4,violent,pos,violent,pos,True,violent
+3491,5,cannibalism,pos,cannibalism,pos,True,cannibalism
+5739,1,classic,pos,classic,pos,True,classic
+5739,2,serial killer,neg,serial killer,neg,True,serial killer
+5739,3,space,neg,space,neg,True,space
+5739,4,war,pos,war,pos,True,war
+5739,5,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+6350,1,mafia,pos,mafia,pos,True,mafia
+6350,2,classic,pos,classic,pos,True,classic
+6350,3,organized crime,pos,organized crime,pos,True,organized crime
+6350,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+6350,5,time travel,neg,time travel,neg,True,time travel
+3624,1,racism,pos,racism,pos,True,racism
+3624,2,overrated,pos,overrated,pos,True,overrated
+3624,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3624,4,africa,neg,africa,neg,True,africa
+3624,5,holocaust,neg,holocaust,neg,True,holocaust
+2592,1,classic,pos,classic,pos,True,classic
+2592,2,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+2592,3,cult film,pos,cult film,pos,True,cult film
+2592,4,serial killer,neg,serial killer,neg,True,serial killer
+2592,5,crime,neg,crime,neg,True,crime
+2763,1,action,pos,action,pos,True,action
+2763,2,tom hanks,neg,tom hanks,neg,True,tom hanks
+2763,3,serial killer,neg,serial killer,neg,True,serial killer
+2763,4,fantasy,neg,fantasy,neg,True,fantasy
+2763,5,beautiful,pos,beautiful,pos,True,beautiful
+3580,1,dystopia,pos,dystopia,pos,True,dystopia
+3580,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+3580,3,mafia,neg,mafia,neg,True,mafia
+3580,4,comic book,neg,comic book,neg,True,comic book
+3580,5,dark comedy,neg,dark comedy,neg,True,dark comedy
+1109,1,france,pos,france,pos,True,france
+1109,2,paris,pos,paris,pos,True,paris
+1109,3,romance,pos,romance,pos,True,romance
+1109,4,quirky,pos,quirky,pos,True,quirky
+1109,5,love,pos,love,pos,True,love
+7150,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+7150,2,comedy,pos,comedy,pos,True,comedy
+7150,3,british,pos,british,pos,True,british
+7150,4,girlie movie,pos,girlie movie,pos,True,girlie movie
+7150,5,musical,neg,musical,neg,True,musical
+1130,1,ghosts,pos,ghosts,pos,True,ghosts
+1130,2,action,pos,action,pos,True,action
+1130,3,holocaust,neg,holocaust,neg,True,holocaust
+1130,4,comedy,pos,comedy,pos,True,comedy
+1130,5,dvd,pos,dvd,pos,True,dvd
+2746,1,paris,pos,paris,pos,True,paris
+2746,2,animation,pos,animation,pos,True,animation
+2746,3,anime,neg,anime,neg,True,anime
+2746,4,fun,pos,fun,pos,True,fun
+2746,5,france,pos,france,pos,True,france
+1402,1,classic,pos,classic,pos,True,classic
+1402,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1402,3,world war ii,pos,world war ii,pos,True,world war ii
+1402,4,film noir,pos,film noir,pos,True,film noir
+1402,5,nazis,pos,nazis,pos,True,nazis
+7956,1,world war ii,pos,world war ii,pos,True,world war ii
+7956,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+7956,3,tom hanks,pos,tom hanks,pos,True,tom hanks
+7956,4,drama,pos,drama,pos,True,drama
+7956,5,classic,neg,classic,neg,True,classic
+5323,1,superhero,pos,superhero,pos,True,superhero
+5323,2,super-hero,pos,super-hero,pos,True,super-hero
+5323,3,time travel,neg,time travel,neg,True,time travel
+5323,4,comic book,pos,comic book,pos,True,comic book
+5323,5,dystopia,neg,dystopia,neg,True,dystopia
+3995,1,dystopia,pos,dystopia,pos,True,dystopia
+3995,2,surreal,pos,surreal,pos,True,surreal
+3995,3,anime,neg,anime,neg,True,anime
+3995,4,time travel,neg,time travel,neg,True,time travel
+3995,5,dark comedy,pos,dark comedy,pos,True,dark comedy
+1321,1,action,pos,action,pos,True,action
+1321,2,police,pos,police,pos,True,police
+1321,3,world war ii,neg,world war ii,neg,True,world war ii
+1321,4,los angeles,pos,los angeles,pos,True,los angeles
+1321,5,classic,pos,classic,pos,True,classic
+1598,1,ghosts,pos,ghosts,pos,True,ghosts
+1598,2,action,pos,action,pos,True,action
+1598,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1598,4,time travel,neg,time travel,neg,True,time travel
+1598,5,comedy,pos,comedy,pos,True,comedy
+3145,1,time travel,pos,time travel,pos,True,time travel
+3145,2,seen more than once,pos,seen more than once,pos,True,seen more than once
+3145,3,comedy,pos,comedy,pos,True,comedy
+3145,4,nonlinear,neg,nonlinear,neg,True,nonlinear
+3145,5,fantasy,pos,fantasy,pos,True,fantasy
+5271,1,world war ii,pos,world war ii,pos,True,world war ii
+5271,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+5271,3,tom hanks,pos,tom hanks,pos,True,tom hanks
+5271,4,dvd,pos,dvd,pos,True,dvd
+5271,5,drama,pos,drama,pos,True,drama
+5539,1,politics,pos,politics,pos,True,politics
+5539,2,true story,pos,true story,pos,True,true story
+5539,3,history,pos,history,pos,True,history
+5539,4,classic,pos,classic,pos,True,classic
+5539,5,based on a book,pos,based on a book,pos,True,based on a book
+6424,1,time travel,pos,time travel,pos,True,time travel
+6424,2,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+6424,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+6424,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+6424,5,serial killer,neg,serial killer,neg,True,serial killer
+6625,1,violence,pos,violence,pos,True,violence
+6625,2,drugs,neg,drugs,neg,True,drugs
+6625,3,organized crime,pos,organized crime,pos,True,organized crime
+6625,4,nonlinear,pos,nonlinear,pos,True,nonlinear
+6625,5,time travel,neg,time travel,neg,True,time travel
+5805,1,hilarious,pos,hilarious,pos,True,hilarious
+5805,2,fun,pos,fun,pos,True,fun
+5805,3,parody,pos,parody,pos,True,parody
+5805,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+5805,5,action,neg,action,neg,True,action
+131,1,crime,pos,crime,pos,True,crime
+131,2,tom hanks,neg,tom hanks,neg,True,tom hanks
+131,3,classic,neg,classic,neg,True,classic
+131,4,conspiracy,pos,conspiracy,pos,True,conspiracy
+131,5,drama,pos,drama,pos,True,drama
+2723,1,dystopia,neg,dystopia,neg,True,dystopia
+2723,2,surreal,pos,surreal,pos,True,surreal
+2723,3,anime,neg,anime,neg,True,anime
+2723,4,drugs,neg,drugs,neg,True,drugs
+2723,5,los angeles,pos,los angeles,pos,True,los angeles
+6817,1,music,pos,music,pos,True,music
+6817,2,classic,pos,classic,pos,True,classic
+6817,3,musical,pos,musical,pos,True,musical
+6817,4,police,pos,police,pos,True,police
+6817,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+4704,1,aliens,pos,aliens,pos,True,aliens
+4704,2,dvd,neg,dvd,neg,True,dvd
+4704,3,anime,neg,anime,neg,True,anime
+4704,4,classic,pos,classic,pos,True,classic
+4704,5,harrison ford,neg,harrison ford,neg,True,harrison ford
+3986,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+3986,2,fantasy,neg,fantasy,neg,True,fantasy
+3986,3,overrated,neg,overrated,neg,True,overrated
+3986,4,magic,neg,magic,neg,True,magic
+3986,5,biography,pos,biography,pos,True,biography
+7075,1,fantasy,pos,fantasy,pos,True,fantasy
+7075,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7075,3,based on a book,pos,based on a book,pos,True,based on a book
+7075,4,adventure,pos,adventure,pos,True,adventure
+7075,5,action,pos,action,pos,True,action
+5553,1,nonlinear,neg,nonlinear,neg,True,nonlinear
+5553,2,fantasy,neg,fantasy,neg,True,fantasy
+5553,3,classic,neg,classic,neg,True,classic
+5553,4,disney,pos,disney,pos,True,disney
+5553,5,tom hanks,pos,tom hanks,pos,True,tom hanks
+756,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+756,2,action,pos,action,pos,True,action
+756,3,japan,pos,japan,pos,True,japan
+756,4,anime,neg,anime,neg,True,anime
+756,5,violent,pos,violent,pos,True,violent
+1904,1,classic,pos,classic,pos,True,classic
+1904,2,disney,neg,disney,neg,True,disney
+1904,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+1904,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+1904,5,war,pos,war,pos,True,war
+6260,1,british,pos,british,pos,True,british
+6260,2,nonlinear,pos,nonlinear,pos,True,nonlinear
+6260,3,chick flick,pos,chick flick,pos,True,chick flick
+6260,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+6260,5,london,pos,london,pos,True,london
+4031,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+4031,2,dvd,pos,dvd,pos,True,dvd
+4031,3,sequel,pos,sequel,pos,True,sequel
+4031,4,fantasy,pos,fantasy,pos,True,fantasy
+4031,5,robots,pos,robots,pos,True,robots
+2706,1,matt damon,pos,matt damon,pos,True,matt damon
+2706,2,jude law,pos,jude law,pos,True,jude law
+2706,3,murder,pos,murder,pos,True,murder
+2706,4,crime,pos,crime,pos,True,crime
+2706,5,serial killer,pos,serial killer,pos,True,serial killer
+6541,1,classic,pos,classic,pos,True,classic
+6541,2,racism,pos,racism,pos,True,racism
+6541,3,holocaust,neg,holocaust,neg,True,holocaust
+6541,4,prison,neg,prison,neg,True,prison
+6541,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+7934,1,space,pos,space,pos,True,space
+7934,2,true story,pos,true story,pos,True,true story
+7934,3,classic,neg,classic,neg,True,classic
+7934,4,based on a true story,pos,based on a true story,pos,True,based on a true story
+7934,5,tom hanks,pos,tom hanks,pos,True,tom hanks
+4650,1,superhero,pos,superhero,pos,True,superhero
+4650,2,comic book,pos,comic book,pos,True,comic book
+4650,3,super-hero,pos,super-hero,pos,True,super-hero
+4650,4,marvel,pos,marvel,pos,True,marvel
+4650,5,james bond,neg,james bond,neg,True,james bond
+7637,1,parody,pos,parody,pos,True,parody
+7637,2,fantasy,neg,fantasy,neg,True,fantasy
+7637,3,hilarious,pos,hilarious,pos,True,hilarious
+7637,4,stupid,pos,stupid,pos,True,stupid
+7637,5,action,neg,action,neg,True,action
+5652,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+5652,2,space,pos,space,pos,True,space
+5652,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+5652,4,classic,pos,classic,pos,True,classic
+5652,5,time travel,neg,time travel,neg,True,time travel
+860,1,robots,pos,robots,pos,True,robots
+860,2,time travel,pos,time travel,pos,True,time travel
+860,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+860,4,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+860,5,action,pos,action,pos,True,action
+3834,1,mel gibson,pos,mel gibson,pos,True,mel gibson
+3834,2,drama,pos,drama,pos,True,drama
+3834,3,epic,pos,epic,pos,True,epic
+3834,4,overrated,pos,overrated,pos,True,overrated
+3834,5,history,pos,history,pos,True,history
+2347,1,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+2347,2,nonlinear,pos,nonlinear,pos,True,nonlinear
+2347,3,comedy,pos,comedy,pos,True,comedy
+2347,4,crime,pos,crime,pos,True,crime
+2347,5,dark comedy,pos,dark comedy,pos,True,dark comedy
+28,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+28,2,action,pos,action,pos,True,action
+28,3,violent,pos,violent,pos,True,violent
+28,4,martial arts,pos,martial arts,pos,True,martial arts
+28,5,crime,pos,crime,pos,True,crime
+4245,1,romance,pos,romance,pos,True,romance
+4245,2,tom hanks,pos,tom hanks,pos,True,tom hanks
+4245,3,remake,pos,remake,pos,True,remake
+4245,4,chick flick,pos,chick flick,pos,True,chick flick
+4245,5,boring,pos,boring,pos,True,boring
+5375,1,twist ending,pos,twist ending,pos,True,twist ending
+5375,2,ghosts,pos,ghosts,pos,True,ghosts
+5375,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+5375,4,serial killer,neg,serial killer,neg,True,serial killer
+5375,5,action,neg,action,neg,True,action
+5523,1,mafia,pos,mafia,pos,True,mafia
+5523,2,classic,pos,classic,pos,True,classic
+5523,3,organized crime,pos,organized crime,pos,True,organized crime
+5523,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+5523,5,new york city,pos,new york city,pos,True,new york city
+6087,1,drama,pos,drama,pos,True,drama
+6087,2,chick flick,pos,chick flick,pos,True,chick flick
+6087,3,ghosts,pos,ghosts,pos,True,ghosts
+6087,4,girlie movie,pos,girlie movie,pos,True,girlie movie
+6087,5,classic,neg,classic,neg,True,classic
+6953,1,mafia,pos,mafia,pos,True,mafia
+6953,2,classic,pos,classic,pos,True,classic
+6953,3,organized crime,pos,organized crime,pos,True,organized crime
+6953,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+6953,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+6298,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+6298,2,space,pos,space,pos,True,space
+6298,3,time travel,neg,time travel,neg,True,time travel
+6298,4,prison,neg,prison,neg,True,prison
+6298,5,harrison ford,pos,harrison ford,pos,True,harrison ford
+3727,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+3727,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+3727,3,space,pos,space,pos,True,space
+3727,4,action,pos,action,pos,True,action
+3727,5,fantasy,pos,fantasy,pos,True,fantasy
+7443,1,serial killer,pos,serial killer,pos,True,serial killer
+7443,2,crime,pos,crime,pos,True,crime
+7443,3,brad pitt,pos,brad pitt,pos,True,brad pitt
+7443,4,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+7443,5,drugs,neg,drugs,neg,True,drugs
+7191,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7191,2,prison,neg,prison,neg,True,prison
+7191,3,classic,neg,classic,neg,True,classic
+7191,4,true story,pos,true story,pos,True,true story
+7191,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+6623,1,action,pos,action,pos,True,action
+6623,2,holocaust,neg,holocaust,neg,True,holocaust
+6623,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+6623,4,mel gibson,neg,mel gibson,neg,True,mel gibson
+6623,5,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+482,1,war,pos,war,pos,True,war
+482,2,historical,pos,historical,pos,True,historical
+482,3,action,pos,action,pos,True,action
+482,4,england,pos,england,pos,True,england
+482,5,james bond,neg,james bond,neg,True,james bond
+6645,1,parody,pos,parody,pos,True,parody
+6645,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+6645,3,stupid,pos,stupid,pos,True,stupid
+6645,4,hilarious,pos,hilarious,pos,True,hilarious
+6645,5,action,neg,action,neg,True,action
+3714,1,space,pos,space,pos,True,space
+3714,2,anime,neg,anime,neg,True,anime
+3714,3,aliens,pos,aliens,pos,True,aliens
+3714,4,classic,pos,classic,pos,True,classic
+3714,5,serial killer,neg,serial killer,neg,True,serial killer
+1009,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+1009,2,true story,pos,true story,pos,True,true story
+1009,3,drama,pos,drama,pos,True,drama
+1009,4,biography,pos,biography,pos,True,biography
+1009,5,jude law,pos,jude law,pos,True,jude law
+4580,1,tom cruise,pos,tom cruise,pos,True,tom cruise
+4580,2,fantasy,neg,fantasy,neg,True,fantasy
+4580,3,james bond,neg,james bond,neg,True,james bond
+4580,4,death,pos,death,pos,True,death
+4580,5,drugs,pos,drugs,pos,True,drugs
+3080,1,mafia,pos,mafia,pos,True,mafia
+3080,2,classic,pos,classic,pos,True,classic
+3080,3,organized crime,pos,organized crime,pos,True,organized crime
+3080,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3080,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+877,1,quirky,pos,quirky,pos,True,quirky
+877,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+877,3,crime,pos,crime,pos,True,crime
+877,4,black comedy,pos,black comedy,pos,True,black comedy
+877,5,murder,pos,murder,pos,True,murder
+2295,1,animation,pos,animation,pos,True,animation
+2295,2,disney,pos,disney,pos,True,disney
+2295,3,dvd,pos,dvd,pos,True,dvd
+2295,4,twist ending,neg,twist ending,neg,True,twist ending
+2295,5,boring,pos,boring,pos,True,boring
+2322,1,post apocalyptic,pos,post apocalyptic,pos,True,post apocalyptic
+2322,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+2322,3,comedy,pos,comedy,pos,True,comedy
+2322,4,violence,neg,violence,neg,True,violence
+2322,5,surreal,neg,surreal,neg,True,surreal
+1467,1,brad pitt,pos,brad pitt,pos,True,brad pitt
+1467,2,crime,pos,crime,pos,True,crime
+1467,3,hilarious,pos,hilarious,pos,True,hilarious
+1467,4,comedy,pos,comedy,pos,True,comedy
+1467,5,time travel,neg,time travel,neg,True,time travel
+1128,1,aliens,pos,aliens,pos,True,aliens
+1128,2,anime,neg,anime,neg,True,anime
+1128,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1128,4,conspiracy,pos,conspiracy,pos,True,conspiracy
+1128,5,los angeles,pos,los angeles,pos,True,los angeles
+1212,1,ghosts,pos,ghosts,pos,True,ghosts
+1212,2,action,pos,action,pos,True,action
+1212,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1212,4,aliens,neg,aliens,neg,True,aliens
+1212,5,fantasy,pos,fantasy,pos,True,fantasy
+5587,1,aliens,pos,aliens,pos,True,aliens
+5587,2,satire,pos,satire,pos,True,satire
+5587,3,space,pos,space,pos,True,space
+5587,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+5587,5,serial killer,neg,serial killer,neg,True,serial killer
+2686,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+2686,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+2686,3,post apocalyptic,pos,post apocalyptic,pos,True,post apocalyptic
+2686,4,dark comedy,pos,dark comedy,pos,True,dark comedy
+2686,5,comedy,pos,comedy,pos,True,comedy
+6157,1,classic,neg,classic,neg,True,classic
+6157,2,tom cruise,pos,tom cruise,pos,True,tom cruise
+6157,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+6157,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+6157,5,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+1701,1,time travel,pos,time travel,pos,True,time travel
+1701,2,sci-fi,pos,sci-fi,pos,True,sci-fi
+1701,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+1701,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+1701,5,violent,pos,violent,pos,True,violent
+861,1,funny,pos,funny,pos,True,funny
+861,2,comedy,pos,comedy,pos,True,comedy
+861,3,romance,pos,romance,pos,True,romance
+861,4,drama,pos,drama,pos,True,drama
+861,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+3893,1,espionage,pos,espionage,pos,True,espionage
+3893,2,matt damon,pos,matt damon,pos,True,matt damon
+3893,3,memory,pos,memory,pos,True,memory
+3893,4,boring,pos,boring,pos,True,boring
+3893,5,holocaust,neg,holocaust,neg,True,holocaust
+784,1,classic,pos,classic,pos,True,classic
+784,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+784,3,quirky,pos,quirky,pos,True,quirky
+784,4,dystopia,neg,dystopia,neg,True,dystopia
+784,5,music,pos,music,pos,True,music
+4584,1,fantasy,pos,fantasy,pos,True,fantasy
+4584,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4584,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+4584,4,sequel,pos,sequel,pos,True,sequel
+4584,5,adventure,pos,adventure,pos,True,adventure
+1504,1,surreal,pos,surreal,pos,True,surreal
+1504,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+1504,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+1504,4,time travel,neg,time travel,neg,True,time travel
+1504,5,serial killer,neg,serial killer,neg,True,serial killer
+2829,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+2829,2,biography,pos,biography,pos,True,biography
+2829,3,classic,pos,classic,pos,True,classic
+2829,4,war,pos,war,pos,True,war
+2829,5,dvd,pos,dvd,pos,True,dvd
+1421,1,classic,pos,classic,pos,True,classic
+1421,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1421,3,world war ii,pos,world war ii,pos,True,world war ii
+1421,4,nazis,pos,nazis,pos,True,nazis
+1421,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+6292,1,fantasy,pos,fantasy,pos,True,fantasy
+6292,2,dvd,pos,dvd,pos,True,dvd
+6292,3,magic,pos,magic,pos,True,magic
+6292,4,overrated,pos,overrated,pos,True,overrated
+6292,5,action,pos,action,pos,True,action
+3013,1,drugs,pos,drugs,pos,True,drugs
+3013,2,violence,pos,violence,pos,True,violence
+3013,3,based on a book,pos,based on a book,pos,True,based on a book
+3013,4,crime,pos,crime,pos,True,crime
+3013,5,black comedy,pos,black comedy,pos,True,black comedy
+7714,1,surreal,pos,surreal,pos,True,surreal
+7714,2,jim carrey,pos,jim carrey,pos,True,jim carrey
+7714,3,memory,pos,memory,pos,True,memory
+7714,4,quirky,pos,quirky,pos,True,quirky
+7714,5,love,pos,love,pos,True,love
+7199,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+7199,2,remake,pos,remake,pos,True,remake
+7199,3,children,pos,children,pos,True,children
+7199,4,comic book,neg,comic book,neg,True,comic book
+7199,5,fantasy,pos,fantasy,pos,True,fantasy
+5425,1,fantasy,neg,fantasy,neg,True,fantasy
+5425,2,suicide,pos,suicide,pos,True,suicide
+5425,3,depressing,pos,depressing,pos,True,depressing
+5425,4,nicolas cage,pos,nicolas cage,pos,True,nicolas cage
+5425,5,dark,pos,dark,pos,True,dark
+6160,1,time travel,pos,time travel,pos,True,time travel
+6160,2,aliens,neg,aliens,neg,True,aliens
+6160,3,martial arts,neg,martial arts,neg,True,martial arts
+6160,4,sequel,pos,sequel,pos,True,sequel
+6160,5,tom hanks,neg,tom hanks,neg,True,tom hanks
+2277,1,hitchcock,pos,hitchcock,pos,True,hitchcock
+2277,2,classic,pos,classic,pos,True,classic
+2277,3,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+2277,4,mystery,pos,mystery,pos,True,mystery
+2277,5,prison,neg,prison,neg,True,prison
+1968,1,robots,pos,robots,pos,True,robots
+1968,2,super-hero,neg,super-hero,neg,True,super-hero
+1968,3,funny,pos,funny,pos,True,funny
+1968,4,comic book,neg,comic book,neg,True,comic book
+1968,5,time travel,neg,time travel,neg,True,time travel
+3813,1,hilarious,pos,hilarious,pos,True,hilarious
+3813,2,fantasy,neg,fantasy,neg,True,fantasy
+3813,3,parody,pos,parody,pos,True,parody
+3813,4,fun,pos,fun,pos,True,fun
+3813,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+173,1,religion,pos,religion,pos,True,religion
+173,2,hilarious,pos,hilarious,pos,True,hilarious
+173,3,funny,pos,funny,pos,True,funny
+173,4,parody,pos,parody,pos,True,parody
+173,5,comedy,pos,comedy,pos,True,comedy
+1642,1,classic,pos,classic,pos,True,classic
+1642,2,tom hanks,neg,tom hanks,neg,True,tom hanks
+1642,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1642,4,harrison ford,neg,harrison ford,neg,True,harrison ford
+1642,5,alfred hitchcock,neg,alfred hitchcock,neg,True,alfred hitchcock
+5772,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+5772,2,space,pos,space,pos,True,space
+5772,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+5772,4,classic,pos,classic,pos,True,classic
+5772,5,action,pos,action,pos,True,action
+5356,1,heist,pos,heist,pos,True,heist
+5356,2,crime,pos,crime,pos,True,crime
+5356,3,brad pitt,pos,brad pitt,pos,True,brad pitt
+5356,4,matt damon,pos,matt damon,pos,True,matt damon
+5356,5,twist ending,neg,twist ending,neg,True,twist ending
+1472,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+1472,2,new york,pos,new york,pos,True,new york
+1472,3,classic,neg,classic,neg,True,classic
+1472,4,children,pos,children,pos,True,children
+1472,5,new york city,pos,new york city,pos,True,new york city
+7887,1,france,pos,france,pos,True,france
+7887,2,history,pos,history,pos,True,history
+7887,3,johnny depp,pos,johnny depp,pos,True,johnny depp
+7887,4,magic,pos,magic,pos,True,magic
+7887,5,remake,pos,remake,pos,True,remake
+5021,1,serial killer,pos,serial killer,pos,True,serial killer
+5021,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+5021,3,crime,pos,crime,pos,True,crime
+5021,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+5021,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+5749,1,super-hero,pos,super-hero,pos,True,super-hero
+5749,2,comic book,pos,comic book,pos,True,comic book
+5749,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+5749,4,marvel,pos,marvel,pos,True,marvel
+5749,5,dvd,pos,dvd,pos,True,dvd
+530,1,twist ending,pos,twist ending,pos,True,twist ending
+530,2,suspense,pos,suspense,pos,True,suspense
+530,3,organized crime,pos,organized crime,pos,True,organized crime
+530,4,crime,pos,crime,pos,True,crime
+530,5,time travel,neg,time travel,neg,True,time travel
+2586,1,serial killer,pos,serial killer,pos,True,serial killer
+2586,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+2586,3,crime,pos,crime,pos,True,crime
+2586,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+2586,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+164,1,anime,pos,anime,pos,True,anime
+164,2,adventure,pos,adventure,pos,True,adventure
+164,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+164,4,robots,pos,robots,pos,True,robots
+164,5,great soundtrack,pos,great soundtrack,pos,True,great soundtrack
+1166,1,cult film,pos,cult film,pos,True,cult film
+1166,2,aliens,pos,aliens,pos,True,aliens
+1166,3,musical,pos,musical,pos,True,musical
+1166,4,murder,pos,murder,pos,True,murder
+1166,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+3198,1,time travel,pos,time travel,pos,True,time travel
+3198,2,brad pitt,pos,brad pitt,pos,True,brad pitt
+3198,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+3198,4,dystopia,pos,dystopia,pos,True,dystopia
+3198,5,post apocalyptic,pos,post apocalyptic,pos,True,post apocalyptic
+1455,1,chick flick,pos,chick flick,pos,True,chick flick
+1455,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+1455,3,cute,pos,cute,pos,True,cute
+1455,4,classic,pos,classic,pos,True,classic
+1455,5,disney,neg,disney,neg,True,disney
+6095,1,war,pos,war,pos,True,war
+6095,2,classic,neg,classic,neg,True,classic
+6095,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+6095,4,prison,neg,prison,neg,True,prison
+6095,5,tom hanks,neg,tom hanks,neg,True,tom hanks
+7971,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+7971,2,space,pos,space,pos,True,space
+7971,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+7971,4,fantasy,pos,fantasy,pos,True,fantasy
+7971,5,sequel,pos,sequel,pos,True,sequel
+2188,1,action,pos,action,pos,True,action
+2188,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+2188,3,love,pos,love,pos,True,love
+2188,4,chick flick,pos,chick flick,pos,True,chick flick
+2188,5,predictable,pos,predictable,pos,True,predictable
+2522,1,aliens,pos,aliens,pos,True,aliens
+2522,2,mel gibson,pos,mel gibson,pos,True,mel gibson
+2522,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+2522,4,animation,neg,animation,neg,True,animation
+2522,5,time travel,neg,time travel,neg,True,time travel
+4123,1,classic,pos,classic,pos,True,classic
+4123,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4123,3,disney,neg,disney,neg,True,disney
+4123,4,based on a book,pos,based on a book,pos,True,based on a book
+4123,5,surreal,neg,surreal,neg,True,surreal
+6492,1,nonlinear,pos,nonlinear,pos,True,nonlinear
+6492,2,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+6492,3,organized crime,pos,organized crime,pos,True,organized crime
+6492,4,dark comedy,pos,dark comedy,pos,True,dark comedy
+6492,5,comedy,pos,comedy,pos,True,comedy
+6095,1,world war ii,pos,world war ii,pos,True,world war ii
+6095,2,war,pos,war,pos,True,war
+6095,3,classic,pos,classic,pos,True,classic
+6095,4,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+6095,5,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4523,1,drugs,neg,drugs,neg,True,drugs
+4523,2,depressing,pos,depressing,pos,True,depressing
+4523,3,nicolas cage,pos,nicolas cage,pos,True,nicolas cage
+4523,4,suicide,pos,suicide,pos,True,suicide
+4523,5,dark,pos,dark,pos,True,dark
+891,1,baseball,pos,baseball,pos,True,baseball
+891,2,sports,pos,sports,pos,True,sports
+891,3,drama,pos,drama,pos,True,drama
+891,4,fantasy,pos,fantasy,pos,True,fantasy
+891,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+5486,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+5486,2,prison,neg,prison,neg,True,prison
+5486,3,true story,pos,true story,pos,True,true story
+5486,4,holocaust,neg,holocaust,neg,True,holocaust
+5486,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+5785,1,drugs,pos,drugs,pos,True,drugs
+5785,2,british,pos,british,pos,True,british
+5785,3,organized crime,pos,organized crime,pos,True,organized crime
+5785,4,violence,pos,violence,pos,True,violence
+5785,5,crime,pos,crime,pos,True,crime
+2843,1,magic,pos,magic,pos,True,magic
+2843,2,super-hero,neg,super-hero,neg,True,super-hero
+2843,3,johnny depp,neg,johnny depp,neg,True,johnny depp
+2843,4,comic book,neg,comic book,neg,True,comic book
+2843,5,predictable,pos,predictable,pos,True,predictable
+7969,1,classic,pos,classic,pos,True,classic
+7969,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7969,3,film noir,pos,film noir,pos,True,film noir
+7969,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+7969,5,world war ii,pos,world war ii,pos,True,world war ii
+6115,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+6115,2,crime,pos,crime,pos,True,crime
+6115,3,true story,pos,true story,pos,True,true story
+6115,4,great movie,pos,great movie,pos,True,great movie
+6115,5,comic book,neg,comic book,neg,True,comic book
+515,1,martial arts,pos,martial arts,pos,True,martial arts
+515,2,overrated,pos,overrated,pos,True,overrated
+515,3,murder,pos,murder,pos,True,murder
+515,4,action,pos,action,pos,True,action
+515,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+4740,1,nonlinear,pos,nonlinear,pos,True,nonlinear
+4740,2,memory,pos,memory,pos,True,memory
+4740,3,mystery,pos,mystery,pos,True,mystery
+4740,4,twist ending,pos,twist ending,pos,True,twist ending
+4740,5,death,pos,death,pos,True,death
+725,1,space,pos,space,pos,True,space
+725,2,aliens,pos,aliens,pos,True,aliens
+725,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+725,4,dvd,pos,dvd,pos,True,dvd
+725,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+7633,1,007,pos,007,pos,True,007
+7633,2,bond,pos,bond,pos,True,bond
+7633,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+7633,4,terrorism,pos,terrorism,pos,True,terrorism
+7633,5,james bond,pos,james bond,pos,True,james bond
+7092,1,revenge,pos,revenge,pos,True,revenge
+7092,2,action,neg,action,neg,True,action
+7092,3,fantasy,pos,fantasy,pos,True,fantasy
+7092,4,funny,pos,funny,pos,True,funny
+7092,5,quirky,pos,quirky,pos,True,quirky
+4460,1,serial killer,pos,serial killer,pos,True,serial killer
+4460,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+4460,3,crime,pos,crime,pos,True,crime
+4460,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4460,5,classic,neg,classic,neg,True,classic
+2416,1,dystopia,pos,dystopia,pos,True,dystopia
+2416,2,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+2416,3,action,neg,action,neg,True,action
+2416,4,disturbing,pos,disturbing,pos,True,disturbing
+2416,5,quirky,pos,quirky,pos,True,quirky
+2988,1,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+2988,2,thriller,pos,thriller,pos,True,thriller
+2988,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+2988,4,action,pos,action,pos,True,action
+2988,5,dvd,neg,dvd,neg,True,dvd
+3545,1,london,pos,london,pos,True,london
+3545,2,sports,pos,sports,pos,True,sports
+3545,3,england,pos,england,pos,True,england
+3545,4,great movie,pos,great movie,pos,True,great movie
+3545,5,magic,neg,magic,neg,True,magic
+6135,1,classic,pos,classic,pos,True,classic
+6135,2,fantasy,pos,fantasy,pos,True,fantasy
+6135,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+6135,4,seen more than once,neg,seen more than once,neg,True,seen more than once
+6135,5,dystopia,neg,dystopia,neg,True,dystopia
+1915,1,space,pos,space,pos,True,space
+1915,2,aliens,pos,aliens,pos,True,aliens
+1915,3,dvd,pos,dvd,pos,True,dvd
+1915,4,classic,pos,classic,pos,True,classic
+1915,5,harrison ford,neg,harrison ford,neg,True,harrison ford
+7193,1,fairy tale,pos,fairy tale,pos,True,fairy tale
+7193,2,animation,pos,animation,pos,True,animation
+7193,3,crime,neg,crime,neg,True,crime
+7193,4,classic,neg,classic,neg,True,classic
+7193,5,serial killer,neg,serial killer,neg,True,serial killer
+2496,1,dystopia,pos,dystopia,pos,True,dystopia
+2496,2,fantasy,pos,fantasy,pos,True,fantasy
+2496,3,aliens,pos,aliens,pos,True,aliens
+2496,4,sci-fi,pos,sci-fi,pos,True,sci-fi
+2496,5,surreal,pos,surreal,pos,True,surreal
+4403,1,drugs,pos,drugs,pos,True,drugs
+4403,2,crime,pos,crime,pos,True,crime
+4403,3,based on a book,pos,based on a book,pos,True,based on a book
+4403,4,violence,pos,violence,pos,True,violence
+4403,5,time travel,neg,time travel,neg,True,time travel
+227,1,comic book,pos,comic book,pos,True,comic book
+227,2,bruce willis,pos,bruce willis,pos,True,bruce willis
+227,3,action,pos,action,pos,True,action
+227,4,dvd,pos,dvd,pos,True,dvd
+227,5,murder,pos,murder,pos,True,murder
+869,1,drama,pos,drama,pos,True,drama
+869,2,psychology,pos,psychology,pos,True,psychology
+869,3,politics,pos,politics,pos,True,politics
+869,4,twist ending,pos,twist ending,pos,True,twist ending
+869,5,crime,pos,crime,pos,True,crime
+5792,1,fantasy,pos,fantasy,pos,True,fantasy
+5792,2,based on a book,pos,based on a book,pos,True,based on a book
+5792,3,overrated,pos,overrated,pos,True,overrated
+5792,4,magic,pos,magic,pos,True,magic
+5792,5,dvd,pos,dvd,pos,True,dvd
+5355,1,twist ending,pos,twist ending,pos,True,twist ending
+5355,2,ghosts,pos,ghosts,pos,True,ghosts
+5355,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+5355,4,psychology,pos,psychology,pos,True,psychology
+5355,5,suspense,pos,suspense,pos,True,suspense
+1960,1,bruce willis,pos,bruce willis,pos,True,bruce willis
+1960,2,action,pos,action,pos,True,action
+1960,3,thriller,pos,thriller,pos,True,thriller
+1960,4,terrorism,pos,terrorism,pos,True,terrorism
+1960,5,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+1908,1,animation,pos,animation,pos,True,animation
+1908,2,disney,pos,disney,pos,True,disney
+1908,3,comedy,pos,comedy,pos,True,comedy
+1908,4,children,pos,children,pos,True,children
+1908,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+2052,1,classic,pos,classic,pos,True,classic
+2052,2,twist ending,neg,twist ending,neg,True,twist ending
+2052,3,based on a book,pos,based on a book,pos,True,based on a book
+2052,4,ghosts,neg,ghosts,neg,True,ghosts
+2052,5,musical,pos,musical,pos,True,musical
+7797,1,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+7797,2,nonlinear,pos,nonlinear,pos,True,nonlinear
+7797,3,comedy,pos,comedy,pos,True,comedy
+7797,4,dark comedy,pos,dark comedy,pos,True,dark comedy
+7797,5,prison,neg,prison,neg,True,prison
+6554,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+6554,2,mafia,pos,mafia,pos,True,mafia
+6554,3,holocaust,neg,holocaust,neg,True,holocaust
+6554,4,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+6554,5,comic book,neg,comic book,neg,True,comic book
+4442,1,animation,pos,animation,pos,True,animation
+4442,2,disney,pos,disney,pos,True,disney
+4442,3,children,pos,children,pos,True,children
+4442,4,comedy,pos,comedy,pos,True,comedy
+4442,5,time travel,neg,time travel,neg,True,time travel
+1611,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+1611,2,crime,pos,crime,pos,True,crime
+1611,3,true story,pos,true story,pos,True,true story
+1611,4,serial killer,neg,serial killer,neg,True,serial killer
+1611,5,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+5597,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+5597,2,romance,pos,romance,pos,True,romance
+5597,3,magic,neg,magic,neg,True,magic
+5597,4,new york city,pos,new york city,pos,True,new york city
+5597,5,chick flick,pos,chick flick,pos,True,chick flick
+155,1,zombies,pos,zombies,pos,True,zombies
+155,2,horror,pos,horror,pos,True,horror
+155,3,action,pos,action,pos,True,action
+155,4,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+155,5,comedy,pos,comedy,pos,True,comedy
+5369,1,nonlinear,pos,nonlinear,pos,True,nonlinear
+5369,2,memory,pos,memory,pos,True,memory
+5369,3,mystery,pos,mystery,pos,True,mystery
+5369,4,drugs,neg,drugs,neg,True,drugs
+5369,5,twist ending,pos,twist ending,pos,True,twist ending
+2142,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+2142,2,beautiful,pos,beautiful,pos,True,beautiful
+2142,3,serial killer,neg,serial killer,neg,True,serial killer
+2142,4,boxing,pos,boxing,pos,True,boxing
+2142,5,world war ii,neg,world war ii,neg,True,world war ii
+4278,1,twist ending,pos,twist ending,pos,True,twist ending
+4278,2,suspense,pos,suspense,pos,True,suspense
+4278,3,organized crime,pos,organized crime,pos,True,organized crime
+4278,4,conspiracy,pos,conspiracy,pos,True,conspiracy
+4278,5,crime,pos,crime,pos,True,crime
+1733,1,japan,pos,japan,pos,True,japan
+1733,2,classic,pos,classic,pos,True,classic
+1733,3,anime,neg,anime,neg,True,anime
+1733,4,historical,pos,historical,pos,True,historical
+1733,5,action,pos,action,pos,True,action
+302,1,racism,pos,racism,pos,True,racism
+302,2,prison,pos,prison,pos,True,prison
+302,3,violence,pos,violence,pos,True,violence
+302,4,nazis,pos,nazis,pos,True,nazis
+302,5,disturbing,pos,disturbing,pos,True,disturbing
+3879,1,action,pos,action,pos,True,action
+3879,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+3879,3,police,pos,police,pos,True,police
+3879,4,sequel,pos,sequel,pos,True,sequel
+3879,5,space,neg,space,neg,True,space
+7604,1,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+7604,2,hitchcock,pos,hitchcock,pos,True,hitchcock
+7604,3,horror,pos,horror,pos,True,horror
+7604,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+7604,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+1162,1,fairy tale,pos,fairy tale,pos,True,fairy tale
+1162,2,animation,pos,animation,pos,True,animation
+1162,3,disney,pos,disney,pos,True,disney
+1162,4,funny,pos,funny,pos,True,funny
+1162,5,007,neg,007,neg,True,007
+1688,1,vampires,pos,vampires,pos,True,vampires
+1688,2,vampire,pos,vampire,pos,True,vampire
+1688,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+1688,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+1688,5,dvd,pos,dvd,pos,True,dvd
+2791,1,world war ii,pos,world war ii,pos,True,world war ii
+2791,2,historical,pos,historical,pos,True,historical
+2791,3,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+2791,4,true story,pos,true story,pos,True,true story
+2791,5,steven spielberg,neg,steven spielberg,neg,True,steven spielberg
+4949,1,terrorism,pos,terrorism,pos,True,terrorism
+4949,2,politics,pos,politics,pos,True,politics
+4949,3,documentary,pos,documentary,pos,True,documentary
+4949,4,conspiracy,pos,conspiracy,pos,True,conspiracy
+4949,5,drugs,neg,drugs,neg,True,drugs
+790,1,comic book,pos,comic book,pos,True,comic book
+790,2,super-hero,pos,super-hero,pos,True,super-hero
+790,3,dvd,pos,dvd,pos,True,dvd
+790,4,marvel,pos,marvel,pos,True,marvel
+790,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+2420,1,classic,pos,classic,pos,True,classic
+2420,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+2420,3,hitchcock,neg,hitchcock,neg,True,hitchcock
+2420,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+2420,5,alfred hitchcock,neg,alfred hitchcock,neg,True,alfred hitchcock
+1111,1,chick flick,pos,chick flick,pos,True,chick flick
+1111,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+1111,3,cute,pos,cute,pos,True,cute
+1111,4,fun,pos,fun,pos,True,fun
+1111,5,classic,pos,classic,pos,True,classic
+1856,1,funny,pos,funny,pos,True,funny
+1856,2,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+1856,3,prison,neg,prison,neg,True,prison
+1856,4,parody,pos,parody,pos,True,parody
+1856,5,action,neg,action,neg,True,action
+6590,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+6590,2,seen more than once,pos,seen more than once,pos,True,seen more than once
+6590,3,classic,neg,classic,neg,True,classic
+6590,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+6590,5,space,neg,space,neg,True,space
+2932,1,comic book,pos,comic book,pos,True,comic book
+2932,2,super-hero,pos,super-hero,pos,True,super-hero
+2932,3,superhero,pos,superhero,pos,True,superhero
+2932,4,fantasy,neg,fantasy,neg,True,fantasy
+2932,5,action,pos,action,pos,True,action
+295,1,aliens,pos,aliens,pos,True,aliens
+295,2,prison,neg,prison,neg,True,prison
+295,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+295,4,classic,pos,classic,pos,True,classic
+295,5,dvd,pos,dvd,pos,True,dvd
+7238,1,vampires,pos,vampires,pos,True,vampires
+7238,2,vampire,pos,vampire,pos,True,vampire
+7238,3,marvel,pos,marvel,pos,True,marvel
+7238,4,super-hero,neg,super-hero,neg,True,super-hero
+7238,5,superhero,neg,superhero,neg,True,superhero
+21,1,surreal,pos,surreal,pos,True,surreal
+21,2,overrated,pos,overrated,pos,True,overrated
+21,3,los angeles,pos,los angeles,pos,True,los angeles
+21,4,nonlinear,pos,nonlinear,pos,True,nonlinear
+21,5,disturbing,pos,disturbing,pos,True,disturbing
+2505,1,drama,pos,drama,pos,True,drama
+2505,2,overrated,pos,overrated,pos,True,overrated
+2505,3,romance,pos,romance,pos,True,romance
+2505,4,time travel,pos,time travel,pos,True,time travel
+2505,5,prison,neg,prison,neg,True,prison
+492,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+492,2,space,pos,space,pos,True,space
+492,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+492,4,classic,pos,classic,pos,True,classic
+492,5,mafia,neg,mafia,neg,True,mafia
+2661,1,action,pos,action,pos,True,action
+2661,2,espionage,pos,espionage,pos,True,espionage
+2661,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+2661,4,family,pos,family,pos,True,family
+2661,5,quirky,pos,quirky,pos,True,quirky
+4645,1,time travel,pos,time travel,pos,True,time travel
+4645,2,surreal,pos,surreal,pos,True,surreal
+4645,3,psychology,pos,psychology,pos,True,psychology
+4645,4,quirky,pos,quirky,pos,True,quirky
+4645,5,action,neg,action,neg,True,action
+4607,1,super-hero,pos,super-hero,pos,True,super-hero
+4607,2,superhero,pos,superhero,pos,True,superhero
+4607,3,comic book,pos,comic book,pos,True,comic book
+4607,4,marvel,pos,marvel,pos,True,marvel
+4607,5,spoof,pos,spoof,pos,True,spoof
+7273,1,superhero,pos,superhero,pos,True,superhero
+7273,2,super-hero,pos,super-hero,pos,True,super-hero
+7273,3,comic book,pos,comic book,pos,True,comic book
+7273,4,space,neg,space,neg,True,space
+7273,5,aliens,pos,aliens,pos,True,aliens
+32,1,dystopia,pos,dystopia,pos,True,dystopia
+32,2,classic,pos,classic,pos,True,classic
+32,3,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+32,4,serial killer,neg,serial killer,neg,True,serial killer
+32,5,prison,pos,prison,pos,True,prison
+4805,1,dystopia,pos,dystopia,pos,True,dystopia
+4805,2,robots,pos,robots,pos,True,robots
+4805,3,anime,neg,anime,neg,True,anime
+4805,4,super-hero,pos,super-hero,pos,True,super-hero
+4805,5,dvd,neg,dvd,neg,True,dvd
+6729,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+6729,2,space,neg,space,neg,True,space
+6729,3,steven spielberg,neg,steven spielberg,neg,True,steven spielberg
+6729,4,comedy,pos,comedy,pos,True,comedy
+6729,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+2075,1,animation,pos,animation,pos,True,animation
+2075,2,disney,pos,disney,pos,True,disney
+2075,3,dvd,pos,dvd,pos,True,dvd
+2075,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+2075,5,boring,pos,boring,pos,True,boring
+6338,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+6338,2,sci-fi,pos,sci-fi,pos,True,sci-fi
+6338,3,space,neg,space,neg,True,space
+6338,4,based on a book,pos,based on a book,pos,True,based on a book
+6338,5,dystopia,pos,dystopia,pos,True,dystopia
+2660,1,surreal,pos,surreal,pos,True,surreal
+2660,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+2660,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+2660,4,time travel,neg,time travel,neg,True,time travel
+2660,5,action,neg,action,neg,True,action
+211,1,action,pos,action,pos,True,action
+211,2,fantasy,neg,fantasy,neg,True,fantasy
+211,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+211,4,super-hero,neg,super-hero,neg,True,super-hero
+211,5,comic book,neg,comic book,neg,True,comic book
+4887,1,religion,pos,religion,pos,True,religion
+4887,2,hilarious,pos,hilarious,pos,True,hilarious
+4887,3,drugs,neg,drugs,neg,True,drugs
+4887,4,funny,pos,funny,pos,True,funny
+4887,5,bruce willis,neg,bruce willis,neg,True,bruce willis
+6536,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+6536,2,organized crime,pos,organized crime,pos,True,organized crime
+6536,3,jude law,pos,jude law,pos,True,jude law
+6536,4,drugs,neg,drugs,neg,True,drugs
+6536,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+1866,1,anime,pos,anime,pos,True,anime
+1866,2,adventure,pos,adventure,pos,True,adventure
+1866,3,vampires,neg,vampires,neg,True,vampires
+1866,4,great soundtrack,pos,great soundtrack,pos,True,great soundtrack
+1866,5,fun,pos,fun,pos,True,fun
+5586,1,hitchcock,pos,hitchcock,pos,True,hitchcock
+5586,2,classic,pos,classic,pos,True,classic
+5586,3,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+5586,4,thriller,pos,thriller,pos,True,thriller
+5586,5,mel gibson,neg,mel gibson,neg,True,mel gibson
+1041,1,quirky,pos,quirky,pos,True,quirky
+1041,2,hilarious,pos,hilarious,pos,True,hilarious
+1041,3,family,pos,family,pos,True,family
+1041,4,drugs,pos,drugs,pos,True,drugs
+1041,5,cute,pos,cute,pos,True,cute
+6298,1,super-hero,pos,super-hero,pos,True,super-hero
+6298,2,nonlinear,neg,nonlinear,neg,True,nonlinear
+6298,3,fantasy,neg,fantasy,neg,True,fantasy
+6298,4,adventure,neg,adventure,neg,True,adventure
+6298,5,johnny depp,neg,johnny depp,neg,True,johnny depp
+3232,1,prison,pos,prison,pos,True,prison
+3232,2,classic,pos,classic,pos,True,classic
+3232,3,stephen king,pos,stephen king,pos,True,stephen king
+3232,4,based on a book,pos,based on a book,pos,True,based on a book
+3232,5,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+2788,1,zombies,pos,zombies,pos,True,zombies
+2788,2,horror,pos,horror,pos,True,horror
+2788,3,comedy,pos,comedy,pos,True,comedy
+2788,4,cult film,pos,cult film,pos,True,cult film
+2788,5,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+2549,1,jim carrey,pos,jim carrey,pos,True,jim carrey
+2549,2,religion,pos,religion,pos,True,religion
+2549,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+2549,4,classic,pos,classic,pos,True,classic
+2549,5,tom hanks,neg,tom hanks,neg,True,tom hanks
+4189,1,surreal,pos,surreal,pos,True,surreal
+4189,2,jim carrey,pos,jim carrey,pos,True,jim carrey
+4189,3,memory,pos,memory,pos,True,memory
+4189,4,love,pos,love,pos,True,love
+4189,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+5869,1,surreal,pos,surreal,pos,True,surreal
+5869,2,jim carrey,pos,jim carrey,pos,True,jim carrey
+5869,3,memory,pos,memory,pos,True,memory
+5869,4,love,pos,love,pos,True,love
+5869,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+2053,1,action,pos,action,pos,True,action
+2053,2,aliens,pos,aliens,pos,True,aliens
+2053,3,war,pos,war,pos,True,war
+2053,4,stupid,pos,stupid,pos,True,stupid
+2053,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+69,1,animation,pos,animation,pos,True,animation
+69,2,disney,pos,disney,pos,True,disney
+69,3,dvd,pos,dvd,pos,True,dvd
+69,4,boring,pos,boring,pos,True,boring
+69,5,fantasy,neg,fantasy,neg,True,fantasy
+2866,1,aliens,pos,aliens,pos,True,aliens
+2866,2,anime,neg,anime,neg,True,anime
+2866,3,space,pos,space,pos,True,space
+2866,4,classic,pos,classic,pos,True,classic
+2866,5,harrison ford,neg,harrison ford,neg,True,harrison ford
+1059,1,war,pos,war,pos,True,war
+1059,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1059,3,classic,neg,classic,neg,True,classic
+1059,4,prison,neg,prison,neg,True,prison
+1059,5,action,neg,action,neg,True,action
+4664,1,anime,pos,anime,pos,True,anime
+4664,2,magic,pos,magic,pos,True,magic
+4664,3,holocaust,pos,holocaust,pos,True,holocaust
+4664,4,romance,pos,romance,pos,True,romance
+4664,5,war,pos,war,pos,True,war
+1103,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+1103,2,dystopia,pos,dystopia,pos,True,dystopia
+1103,3,martial arts,pos,martial arts,pos,True,martial arts
+1103,4,dvd,pos,dvd,pos,True,dvd
+1103,5,action,pos,action,pos,True,action
+3163,1,action,pos,action,pos,True,action
+3163,2,bruce willis,neg,bruce willis,neg,True,bruce willis
+3163,3,fantasy,neg,fantasy,neg,True,fantasy
+3163,4,romance,pos,romance,pos,True,romance
+3163,5,johnny depp,neg,johnny depp,neg,True,johnny depp
+3424,1,twist ending,pos,twist ending,pos,True,twist ending
+3424,2,ghosts,pos,ghosts,pos,True,ghosts
+3424,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+3424,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+3424,5,prison,neg,prison,neg,True,prison
+6390,1,satire,pos,satire,pos,True,satire
+6390,2,los angeles,pos,los angeles,pos,True,los angeles
+6390,3,new york city,pos,new york city,pos,True,new york city
+6390,4,new york,pos,new york,pos,True,new york
+6390,5,racism,pos,racism,pos,True,racism
+5788,1,holocaust,pos,holocaust,pos,True,holocaust
+5788,2,world war ii,pos,world war ii,pos,True,world war ii
+5788,3,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+5788,4,true story,pos,true story,pos,True,true story
+5788,5,nazis,pos,nazis,pos,True,nazis
+1484,1,mental illness,pos,mental illness,pos,True,mental illness
+1484,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1484,3,based on a book,pos,based on a book,pos,True,based on a book
+1484,4,great movie,pos,great movie,pos,True,great movie
+1484,5,classic,pos,classic,pos,True,classic
+3683,1,classic,pos,classic,pos,True,classic
+3683,2,racism,pos,racism,pos,True,racism
+3683,3,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+3683,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+3683,5,history,pos,history,pos,True,history
+487,1,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+487,2,boring,pos,boring,pos,True,boring
+487,3,dystopia,pos,dystopia,pos,True,dystopia
+487,4,jude law,pos,jude law,pos,True,jude law
+487,5,robots,pos,robots,pos,True,robots
+4669,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+4669,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4669,3,overrated,pos,overrated,pos,True,overrated
+4669,4,classic,pos,classic,pos,True,classic
+4669,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+7195,1,mel gibson,pos,mel gibson,pos,True,mel gibson
+7195,2,drama,pos,drama,pos,True,drama
+7195,3,epic,pos,epic,pos,True,epic
+7195,4,overrated,pos,overrated,pos,True,overrated
+7195,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+5896,1,time travel,pos,time travel,pos,True,time travel
+5896,2,brad pitt,pos,brad pitt,pos,True,brad pitt
+5896,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+5896,4,dystopia,pos,dystopia,pos,True,dystopia
+5896,5,post apocalyptic,pos,post apocalyptic,pos,True,post apocalyptic
+3622,1,musical,pos,musical,pos,True,musical
+3622,2,murder,pos,murder,pos,True,murder
+3622,3,prison,pos,prison,pos,True,prison
+3622,4,hitchcock,neg,hitchcock,neg,True,hitchcock
+3622,5,fantasy,neg,fantasy,neg,True,fantasy
+2350,1,war,pos,war,pos,True,war
+2350,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+2350,3,world war ii,neg,world war ii,neg,True,world war ii
+2350,4,holocaust,neg,holocaust,neg,True,holocaust
+2350,5,twist ending,neg,twist ending,neg,True,twist ending
+7827,1,comic book,pos,comic book,pos,True,comic book
+7827,2,bruce willis,pos,bruce willis,pos,True,bruce willis
+7827,3,action,pos,action,pos,True,action
+7827,4,drugs,neg,drugs,neg,True,drugs
+7827,5,black comedy,pos,black comedy,pos,True,black comedy
+5416,1,comic book,pos,comic book,pos,True,comic book
+5416,2,super-hero,pos,super-hero,pos,True,super-hero
+5416,3,superhero,pos,superhero,pos,True,superhero
+5416,4,action,pos,action,pos,True,action
+5416,5,crime,pos,crime,pos,True,crime
+2910,1,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+2910,2,gay,pos,gay,pos,True,gay
+2910,3,tom hanks,pos,tom hanks,pos,True,tom hanks
+2910,4,overrated,pos,overrated,pos,True,overrated
+2910,5,drugs,neg,drugs,neg,True,drugs
+5377,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+5377,2,adventure,pos,adventure,pos,True,adventure
+5377,3,action,pos,action,pos,True,action
+5377,4,suspense,pos,suspense,pos,True,suspense
+5377,5,serial killer,neg,serial killer,neg,True,serial killer
+471,1,magic,pos,magic,pos,True,magic
+471,2,time travel,pos,time travel,pos,True,time travel
+471,3,dvd,pos,dvd,pos,True,dvd
+471,4,fantasy,pos,fantasy,pos,True,fantasy
+471,5,based on a book,pos,based on a book,pos,True,based on a book
+1161,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+1161,2,based on a book,pos,based on a book,pos,True,based on a book
+1161,3,anime,neg,anime,neg,True,anime
+1161,4,nonlinear,neg,nonlinear,neg,True,nonlinear
+1161,5,classic,pos,classic,pos,True,classic
+3298,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+3298,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+3298,3,nazis,pos,nazis,pos,True,nazis
+3298,4,comic book,neg,comic book,neg,True,comic book
+3298,5,sean connery,pos,sean connery,pos,True,sean connery
+2325,1,christmas,pos,christmas,pos,True,christmas
+2325,2,classic,pos,classic,pos,True,classic
+2325,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+2325,4,world war ii,pos,world war ii,pos,True,world war ii
+2325,5,sports,neg,sports,neg,True,sports
+3064,1,vampires,pos,vampires,pos,True,vampires
+3064,2,vampire,pos,vampire,pos,True,vampire
+3064,3,marvel,pos,marvel,pos,True,marvel
+3064,4,comic book,pos,comic book,pos,True,comic book
+3064,5,dvd,pos,dvd,pos,True,dvd
+1176,1,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+1176,2,gay,pos,gay,pos,True,gay
+1176,3,tom hanks,pos,tom hanks,pos,True,tom hanks
+1176,4,overrated,pos,overrated,pos,True,overrated
+1176,5,death,pos,death,pos,True,death
+2368,1,racism,pos,racism,pos,True,racism
+2368,2,prison,pos,prison,pos,True,prison
+2368,3,violence,pos,violence,pos,True,violence
+2368,4,classic,neg,classic,neg,True,classic
+2368,5,nazis,pos,nazis,pos,True,nazis
+2512,1,stephen king,pos,stephen king,pos,True,stephen king
+2512,2,classic,pos,classic,pos,True,classic
+2512,3,ghosts,pos,ghosts,pos,True,ghosts
+2512,4,hitchcock,neg,hitchcock,neg,True,hitchcock
+2512,5,serial killer,neg,serial killer,neg,True,serial killer
+5664,1,chick flick,pos,chick flick,pos,True,chick flick
+5664,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+5664,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+5664,4,fun,pos,fun,pos,True,fun
+5664,5,animation,neg,animation,neg,True,animation
+1514,1,action,pos,action,pos,True,action
+1514,2,drugs,neg,drugs,neg,True,drugs
+1514,3,racism,neg,racism,neg,True,racism
+1514,4,super-hero,neg,super-hero,neg,True,super-hero
+1514,5,holocaust,neg,holocaust,neg,True,holocaust
+6248,1,magic,pos,magic,pos,True,magic
+6248,2,fantasy,pos,fantasy,pos,True,fantasy
+6248,3,sequel,pos,sequel,pos,True,sequel
+6248,4,adventure,pos,adventure,pos,True,adventure
+6248,5,action,pos,action,pos,True,action
+2788,1,time travel,pos,time travel,pos,True,time travel
+2788,2,sci-fi,pos,sci-fi,pos,True,sci-fi
+2788,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+2788,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+2788,5,action,pos,action,pos,True,action
+1376,1,quirky,pos,quirky,pos,True,quirky
+1376,2,fantasy,pos,fantasy,pos,True,fantasy
+1376,3,revenge,pos,revenge,pos,True,revenge
+1376,4,funny,pos,funny,pos,True,funny
+1376,5,anime,neg,anime,neg,True,anime
+1458,1,mafia,pos,mafia,pos,True,mafia
+1458,2,classic,pos,classic,pos,True,classic
+1458,3,organized crime,pos,organized crime,pos,True,organized crime
+1458,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1458,5,family,pos,family,pos,True,family
+549,1,time travel,pos,time travel,pos,True,time travel
+549,2,adventure,pos,adventure,pos,True,adventure
+549,3,prison,neg,prison,neg,True,prison
+549,4,aliens,neg,aliens,neg,True,aliens
+549,5,comedy,pos,comedy,pos,True,comedy
+6492,1,quirky,pos,quirky,pos,True,quirky
+6492,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+6492,3,crime,pos,crime,pos,True,crime
+6492,4,black comedy,pos,black comedy,pos,True,black comedy
+6492,5,murder,pos,murder,pos,True,murder
+1960,1,surreal,pos,surreal,pos,True,surreal
+1960,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+1960,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+1960,4,fantasy,pos,fantasy,pos,True,fantasy
+1960,5,anime,neg,anime,neg,True,anime
+6486,1,revenge,pos,revenge,pos,True,revenge
+6486,2,fantasy,pos,fantasy,pos,True,fantasy
+6486,3,quirky,pos,quirky,pos,True,quirky
+6486,4,funny,pos,funny,pos,True,funny
+6486,5,time travel,neg,time travel,neg,True,time travel
+5835,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+5835,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+5835,3,action,pos,action,pos,True,action
+5835,4,space,pos,space,pos,True,space
+5835,5,prison,neg,prison,neg,True,prison
+2541,1,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+2541,2,hitchcock,pos,hitchcock,pos,True,hitchcock
+2541,3,classic,pos,classic,pos,True,classic
+2541,4,horror,pos,horror,pos,True,horror
+2541,5,twist ending,neg,twist ending,neg,True,twist ending
+2308,1,musical,pos,musical,pos,True,musical
+2308,2,murder,pos,murder,pos,True,murder
+2308,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+2308,4,magic,neg,magic,neg,True,magic
+2308,5,prison,pos,prison,pos,True,prison
+3995,1,fantasy,pos,fantasy,pos,True,fantasy
+3995,2,funny,pos,funny,pos,True,funny
+3995,3,time travel,neg,time travel,neg,True,time travel
+3995,4,quirky,pos,quirky,pos,True,quirky
+3995,5,revenge,pos,revenge,pos,True,revenge
+7079,1,world war ii,pos,world war ii,pos,True,world war ii
+7079,2,war,pos,war,pos,True,war
+7079,3,classic,pos,classic,pos,True,classic
+7079,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7079,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+1417,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+1417,2,action,pos,action,pos,True,action
+1417,3,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+1417,4,johnny depp,neg,johnny depp,neg,True,johnny depp
+1417,5,interesting,pos,interesting,pos,True,interesting
+7493,1,fairy tale,pos,fairy tale,pos,True,fairy tale
+7493,2,animation,pos,animation,pos,True,animation
+7493,3,satire,pos,satire,pos,True,satire
+7493,4,based on a book,pos,based on a book,pos,True,based on a book
+7493,5,funny,pos,funny,pos,True,funny
+657,1,super-hero,pos,super-hero,pos,True,super-hero
+657,2,comic book,pos,comic book,pos,True,comic book
+657,3,superhero,pos,superhero,pos,True,superhero
+657,4,marvel,pos,marvel,pos,True,marvel
+657,5,dvd,pos,dvd,pos,True,dvd
+2293,1,dystopia,pos,dystopia,pos,True,dystopia
+2293,2,anime,neg,anime,neg,True,anime
+2293,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+2293,4,prison,pos,prison,pos,True,prison
+2293,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+452,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+452,2,classic,pos,classic,pos,True,classic
+452,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+452,4,overrated,pos,overrated,pos,True,overrated
+452,5,time travel,neg,time travel,neg,True,time travel
+5511,1,aliens,pos,aliens,pos,True,aliens
+5511,2,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+5511,3,action,neg,action,neg,True,action
+5511,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+5511,5,family,pos,family,pos,True,family
+3729,1,action,pos,action,pos,True,action
+3729,2,prison,neg,prison,neg,True,prison
+3729,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+3729,4,quirky,pos,quirky,pos,True,quirky
+3729,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+4526,1,woody allen,pos,woody allen,pos,True,woody allen
+4526,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4526,3,new york city,pos,new york city,pos,True,new york city
+4526,4,comedy,pos,comedy,pos,True,comedy
+4526,5,new york,pos,new york,pos,True,new york
+613,1,espionage,pos,espionage,pos,True,espionage
+613,2,matt damon,pos,matt damon,pos,True,matt damon
+613,3,memory,pos,memory,pos,True,memory
+613,4,boring,pos,boring,pos,True,boring
+613,5,fantasy,neg,fantasy,neg,True,fantasy
+2789,1,politics,pos,politics,pos,True,politics
+2789,2,true story,pos,true story,pos,True,true story
+2789,3,history,pos,history,pos,True,history
+2789,4,classic,pos,classic,pos,True,classic
+2789,5,based on a book,pos,based on a book,pos,True,based on a book
+5460,1,animation,pos,animation,pos,True,animation
+5460,2,disney,pos,disney,pos,True,disney
+5460,3,action,neg,action,neg,True,action
+5460,4,dvd,pos,dvd,pos,True,dvd
+5460,5,boring,pos,boring,pos,True,boring
+122,1,classic,pos,classic,pos,True,classic
+122,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+122,3,satire,pos,satire,pos,True,satire
+122,4,black comedy,pos,black comedy,pos,True,black comedy
+122,5,serial killer,neg,serial killer,neg,True,serial killer
+3500,1,fantasy,neg,fantasy,neg,True,fantasy
+3500,2,seen more than once,pos,seen more than once,pos,True,seen more than once
+3500,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+3500,4,action,pos,action,pos,True,action
+3500,5,martial arts,pos,martial arts,pos,True,martial arts
+6401,1,classic,pos,classic,pos,True,classic
+6401,2,mafia,neg,mafia,neg,True,mafia
+6401,3,alfred hitchcock,neg,alfred hitchcock,neg,True,alfred hitchcock
+6401,4,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+6401,5,hitchcock,neg,hitchcock,neg,True,hitchcock
+3967,1,time travel,pos,time travel,pos,True,time travel
+3967,2,robots,pos,robots,pos,True,robots
+3967,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+3967,4,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+3967,5,action,pos,action,pos,True,action
+5803,1,ghosts,pos,ghosts,pos,True,ghosts
+5803,2,serial killer,neg,serial killer,neg,True,serial killer
+5803,3,action,pos,action,pos,True,action
+5803,4,disney,neg,disney,neg,True,disney
+5803,5,mystery,pos,mystery,pos,True,mystery
+759,1,nicolas cage,pos,nicolas cage,pos,True,nicolas cage
+759,2,crime,pos,crime,pos,True,crime
+759,3,boring,pos,boring,pos,True,boring
+759,4,africa,pos,africa,pos,True,africa
+759,5,love,pos,love,pos,True,love
+4891,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+4891,2,space,pos,space,pos,True,space
+4891,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+4891,4,classic,pos,classic,pos,True,classic
+4891,5,comic book,neg,comic book,neg,True,comic book
+4527,1,nazis,pos,nazis,pos,True,nazis
+4527,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+4527,3,classic,pos,classic,pos,True,classic
+4527,4,adventure,pos,adventure,pos,True,adventure
+4527,5,holocaust,neg,holocaust,neg,True,holocaust
+2890,1,fantasy,neg,fantasy,neg,True,fantasy
+2890,2,action,pos,action,pos,True,action
+2890,3,police,pos,police,pos,True,police
+2890,4,los angeles,pos,los angeles,pos,True,los angeles
+2890,5,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+3406,1,time travel,pos,time travel,pos,True,time travel
+3406,2,surreal,pos,surreal,pos,True,surreal
+3406,3,intense,pos,intense,pos,True,intense
+3406,4,fantasy,neg,fantasy,neg,True,fantasy
+3406,5,memory,neg,memory,neg,True,memory
+4160,1,nazis,pos,nazis,pos,True,nazis
+4160,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+4160,3,animation,neg,animation,neg,True,animation
+4160,4,classic,pos,classic,pos,True,classic
+4160,5,fun,pos,fun,pos,True,fun
+328,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+328,2,true story,pos,true story,pos,True,true story
+328,3,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+328,4,tom cruise,pos,tom cruise,pos,True,tom cruise
+328,5,psychology,pos,psychology,pos,True,psychology
+2869,1,hilarious,pos,hilarious,pos,True,hilarious
+2869,2,fun,pos,fun,pos,True,fun
+2869,3,parody,pos,parody,pos,True,parody
+2869,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+2869,5,anime,neg,anime,neg,True,anime
+7542,1,cult film,pos,cult film,pos,True,cult film
+7542,2,musical,pos,musical,pos,True,musical
+7542,3,aliens,pos,aliens,pos,True,aliens
+7542,4,disney,neg,disney,neg,True,disney
+7542,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+6626,1,super-hero,pos,super-hero,pos,True,super-hero
+6626,2,comic book,pos,comic book,pos,True,comic book
+6626,3,new york,pos,new york,pos,True,new york
+6626,4,action,pos,action,pos,True,action
+6626,5,superhero,pos,superhero,pos,True,superhero
+192,1,boxing,pos,boxing,pos,True,boxing
+192,2,sports,pos,sports,pos,True,sports
+192,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+192,4,classic,pos,classic,pos,True,classic
+192,5,romance,pos,romance,pos,True,romance
+378,1,comedy,pos,comedy,pos,True,comedy
+378,2,funny,pos,funny,pos,True,funny
+378,3,los angeles,pos,los angeles,pos,True,los angeles
+378,4,romance,pos,romance,pos,True,romance
+378,5,cute,pos,cute,pos,True,cute
+5774,1,time travel,pos,time travel,pos,True,time travel
+5774,2,adventure,pos,adventure,pos,True,adventure
+5774,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+5774,4,comedy,pos,comedy,pos,True,comedy
+5774,5,magic,neg,magic,neg,True,magic
+4645,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4645,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4645,3,true story,pos,true story,pos,True,true story
+4645,4,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+4645,5,serial killer,neg,serial killer,neg,True,serial killer
+1840,1,fantasy,pos,fantasy,pos,True,fantasy
+1840,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1840,3,based on a book,pos,based on a book,pos,True,based on a book
+1840,4,action,pos,action,pos,True,action
+1840,5,adventure,pos,adventure,pos,True,adventure
+6166,1,boxing,pos,boxing,pos,True,boxing
+6166,2,sports,pos,sports,pos,True,sports
+6166,3,romance,pos,romance,pos,True,romance
+6166,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+6166,5,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7545,1,true story,pos,true story,pos,True,true story
+7545,2,prison,neg,prison,neg,True,prison
+7545,3,dystopia,pos,dystopia,pos,True,dystopia
+7545,4,space,neg,space,neg,True,space
+7545,5,disney,pos,disney,pos,True,disney
+4403,1,fantasy,pos,fantasy,pos,True,fantasy
+4403,2,dvd,pos,dvd,pos,True,dvd
+4403,3,magic,pos,magic,pos,True,magic
+4403,4,overrated,pos,overrated,pos,True,overrated
+4403,5,based on a book,pos,based on a book,pos,True,based on a book
+3865,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+3865,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3865,3,overrated,pos,overrated,pos,True,overrated
+3865,4,classic,pos,classic,pos,True,classic
+3865,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+1162,1,super-hero,pos,super-hero,pos,True,super-hero
+1162,2,magic,pos,magic,pos,True,magic
+1162,3,animation,neg,animation,neg,True,animation
+1162,4,dystopia,pos,dystopia,pos,True,dystopia
+1162,5,fantasy,neg,fantasy,neg,True,fantasy
+7677,1,fantasy,pos,fantasy,pos,True,fantasy
+7677,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+7677,3,based on a book,pos,based on a book,pos,True,based on a book
+7677,4,action,pos,action,pos,True,action
+7677,5,adventure,pos,adventure,pos,True,adventure
+1795,1,time travel,pos,time travel,pos,True,time travel
+1795,2,brad pitt,pos,brad pitt,pos,True,brad pitt
+1795,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+1795,4,dystopia,pos,dystopia,pos,True,dystopia
+1795,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+3639,1,fairy tale,pos,fairy tale,pos,True,fairy tale
+3639,2,animation,pos,animation,pos,True,animation
+3639,3,fantasy,neg,fantasy,neg,True,fantasy
+3639,4,satire,pos,satire,pos,True,satire
+3639,5,funny,pos,funny,pos,True,funny
+3487,1,stephen king,pos,stephen king,pos,True,stephen king
+3487,2,ghosts,pos,ghosts,pos,True,ghosts
+3487,3,classic,pos,classic,pos,True,classic
+3487,4,based on a book,pos,based on a book,pos,True,based on a book
+3487,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+7882,1,cars,pos,cars,pos,True,cars
+7882,2,heist,pos,heist,pos,True,heist
+7882,3,remake,pos,remake,pos,True,remake
+7882,4,super-hero,neg,super-hero,neg,True,super-hero
+7882,5,fun,pos,fun,pos,True,fun
+5646,1,seen more than once,pos,seen more than once,pos,True,seen more than once
+5646,2,drama,pos,drama,pos,True,drama
+5646,3,time travel,neg,time travel,neg,True,time travel
+5646,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+5646,5,dvd,pos,dvd,pos,True,dvd
+1430,1,martial arts,pos,martial arts,pos,True,martial arts
+1430,2,dvd,pos,dvd,pos,True,dvd
+1430,3,heist,pos,heist,pos,True,heist
+1430,4,beautiful,pos,beautiful,pos,True,beautiful
+1430,5,james bond,neg,james bond,neg,True,james bond
+1361,1,christmas,pos,christmas,pos,True,christmas
+1361,2,classic,pos,classic,pos,True,classic
+1361,3,world war ii,pos,world war ii,pos,True,world war ii
+1361,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+1361,5,magic,neg,magic,neg,True,magic
+2752,1,british,pos,british,pos,True,british
+2752,2,nonlinear,pos,nonlinear,pos,True,nonlinear
+2752,3,chick flick,pos,chick flick,pos,True,chick flick
+2752,4,london,pos,london,pos,True,london
+2752,5,remake,pos,remake,pos,True,remake
+5302,1,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+5302,2,classic,pos,classic,pos,True,classic
+5302,3,prison,neg,prison,neg,True,prison
+5302,4,cult film,pos,cult film,pos,True,cult film
+5302,5,new york city,pos,new york city,pos,True,new york city
+184,1,surreal,pos,surreal,pos,True,surreal
+184,2,overrated,pos,overrated,pos,True,overrated
+184,3,dvd,pos,dvd,pos,True,dvd
+184,4,disturbing,pos,disturbing,pos,True,disturbing
+184,5,los angeles,pos,los angeles,pos,True,los angeles
+3206,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+3206,2,space,pos,space,pos,True,space
+3206,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+3206,4,sequel,pos,sequel,pos,True,sequel
+3206,5,fantasy,pos,fantasy,pos,True,fantasy
+5239,1,serial killer,pos,serial killer,pos,True,serial killer
+5239,2,cannibalism,pos,cannibalism,pos,True,cannibalism
+5239,3,crime,pos,crime,pos,True,crime
+5239,4,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+5239,5,oscar (best actor),pos,oscar (best actor),pos,True,oscar (best actor)
+4248,1,mental illness,pos,mental illness,pos,True,mental illness
+4248,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4248,3,martin scorsese,neg,martin scorsese,neg,True,martin scorsese
+4248,4,based on a book,pos,based on a book,pos,True,based on a book
+4248,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+7197,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+7197,2,dystopia,pos,dystopia,pos,True,dystopia
+7197,3,martial arts,pos,martial arts,pos,True,martial arts
+7197,4,dvd,pos,dvd,pos,True,dvd
+7197,5,action,pos,action,pos,True,action
+2877,1,zombies,pos,zombies,pos,True,zombies
+2877,2,comedy,pos,comedy,pos,True,comedy
+2877,3,horror,pos,horror,pos,True,horror
+2877,4,nudity (topless - brief),pos,nudity (topless - brief),pos,True,nudity (topless - brief)
+2877,5,cult film,pos,cult film,pos,True,cult film
+652,1,aliens,pos,aliens,pos,True,aliens
+652,2,classic,pos,classic,pos,True,classic
+652,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+652,4,mafia,neg,mafia,neg,True,mafia
+652,5,dvd,pos,dvd,pos,True,dvd
+2488,1,super-hero,pos,super-hero,pos,True,super-hero
+2488,2,comic book,pos,comic book,pos,True,comic book
+2488,3,new york,pos,new york,pos,True,new york
+2488,4,action,pos,action,pos,True,action
+2488,5,chick flick,pos,chick flick,pos,True,chick flick
+4627,1,girlie movie,pos,girlie movie,pos,True,girlie movie
+4627,2,suicide,pos,suicide,pos,True,suicide
+4627,3,nonlinear,pos,nonlinear,pos,True,nonlinear
+4627,4,dvd,pos,dvd,pos,True,dvd
+4627,5,drugs,neg,drugs,neg,True,drugs
+2145,1,children,pos,children,pos,True,children
+2145,2,disney,neg,disney,neg,True,disney
+2145,3,action,neg,action,neg,True,action
+2145,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+2145,5,anime,neg,anime,neg,True,anime
+4845,1,harrison ford,pos,harrison ford,pos,True,harrison ford
+4845,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+4845,3,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+4845,4,disney,neg,disney,neg,True,disney
+4845,5,prison,neg,prison,neg,True,prison
+2501,1,satire,pos,satire,pos,True,satire
+2501,2,time travel,neg,time travel,neg,True,time travel
+2501,3,comedy,neg,comedy,neg,True,comedy
+2501,4,animation,pos,animation,pos,True,animation
+2501,5,ghosts,neg,ghosts,neg,True,ghosts
+3157,1,politics,pos,politics,pos,True,politics
+3157,2,true story,pos,true story,pos,True,true story
+3157,3,history,pos,history,pos,True,history
+3157,4,classic,pos,classic,pos,True,classic
+3157,5,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+1199,1,chick flick,pos,chick flick,pos,True,chick flick
+1199,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+1199,3,cute,pos,cute,pos,True,cute
+1199,4,disney,neg,disney,neg,True,disney
+1199,5,surreal,neg,surreal,neg,True,surreal
+1922,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1922,2,mental illness,pos,mental illness,pos,True,mental illness
+1922,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+1922,4,prison,neg,prison,neg,True,prison
+1922,5,space,neg,space,neg,True,space
+5483,1,suicide,pos,suicide,pos,True,suicide
+5483,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+5483,3,classic,pos,classic,pos,True,classic
+5483,4,dystopia,neg,dystopia,neg,True,dystopia
+5483,5,martin scorsese,neg,martin scorsese,neg,True,martin scorsese
+4937,1,fantasy,pos,fantasy,pos,True,fantasy
+4937,2,magic,pos,magic,pos,True,magic
+4937,3,dvd,pos,dvd,pos,True,dvd
+4937,4,overrated,pos,overrated,pos,True,overrated
+4937,5,based on a book,pos,based on a book,pos,True,based on a book
+1094,1,great soundtrack,pos,great soundtrack,pos,True,great soundtrack
+1094,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+1094,3,black and white,pos,black and white,pos,True,black and white
+1094,4,anime,neg,anime,neg,True,anime
+1094,5,classic,neg,classic,neg,True,classic
+3401,1,boxing,pos,boxing,pos,True,boxing
+3401,2,sports,pos,sports,pos,True,sports
+3401,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3401,4,classic,pos,classic,pos,True,classic
+3401,5,romance,pos,romance,pos,True,romance
+3851,1,anime,neg,anime,neg,True,anime
+3851,2,dark comedy,neg,dark comedy,neg,True,dark comedy
+3851,3,beautiful,pos,beautiful,pos,True,beautiful
+3851,4,christmas,pos,christmas,pos,True,christmas
+3851,5,musical,pos,musical,pos,True,musical
+4995,1,fantasy,neg,fantasy,neg,True,fantasy
+4995,2,seen more than once,pos,seen more than once,pos,True,seen more than once
+4995,3,british,pos,british,pos,True,british
+4995,4,girlie movie,pos,girlie movie,pos,True,girlie movie
+4995,5,chick flick,pos,chick flick,pos,True,chick flick
+3018,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+3018,2,adventure,pos,adventure,pos,True,adventure
+3018,3,action,pos,action,pos,True,action
+3018,4,fantasy,neg,fantasy,neg,True,fantasy
+3018,5,comic book,neg,comic book,neg,True,comic book
+393,1,disney,pos,disney,pos,True,disney
+393,2,animation,pos,animation,pos,True,animation
+393,3,beautiful,pos,beautiful,pos,True,beautiful
+393,4,fairy tale,pos,fairy tale,pos,True,fairy tale
+393,5,classic,pos,classic,pos,True,classic
+3396,1,fantasy,pos,fantasy,pos,True,fantasy
+3396,2,revenge,pos,revenge,pos,True,revenge
+3396,3,quirky,pos,quirky,pos,True,quirky
+3396,4,funny,pos,funny,pos,True,funny
+3396,5,comic book,neg,comic book,neg,True,comic book
+123,1,robots,pos,robots,pos,True,robots
+123,2,funny,pos,funny,pos,True,funny
+123,3,fantasy,neg,fantasy,neg,True,fantasy
+123,4,brad pitt,neg,brad pitt,neg,True,brad pitt
+123,5,based on a book,neg,based on a book,neg,True,based on a book
+6022,1,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+6022,2,hitchcock,pos,hitchcock,pos,True,hitchcock
+6022,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+6022,4,horror,pos,horror,pos,True,horror
+6022,5,serial killer,neg,serial killer,neg,True,serial killer
+4807,1,nonlinear,pos,nonlinear,pos,True,nonlinear
+4807,2,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+4807,3,comedy,pos,comedy,pos,True,comedy
+4807,4,dark comedy,pos,dark comedy,pos,True,dark comedy
+4807,5,organized crime,pos,organized crime,pos,True,organized crime
+5252,1,disney,pos,disney,pos,True,disney
+5252,2,animation,pos,animation,pos,True,animation
+5252,3,sci-fi,neg,sci-fi,neg,True,sci-fi
+5252,4,musical,pos,musical,pos,True,musical
+5252,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+1328,1,overrated,pos,overrated,pos,True,overrated
+1328,2,drama,pos,drama,pos,True,drama
+1328,3,romance,pos,romance,pos,True,romance
+1328,4,time travel,pos,time travel,pos,True,time travel
+1328,5,love,pos,love,pos,True,love
+1663,1,twist ending,pos,twist ending,pos,True,twist ending
+1663,2,ghosts,pos,ghosts,pos,True,ghosts
+1663,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+1663,4,psychology,pos,psychology,pos,True,psychology
+1663,5,tom hanks,neg,tom hanks,neg,True,tom hanks
+6416,1,twist ending,pos,twist ending,pos,True,twist ending
+6416,2,suspense,pos,suspense,pos,True,suspense
+6416,3,serial killer,neg,serial killer,neg,True,serial killer
+6416,4,organized crime,pos,organized crime,pos,True,organized crime
+6416,5,prison,neg,prison,neg,True,prison
+1232,1,classic,pos,classic,pos,True,classic
+1232,2,mafia,pos,mafia,pos,True,mafia
+1232,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1232,4,organized crime,pos,organized crime,pos,True,organized crime
+1232,5,new york city,pos,new york city,pos,True,new york city
+3804,1,new york city,pos,new york city,pos,True,new york city
+3804,2,magic,neg,magic,neg,True,magic
+3804,3,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+3804,4,los angeles,pos,los angeles,pos,True,los angeles
+3804,5,romance,pos,romance,pos,True,romance
+5377,1,overrated,pos,overrated,pos,True,overrated
+5377,2,drama,pos,drama,pos,True,drama
+5377,3,romance,pos,romance,pos,True,romance
+5377,4,time travel,pos,time travel,pos,True,time travel
+5377,5,animation,neg,animation,neg,True,animation
+6026,1,tom cruise,pos,tom cruise,pos,True,tom cruise
+6026,2,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+6026,3,death,pos,death,pos,True,death
+6026,4,drugs,pos,drugs,pos,True,drugs
+6026,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+4,1,time travel,pos,time travel,pos,True,time travel
+4,2,action,pos,action,pos,True,action
+4,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+4,4,serial killer,neg,serial killer,neg,True,serial killer
+4,5,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+218,1,christmas,pos,christmas,pos,True,christmas
+218,2,classic,pos,classic,pos,True,classic
+218,3,hitchcock,pos,hitchcock,pos,True,hitchcock
+218,4,world war ii,pos,world war ii,pos,True,world war ii
+218,5,seen more than once,pos,seen more than once,pos,True,seen more than once
+7630,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+7630,2,satire,pos,satire,pos,True,satire
+7630,3,time travel,neg,time travel,neg,True,time travel
+7630,4,parody,pos,parody,pos,True,parody
+7630,5,animation,pos,animation,pos,True,animation
+3346,1,teen,pos,teen,pos,True,teen
+3346,2,depressing,pos,depressing,pos,True,depressing
+3346,3,holocaust,neg,holocaust,neg,True,holocaust
+3346,4,oscar (best picture),neg,oscar (best picture),neg,True,oscar (best picture)
+3346,5,chick flick,pos,chick flick,pos,True,chick flick
+7347,1,british,pos,british,pos,True,british
+7347,2,based on a book,pos,based on a book,pos,True,based on a book
+7347,3,funny,neg,funny,neg,True,funny
+7347,4,romance,pos,romance,pos,True,romance
+7347,5,holocaust,neg,holocaust,neg,True,holocaust
+2148,1,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+2148,2,thriller,pos,thriller,pos,True,thriller
+2148,3,tom hanks,neg,tom hanks,neg,True,tom hanks
+2148,4,classic,neg,classic,neg,True,classic
+2148,5,time travel,neg,time travel,neg,True,time travel
+3229,1,war,pos,war,pos,True,war
+3229,2,classic,pos,classic,pos,True,classic
+3229,3,based on a book,pos,based on a book,pos,True,based on a book
+3229,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+3229,5,disturbing,pos,disturbing,pos,True,disturbing
+7840,1,politics,pos,politics,pos,True,politics
+7840,2,satire,pos,satire,pos,True,satire
+7840,3,fun,pos,fun,pos,True,fun
+7840,4,classic,neg,classic,neg,True,classic
+7840,5,quirky,neg,quirky,neg,True,quirky
+1011,1,espionage,pos,espionage,pos,True,espionage
+1011,2,action,pos,action,pos,True,action
+1011,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+1011,4,family,pos,family,pos,True,family
+1011,5,quirky,pos,quirky,pos,True,quirky
+5093,1,romance,pos,romance,pos,True,romance
+5093,2,tom hanks,pos,tom hanks,pos,True,tom hanks
+5093,3,new york city,pos,new york city,pos,True,new york city
+5093,4,remake,pos,remake,pos,True,remake
+5093,5,boring,pos,boring,pos,True,boring
+1467,1,nicolas cage,pos,nicolas cage,pos,True,nicolas cage
+1467,2,quirky,pos,quirky,pos,True,quirky
+1467,3,time travel,neg,time travel,neg,True,time travel
+1467,4,hilarious,pos,hilarious,pos,True,hilarious
+1467,5,classic,pos,classic,pos,True,classic
+2181,1,africa,pos,africa,pos,True,africa
+2181,2,history,pos,history,pos,True,history
+2181,3,war,pos,war,pos,True,war
+2181,4,depressing,pos,depressing,pos,True,depressing
+2181,5,politics,neg,politics,neg,True,politics
+3020,1,james bond,pos,james bond,pos,True,james bond
+3020,2,007,pos,007,pos,True,007
+3020,3,england,pos,england,pos,True,england
+3020,4,action,pos,action,pos,True,action
+3020,5,espionage,pos,espionage,pos,True,espionage
+7270,1,twist ending,pos,twist ending,pos,True,twist ending
+7270,2,ghosts,pos,ghosts,pos,True,ghosts
+7270,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+7270,4,psychology,pos,psychology,pos,True,psychology
+7270,5,serial killer,neg,serial killer,neg,True,serial killer
+5646,1,chick flick,pos,chick flick,pos,True,chick flick
+5646,2,girlie movie,pos,girlie movie,pos,True,girlie movie
+5646,3,cute,pos,cute,pos,True,cute
+5646,4,disney,neg,disney,neg,True,disney
+5646,5,twist ending,neg,twist ending,neg,True,twist ending
+6064,1,bruce willis,pos,bruce willis,pos,True,bruce willis
+6064,2,twist ending,pos,twist ending,pos,True,twist ending
+6064,3,superhero,pos,superhero,pos,True,superhero
+6064,4,fantasy,neg,fantasy,neg,True,fantasy
+6064,5,predictable,pos,predictable,pos,True,predictable
+7924,1,time travel,pos,time travel,pos,True,time travel
+7924,2,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+7924,3,sci-fi,pos,sci-fi,pos,True,sci-fi
+7924,4,nudity (topless),pos,nudity (topless),pos,True,nudity (topless)
+7924,5,great soundtrack,pos,great soundtrack,pos,True,great soundtrack
+7215,1,sci-fi,neg,sci-fi,neg,True,sci-fi
+7215,2,murder,pos,murder,pos,True,murder
+7215,3,007,neg,007,neg,True,007
+7215,4,religion,pos,religion,pos,True,religion
+7215,5,politics,pos,politics,pos,True,politics
+5133,1,france,pos,france,pos,True,france
+5133,2,paris,pos,paris,pos,True,paris
+5133,3,romance,pos,romance,pos,True,romance
+5133,4,quirky,pos,quirky,pos,True,quirky
+5133,5,fairy tale,pos,fairy tale,pos,True,fairy tale
+4137,1,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+4137,2,classic,neg,classic,neg,True,classic
+4137,3,police,pos,police,pos,True,police
+4137,4,mafia,neg,mafia,neg,True,mafia
+4137,5,007,neg,007,neg,True,007
+819,1,comic book,pos,comic book,pos,True,comic book
+819,2,anime,neg,anime,neg,True,anime
+819,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+819,4,action,pos,action,pos,True,action
+819,5,drugs,neg,drugs,neg,True,drugs
+1416,1,religion,pos,religion,pos,True,religion
+1416,2,satire,pos,satire,pos,True,satire
+1416,3,funny,pos,funny,pos,True,funny
+1416,4,anime,neg,anime,neg,True,anime
+1416,5,adventure,pos,adventure,pos,True,adventure
+3874,1,british,pos,british,pos,True,british
+3874,2,based on a book,pos,based on a book,pos,True,based on a book
+3874,3,anime,neg,anime,neg,True,anime
+3874,4,shakespeare,pos,shakespeare,pos,True,shakespeare
+3874,5,classic,pos,classic,pos,True,classic
+2699,1,mel gibson,pos,mel gibson,pos,True,mel gibson
+2699,2,drama,pos,drama,pos,True,drama
+2699,3,epic,pos,epic,pos,True,epic
+2699,4,overrated,pos,overrated,pos,True,overrated
+2699,5,drugs,neg,drugs,neg,True,drugs
+7180,1,time travel,pos,time travel,pos,True,time travel
+7180,2,brad pitt,pos,brad pitt,pos,True,brad pitt
+7180,3,bruce willis,pos,bruce willis,pos,True,bruce willis
+7180,4,dystopia,pos,dystopia,pos,True,dystopia
+7180,5,post apocalyptic,pos,post apocalyptic,pos,True,post apocalyptic
+4542,1,fantasy,pos,fantasy,pos,True,fantasy
+4542,2,dvd,pos,dvd,pos,True,dvd
+4542,3,magic,pos,magic,pos,True,magic
+4542,4,overrated,pos,overrated,pos,True,overrated
+4542,5,based on a book,pos,based on a book,pos,True,based on a book
+2913,1,beautiful,pos,beautiful,pos,True,beautiful
+2913,2,magic,neg,magic,neg,True,magic
+2913,3,martial arts,pos,martial arts,pos,True,martial arts
+2913,4,war,pos,war,pos,True,war
+2913,5,horror,pos,horror,pos,True,horror
+4396,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+4396,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+4396,3,action,pos,action,pos,True,action
+4396,4,space,pos,space,pos,True,space
+4396,5,adventure,pos,adventure,pos,True,adventure
+1771,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+1771,2,organized crime,pos,organized crime,pos,True,organized crime
+1771,3,jude law,pos,jude law,pos,True,jude law
+1771,4,drugs,neg,drugs,neg,True,drugs
+1771,5,violent,pos,violent,pos,True,violent
+6259,1,politics,pos,politics,pos,True,politics
+6259,2,satire,pos,satire,pos,True,satire
+6259,3,classic,neg,classic,neg,True,classic
+6259,4,hilarious,neg,hilarious,neg,True,hilarious
+6259,5,fun,pos,fun,pos,True,fun
+1772,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+1772,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+1772,3,based on a book,pos,based on a book,pos,True,based on a book
+1772,4,dystopia,pos,dystopia,pos,True,dystopia
+1772,5,future,pos,future,pos,True,future
+3034,1,surreal,pos,surreal,pos,True,surreal
+3034,2,jim carrey,pos,jim carrey,pos,True,jim carrey
+3034,3,memory,pos,memory,pos,True,memory
+3034,4,love,pos,love,pos,True,love
+3034,5,sci-fi,pos,sci-fi,pos,True,sci-fi
+39,1,space,pos,space,pos,True,space
+39,2,true story,pos,true story,pos,True,true story
+39,3,prison,neg,prison,neg,True,prison
+39,4,classic,neg,classic,neg,True,classic
+39,5,tom hanks,pos,tom hanks,pos,True,tom hanks
+6085,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+6085,2,dystopia,pos,dystopia,pos,True,dystopia
+6085,3,martial arts,pos,martial arts,pos,True,martial arts
+6085,4,anime,neg,anime,neg,True,anime
+6085,5,dvd,pos,dvd,pos,True,dvd
+232,1,lesbian,pos,lesbian,pos,True,lesbian
+232,2,gay,pos,gay,pos,True,gay
+232,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+232,4,dvd,pos,dvd,pos,True,dvd
+232,5,funny,pos,funny,pos,True,funny
+44,1,funny,pos,funny,pos,True,funny
+44,2,mel gibson,pos,mel gibson,pos,True,mel gibson
+44,3,time travel,neg,time travel,neg,True,time travel
+44,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+44,5,family,pos,family,pos,True,family
+6116,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+6116,2,new york,pos,new york,pos,True,new york
+6116,3,satire,neg,satire,neg,True,satire
+6116,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+6116,5,children,pos,children,pos,True,children
+465,1,classic,pos,classic,pos,True,classic
+465,2,dark comedy,pos,dark comedy,pos,True,dark comedy
+465,3,satire,pos,satire,pos,True,satire
+465,4,black comedy,pos,black comedy,pos,True,black comedy
+465,5,war,pos,war,pos,True,war
+875,1,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+875,2,thriller,pos,thriller,pos,True,thriller
+875,3,action,pos,action,pos,True,action
+875,4,tom hanks,neg,tom hanks,neg,True,tom hanks
+875,5,disney,neg,disney,neg,True,disney
+2636,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+2636,2,fantasy,pos,fantasy,pos,True,fantasy
+2636,3,nonlinear,neg,nonlinear,neg,True,nonlinear
+2636,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+2636,5,dvd,neg,dvd,neg,True,dvd
+6636,1,cult film,pos,cult film,pos,True,cult film
+6636,2,aliens,pos,aliens,pos,True,aliens
+6636,3,time travel,neg,time travel,neg,True,time travel
+6636,4,sci-fi,neg,sci-fi,neg,True,sci-fi
+6636,5,musical,pos,musical,pos,True,musical
+3100,1,matt damon,pos,matt damon,pos,True,matt damon
+3100,2,jude law,pos,jude law,pos,True,jude law
+3100,3,murder,pos,murder,pos,True,murder
+3100,4,boring,pos,boring,pos,True,boring
+3100,5,crime,pos,crime,pos,True,crime
+7010,1,fantasy,pos,fantasy,pos,True,fantasy
+7010,2,based on a book,pos,based on a book,pos,True,based on a book
+7010,3,magic,pos,magic,pos,True,magic
+7010,4,overrated,pos,overrated,pos,True,overrated
+7010,5,dvd,pos,dvd,pos,True,dvd
+1352,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+1352,2,harrison ford,pos,harrison ford,pos,True,harrison ford
+1352,3,action,pos,action,pos,True,action
+1352,4,space,pos,space,pos,True,space
+1352,5,adventure,pos,adventure,pos,True,adventure
+2000,1,hitchcock,pos,hitchcock,pos,True,hitchcock
+2000,2,classic,pos,classic,pos,True,classic
+2000,3,alfred hitchcock,pos,alfred hitchcock,pos,True,alfred hitchcock
+2000,4,mystery,pos,mystery,pos,True,mystery
+2000,5,nonlinear,neg,nonlinear,neg,True,nonlinear
+4548,1,espionage,pos,espionage,pos,True,espionage
+4548,2,action,pos,action,pos,True,action
+4548,3,family,pos,family,pos,True,family
+4548,4,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+4548,5,quirky,pos,quirky,pos,True,quirky
+2348,1,nonlinear,pos,nonlinear,pos,True,nonlinear
+2348,2,samuel l jackson,pos,samuel l jackson,pos,True,samuel l jackson
+2348,3,organized crime,pos,organized crime,pos,True,organized crime
+2348,4,dark comedy,pos,dark comedy,pos,True,dark comedy
+2348,5,comedy,pos,comedy,pos,True,comedy
+2032,1,johnny depp,pos,johnny depp,pos,True,johnny depp
+2032,2,time travel,neg,time travel,neg,True,time travel
+2032,3,anime,neg,anime,neg,True,anime
+2032,4,true story,pos,true story,pos,True,true story
+2032,5,boring,pos,boring,pos,True,boring
+4879,1,british,pos,british,pos,True,british
+4879,2,based on a book,pos,based on a book,pos,True,based on a book
+4879,3,coming of age,neg,coming of age,neg,True,coming of age
+4879,4,overrated,neg,overrated,neg,True,overrated
+4879,5,shakespeare,pos,shakespeare,pos,True,shakespeare
+3788,1,tom hanks,pos,tom hanks,pos,True,tom hanks
+3788,2,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+3788,3,classic,pos,classic,pos,True,classic
+3788,4,overrated,pos,overrated,pos,True,overrated
+3788,5,sci-fi,neg,sci-fi,neg,True,sci-fi
+6285,1,holocaust,pos,holocaust,pos,True,holocaust
+6285,2,sad,pos,sad,pos,True,sad
+6285,3,nazis,pos,nazis,pos,True,nazis
+6285,4,world war ii,pos,world war ii,pos,True,world war ii
+6285,5,true story,pos,true story,pos,True,true story
+4739,1,animation,pos,animation,pos,True,animation
+4739,2,disney,pos,disney,pos,True,disney
+4739,3,dvd,pos,dvd,pos,True,dvd
+4739,4,teen,neg,teen,neg,True,teen
+4739,5,fantasy,neg,fantasy,neg,True,fantasy
+2587,1,007,pos,007,pos,True,007
+2587,2,bond,pos,bond,pos,True,bond
+2587,3,james bond,pos,james bond,pos,True,james bond
+2587,4,world war ii,pos,world war ii,pos,True,world war ii
+2587,5,terrorism,pos,terrorism,pos,True,terrorism
+2345,1,fantasy,pos,fantasy,pos,True,fantasy
+2345,2,overrated,pos,overrated,pos,True,overrated
+2345,3,children,pos,children,pos,True,children
+2345,4,boring,pos,boring,pos,True,boring
+2345,5,family,pos,family,pos,True,family
+1867,1,action,pos,action,pos,True,action
+1867,2,espionage,pos,espionage,pos,True,espionage
+1867,3,arnold schwarzenegger,pos,arnold schwarzenegger,pos,True,arnold schwarzenegger
+1867,4,family,pos,family,pos,True,family
+1867,5,terrorism,pos,terrorism,pos,True,terrorism
+4186,1,fairy tale,pos,fairy tale,pos,True,fairy tale
+4186,2,animation,pos,animation,pos,True,animation
+4186,3,satire,pos,satire,pos,True,satire
+4186,4,nonlinear,neg,nonlinear,neg,True,nonlinear
+4186,5,based on a book,pos,based on a book,pos,True,based on a book
+7784,1,time travel,pos,time travel,pos,True,time travel
+7784,2,sci-fi,neg,sci-fi,neg,True,sci-fi
+7784,3,seen more than once,pos,seen more than once,pos,True,seen more than once
+7784,4,comedy,pos,comedy,pos,True,comedy
+7784,5,fantasy,pos,fantasy,pos,True,fantasy
+3994,1,prison,pos,prison,pos,True,prison
+3994,2,classic,pos,classic,pos,True,classic
+3994,3,stephen king,pos,stephen king,pos,True,stephen king
+3994,4,based on a book,pos,based on a book,pos,True,based on a book
+3994,5,morgan freeman,pos,morgan freeman,pos,True,morgan freeman
+5694,1,dystopia,pos,dystopia,pos,True,dystopia
+5694,2,hilarious,pos,hilarious,pos,True,hilarious
+5694,3,fantasy,neg,fantasy,neg,True,fantasy
+5694,4,time travel,neg,time travel,neg,True,time travel
+5694,5,violence,neg,violence,neg,True,violence
+6825,1,space,pos,space,pos,True,space
+6825,2,tom hanks,pos,tom hanks,pos,True,tom hanks
+6825,3,true story,pos,true story,pos,True,true story
+6825,4,historical,pos,historical,pos,True,historical
+6825,5,based on a true story,pos,based on a true story,pos,True,based on a true story
+5831,1,classic,pos,classic,pos,True,classic
+5831,2,martin scorsese,pos,martin scorsese,pos,True,martin scorsese
+5831,3,cult film,pos,cult film,pos,True,cult film
+5831,4,serial killer,neg,serial killer,neg,True,serial killer
+5831,5,dark comedy,neg,dark comedy,neg,True,dark comedy
+4467,1,quirky,pos,quirky,pos,True,quirky
+4467,2,hilarious,pos,hilarious,pos,True,hilarious
+4467,3,dvd,neg,dvd,neg,True,dvd
+4467,4,nicolas cage,pos,nicolas cage,pos,True,nicolas cage
+4467,5,serial killer,neg,serial killer,neg,True,serial killer
+2210,1,christmas,pos,christmas,pos,True,christmas
+2210,2,classic,pos,classic,pos,True,classic
+2210,3,world war ii,pos,world war ii,pos,True,world war ii
+2210,4,seen more than once,pos,seen more than once,pos,True,seen more than once
+2210,5,hitchcock,pos,hitchcock,pos,True,hitchcock
+1503,1,boxing,pos,boxing,pos,True,boxing
+1503,2,sports,pos,sports,pos,True,sports
+1503,3,oscar (best picture),pos,oscar (best picture),pos,True,oscar (best picture)
+1503,4,classic,pos,classic,pos,True,classic
+1503,5,romance,pos,romance,pos,True,romance
+5619,1,holocaust,pos,holocaust,pos,True,holocaust
+5619,2,world war ii,pos,world war ii,pos,True,world war ii
+5619,3,steven spielberg,pos,steven spielberg,pos,True,steven spielberg
+5619,4,true story,pos,true story,pos,True,true story
+5619,5,war,pos,war,pos,True,war
+3627,1,drugs,pos,drugs,pos,True,drugs
+3627,2,quirky,pos,quirky,pos,True,quirky
+3627,3,hilarious,pos,hilarious,pos,True,hilarious
+3627,4,funny,pos,funny,pos,True,funny
+3627,5,cute,pos,cute,pos,True,cute
+944,1,sci-fi,pos,sci-fi,pos,True,sci-fi
+944,2,space,pos,space,pos,True,space
+944,3,harrison ford,pos,harrison ford,pos,True,harrison ford
+944,4,classic,pos,classic,pos,True,classic
+944,5,holocaust,neg,holocaust,neg,True,holocaust

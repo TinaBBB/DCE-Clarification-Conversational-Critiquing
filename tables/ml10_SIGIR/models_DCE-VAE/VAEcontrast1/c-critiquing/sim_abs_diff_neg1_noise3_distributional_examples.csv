@@ -1,0 +1,2501 @@
+user_id,step,critiquing_keyphrase,critique_polarity,clarification_keyphrase,clarification_polarity,accept_clarification,expert_keyphrase
+234,1,sequel,neg,violence,neg,True,robots
+234,2,arnold schwarzenegger,neg,based on a book,neg,True,robots
+234,3,space,neg,history,neg,True,robots
+234,4,post apocalyptic,neg,chick flick,neg,True,robots
+234,5,harrison ford,pos,biography,pos,True,robots
+2714,1,animation,neg,prison,neg,True,satire
+2714,2,space,neg,boring,neg,True,satire
+2714,3,religion,neg,conspiracy,pos,False,satire
+2714,4,aliens,neg,historical,pos,False,satire
+2714,5,dark comedy,neg,dystopia,neg,True,satire
+4686,1,boring,neg,nudity (topless),neg,True,magic
+4686,2,adventure,pos,holocaust,pos,True,magic
+4686,3,dvd,neg,oscar (best picture),neg,True,magic
+4686,4,sequel,pos,music,neg,False,magic
+4686,5,overrated,neg,future,neg,True,magic
+7910,1,drama,pos,organized crime,neg,False,war
+7910,2,historical,neg,johnny depp,pos,False,war
+7910,3,dvd,pos,depressing,neg,False,war
+7910,4,holocaust,neg,holocaust,neg,True,war
+7910,5,classic,neg,classic,neg,True,war
+3440,1,future,neg,oscar (best actor),pos,False,space
+3440,2,sequel,neg,music,neg,True,space
+3440,3,dvd,pos,depressing,neg,False,space
+3440,4,aliens,neg,historical,pos,False,space
+3440,5,harrison ford,neg,harrison ford,neg,True,space
+6019,1,organized crime,neg,drama,neg,True,dark comedy
+6019,2,samuel l jackson,neg,fun,neg,True,dark comedy
+6019,3,crime,neg,family,neg,True,dark comedy
+6019,4,quirky,neg,steven spielberg,pos,False,dark comedy
+6019,5,interesting,neg,intense,neg,True,dark comedy
+713,1,oscar (best picture),neg,music,pos,False,fantasy
+713,2,epic,pos,steven spielberg,pos,True,fantasy
+713,3,overrated,pos,nudity (topless - brief),neg,False,fantasy
+713,4,magic,pos,war,neg,False,fantasy
+713,5,adventure,pos,adventure,pos,True,fantasy
+7922,1,quirky,neg,steven spielberg,neg,True,time travel
+7922,2,thriller,neg,comic book,neg,True,time travel
+7922,3,sci-fi,pos,murder,pos,True,time travel
+7922,4,arnold schwarzenegger,pos,based on a book,neg,False,time travel
+7922,5,dystopia,neg,oscar (best actor),pos,False,time travel
+4887,1,crime,pos,family,neg,False,violence
+4887,2,organized crime,pos,drama,neg,False,violence
+4887,3,mafia,pos,family,neg,False,violence
+4887,4,racism,neg,racism,neg,True,violence
+4887,5,seen more than once,neg,seen more than once,neg,True,violence
+1656,1,drama,neg,fantasy,neg,True,war
+1656,2,historical,pos,slow,neg,False,war
+1656,3,holocaust,neg,adventure,neg,True,war
+1656,4,africa,neg,scary,neg,True,war
+1656,5,world war ii,neg,cute,neg,True,war
+4786,1,action,pos,romance,neg,False,anime
+4786,2,fantasy,pos,drama,pos,True,anime
+4786,3,fun,neg,samuel l jackson,neg,True,anime
+4786,4,adventure,neg,holocaust,neg,True,anime
+4786,5,cute,neg,super-hero,neg,True,anime
+7305,1,classic,neg,action,neg,True,martin scorsese
+7305,2,murder,neg,overrated,neg,True,martin scorsese
+7305,3,great movie,pos,high school,neg,False,martin scorsese
+7305,4,remake,pos,mystery,pos,True,martin scorsese
+7305,5,mafia,pos,family,neg,False,martin scorsese
+1609,1,war,pos,cult film,neg,False,classic
+1609,2,organized crime,neg,drama,pos,False,classic
+1609,3,morgan freeman,neg,oscar (best actor),pos,False,classic
+1609,4,dvd,pos,dvd,pos,True,classic
+1609,5,seen more than once,pos,seen more than once,pos,True,classic
+2936,1,murder,neg,overrated,neg,True,serial killer
+2936,2,psychology,neg,james bond,pos,False,serial killer
+2936,3,thriller,pos,teen,neg,False,serial killer
+2936,4,brad pitt,neg,beautiful,neg,True,serial killer
+2936,5,morgan freeman,neg,oscar (best actor),pos,False,serial killer
+3789,1,film noir,pos,fun,neg,False,comic book
+3789,2,revenge,neg,cute,neg,True,comic book
+3789,3,action,pos,classic,neg,False,comic book
+3789,4,marvel,pos,satire,neg,False,comic book
+3789,5,super-hero,pos,super-hero,pos,True,comic book
+172,1,sci-fi,neg,murder,neg,True,superhero
+172,2,action,neg,classic,neg,True,superhero
+172,3,dvd,pos,history,neg,False,superhero
+172,4,dark,neg,thriller,neg,True,superhero
+172,5,marvel,neg,satire,neg,True,superhero
+4315,1,war,neg,cult film,neg,True,action
+4315,2,dvd,neg,depressing,neg,True,action
+4315,3,harrison ford,neg,biography,neg,True,action
+4315,4,space,neg,boring,neg,True,harrison ford
+4315,5,violent,neg,girlie movie,neg,True,harrison ford
+4943,1,war,pos,cult film,neg,False,classic
+4943,2,organized crime,neg,drama,neg,True,classic
+4943,3,based on a book,neg,teen,pos,False,classic
+4943,4,dvd,neg,depressing,neg,True,classic
+4943,5,family,neg,mafia,pos,False,classic
+5002,1,aliens,neg,true story,neg,True,sci-fi
+5002,2,action,pos,classic,neg,False,sci-fi
+5002,3,dvd,pos,oscar (best picture),neg,False,sci-fi
+5002,4,sequel,neg,music,neg,True,sci-fi
+5002,5,harrison ford,neg,biography,neg,True,sci-fi
+1006,1,fantasy,neg,tom hanks,neg,True,music
+1006,2,hilarious,neg,great soundtrack,neg,True,music
+1006,3,world war ii,neg,cute,neg,True,biography
+1006,4,holocaust,neg,adventure,neg,True,biography
+1006,5,steven spielberg,neg,girlie movie,neg,True,biography
+6346,1,drama,neg,fantasy,neg,True,steven spielberg
+6346,2,interesting,neg,intense,neg,True,harrison ford
+6346,3,adventure,pos,history,neg,False,harrison ford
+6346,4,steven spielberg,pos,girlie movie,neg,False,nazis
+6346,5,harrison ford,pos,biography,neg,False,nazis
+2571,1,war,neg,france,neg,True,classic
+2571,2,organized crime,neg,drama,pos,False,classic
+2571,3,dvd,pos,depressing,neg,False,classic
+2571,4,based on a book,pos,arnold schwarzenegger,neg,False,classic
+2571,5,oscar (best picture),pos,oscar (best picture),pos,True,classic
+1474,1,sean connery,pos,conspiracy,pos,True,alfred hitchcock
+1474,2,horror,neg,satire,neg,True,alfred hitchcock
+1474,3,based on a book,neg,arnold schwarzenegger,neg,True,classic
+1474,4,classic,pos,action,neg,False,alfred hitchcock
+1474,5,politics,neg,future,neg,True,alfred hitchcock
+4413,1,love,neg,underrated,neg,True,religion
+4413,2,death,pos,high school,pos,True,religion
+4413,3,sad,neg,beautiful,neg,True,religion
+4413,4,comedy,neg,bruce willis,pos,False,religion
+4413,5,hilarious,pos,drama,neg,False,religion
+1402,1,organized crime,neg,drama,neg,True,cult film
+1402,2,musical,pos,prison,pos,True,cult film
+1402,3,samuel l jackson,neg,fun,neg,True,cult film
+1402,4,aliens,neg,true story,neg,True,cult film
+1402,5,coming of age,neg,remake,neg,True,quirky
+7935,1,film noir,neg,fun,neg,True,comic book
+7935,2,revenge,pos,cute,neg,False,comic book
+7935,3,dark,pos,thriller,pos,True,comic book
+7935,4,action,pos,classic,neg,False,comic book
+7935,5,superhero,pos,biography,neg,False,comic book
+5587,1,oscar (best picture),neg,dvd,pos,False,fantasy
+5587,2,epic,pos,steven spielberg,neg,False,fantasy
+5587,3,boring,neg,nudity (topless),pos,False,fantasy
+5587,4,dvd,pos,dvd,pos,True,fantasy
+5587,5,sequel,pos,sequel,pos,True,fantasy
+7710,1,nonlinear,neg,oscar (best actor),neg,True,organized crime
+7710,2,violence,pos,sequel,neg,False,organized crime
+7710,3,sequel,neg,music,neg,True,sci-fi
+7710,4,harrison ford,neg,biography,neg,True,sci-fi
+7710,5,surreal,neg,scary,neg,True,sci-fi
+2746,1,girlie movie,neg,steven spielberg,neg,True,paris
+2746,2,love,neg,underrated,neg,True,paris
+2746,3,coming of age,neg,remake,neg,True,paris
+2746,4,cute,pos,world war ii,pos,True,paris
+2746,5,new york city,neg,ghosts,neg,True,paris
+1482,1,morgan freeman,neg,oscar (best actor),neg,True,drama
+1482,2,stephen king,neg,family,neg,True,drama
+1482,3,prison,neg,comic book,neg,True,drama
+1482,4,romance,neg,action,neg,True,chick flick
+1482,5,funny,neg,true story,neg,True,chick flick
+2892,1,intense,pos,interesting,neg,False,japan
+2892,2,historical,pos,slow,neg,False,japan
+2892,3,romance,pos,action,neg,False,japan
+2892,4,overrated,neg,overrated,neg,True,japan
+2892,5,police,neg,police,neg,True,japan
+4019,1,war,neg,france,pos,False,classic
+4019,2,organized crime,pos,drama,pos,True,classic
+4019,3,based on a book,pos,teen,neg,False,classic
+4019,4,dvd,pos,oscar (best picture),neg,False,classic
+4019,5,morgan freeman,pos,morgan freeman,pos,True,classic
+2928,1,future,neg,based on a true story,neg,True,space
+2928,2,sequel,neg,music,neg,True,space
+2928,3,robots,neg,black and white,neg,True,space
+2928,4,dvd,neg,history,pos,False,space
+2928,5,harrison ford,neg,biography,neg,True,space
+199,1,africa,neg,scary,pos,False,drugs
+199,2,intense,neg,interesting,neg,True,drugs
+199,3,crime,neg,family,neg,True,drugs
+199,4,dark,pos,thriller,neg,False,drugs
+199,5,great soundtrack,neg,children,pos,False,drugs
+2804,1,crime,pos,family,neg,False,violence
+2804,2,organized crime,pos,drama,neg,False,violence
+2804,3,mafia,neg,family,neg,True,violence
+2804,4,racism,neg,heist,pos,False,violence
+2804,5,psychology,neg,psychology,neg,True,violence
+5624,1,oscar (best picture),pos,music,neg,False,fantasy
+5624,2,epic,pos,steven spielberg,neg,False,fantasy
+5624,3,boring,neg,nudity (topless),pos,False,fantasy
+5624,4,dvd,pos,dvd,pos,True,fantasy
+5624,5,sequel,neg,sequel,neg,True,fantasy
+6398,1,aliens,neg,cult film,neg,True,sci-fi
+6398,2,action,pos,classic,pos,True,sci-fi
+6398,3,sequel,neg,violence,neg,True,sci-fi
+6398,4,dystopia,neg,new york,neg,True,sci-fi
+6398,5,robots,pos,nazis,pos,True,sci-fi
+6780,1,future,neg,based on a true story,neg,True,space
+6780,2,sequel,neg,suicide,neg,True,space
+6780,3,robots,neg,violence,neg,True,space
+6780,4,dvd,pos,history,neg,False,space
+6780,5,harrison ford,neg,biography,neg,True,space
+658,1,post apocalyptic,neg,chick flick,neg,True,martial arts
+658,2,japan,neg,dvd,pos,False,martial arts
+658,3,seen more than once,neg,nudity (topless),neg,True,martial arts
+658,4,dystopia,pos,new york,pos,True,martial arts
+658,5,overrated,neg,murder,neg,True,martial arts
+5595,1,war,neg,sports,neg,True,classic
+5595,2,organized crime,neg,drama,neg,True,classic
+5595,3,based on a book,neg,teen,neg,True,classic
+5595,4,mafia,neg,family,pos,False,classic
+5595,5,prison,neg,animation,neg,True,classic
+837,1,nudity (topless - brief),pos,overrated,neg,False,zombies
+837,2,cult film,neg,oscar (best picture),neg,True,zombies
+837,3,comedy,pos,seen more than once,pos,True,zombies
+837,4,post-apocalyptic,neg,scary,pos,False,zombies
+837,5,shakespeare,neg,love,neg,True,zombies
+6831,1,drama,neg,organized crime,pos,False,twist ending
+6831,2,suspense,pos,time travel,neg,False,twist ending
+6831,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+6831,4,mystery,neg,biography,neg,True,twist ending
+6831,5,psychology,pos,religion,pos,True,twist ending
+6911,1,sequel,pos,suicide,neg,False,robots
+6911,2,arnold schwarzenegger,pos,based on a book,neg,False,robots
+6911,3,harrison ford,neg,biography,pos,False,robots
+6911,4,dystopia,neg,dystopia,neg,True,robots
+6911,5,interesting,neg,interesting,pos,False,vampires
+617,1,africa,neg,scary,pos,False,drugs
+617,2,intense,neg,interesting,neg,True,drugs
+617,3,crime,neg,family,pos,False,quirky
+617,4,love,neg,underrated,neg,True,quirky
+617,5,dvd,neg,oscar (best picture),neg,True,quirky
+2273,1,coming of age,pos,remake,neg,False,romance
+2273,2,morgan freeman,neg,oscar (best actor),neg,True,drama
+2273,3,seen more than once,pos,lesbian,pos,True,comedy
+2273,4,epic,pos,steven spielberg,neg,False,drama
+2273,5,love,neg,underrated,neg,True,drama
+3777,1,war,pos,sports,neg,False,classic
+3777,2,organized crime,pos,drama,neg,False,classic
+3777,3,morgan freeman,neg,oscar (best actor),neg,True,classic
+3777,4,dvd,neg,oscar (best picture),neg,True,classic
+3777,5,based on a book,pos,arnold schwarzenegger,neg,False,classic
+5053,1,lesbian,neg,seen more than once,pos,False,teen
+5053,2,seen more than once,pos,comedy,pos,True,teen
+5053,3,time travel,neg,suspense,neg,True,teen
+5053,4,nudity (topless),neg,seen more than once,pos,False,teen
+5053,5,fun,pos,christmas,pos,True,teen
+6472,1,aliens,neg,cult film,neg,True,sci-fi
+6472,2,action,pos,classic,pos,True,sci-fi
+6472,3,sequel,neg,violence,neg,True,sci-fi
+6472,4,dystopia,neg,new york,pos,False,sci-fi
+6472,5,future,neg,based on a true story,neg,True,sci-fi
+7562,1,war,pos,france,pos,True,classic
+7562,2,organized crime,neg,drama,neg,True,classic
+7562,3,based on a book,neg,arnold schwarzenegger,pos,False,classic
+7562,4,mafia,neg,family,neg,True,classic
+7562,5,prison,neg,animation,neg,True,classic
+4788,1,martial arts,neg,nazis,pos,False,heist
+4788,2,remake,pos,mystery,neg,False,heist
+4788,3,london,neg,underrated,neg,True,heist
+4788,4,based on a true story,neg,future,neg,True,heist
+4788,5,crime,neg,family,pos,False,heist
+1106,1,war,neg,france,neg,True,classic
+1106,2,organized crime,neg,drama,pos,False,classic
+1106,3,dvd,neg,history,pos,False,classic
+1106,4,based on a book,neg,teen,neg,True,classic
+1106,5,oscar (best picture),pos,music,pos,True,classic
+1692,1,aliens,pos,true story,neg,False,sci-fi
+1692,2,action,pos,paris,neg,False,sci-fi
+1692,3,robots,neg,nazis,pos,False,sci-fi
+1692,4,dvd,pos,dvd,pos,True,sci-fi
+1692,5,future,pos,future,pos,True,sci-fi
+6187,1,sci-fi,neg,adventure,neg,True,seen more than once
+6187,2,overrated,pos,murder,neg,False,seen more than once
+6187,3,surreal,neg,scary,neg,True,seen more than once
+6187,4,drama,neg,organized crime,neg,True,seen more than once
+6187,5,based on a book,neg,arnold schwarzenegger,neg,True,seen more than once
+5307,1,spoof,neg,nazis,neg,True,super-hero
+5307,2,action,pos,romance,neg,False,super-hero
+5307,3,sequel,neg,music,neg,True,super-hero
+5307,4,dark,neg,thriller,neg,True,super-hero
+5307,5,superhero,pos,biography,pos,True,super-hero
+7039,1,interesting,neg,disturbing,neg,True,harrison ford
+7039,2,war,neg,cult film,neg,True,action
+7039,3,harrison ford,pos,biography,neg,False,action
+7039,4,sci-fi,neg,murder,pos,False,action
+7039,5,super-hero,neg,cute,pos,False,action
+1745,1,intense,neg,interesting,pos,False,surreal
+1745,2,quirky,pos,steven spielberg,neg,False,surreal
+1745,3,dystopia,neg,dark comedy,pos,False,surreal
+1745,4,sci-fi,neg,sci-fi,neg,True,surreal
+1745,5,romance,pos,romance,pos,True,surreal
+4520,1,action,neg,classic,neg,True,anime
+4520,2,fantasy,pos,tom hanks,neg,False,anime
+4520,3,beautiful,pos,matt damon,neg,False,anime
+4520,4,fun,pos,samuel l jackson,neg,False,anime
+4520,5,children,pos,children,pos,True,anime
+3096,1,aliens,neg,cult film,neg,True,sci-fi
+3096,2,action,neg,classic,pos,False,sci-fi
+3096,3,dvd,neg,history,neg,True,sci-fi
+3096,4,sequel,neg,violence,neg,True,sci-fi
+3096,5,space,neg,zombies,neg,True,sci-fi
+4937,1,organized crime,neg,drama,neg,True,dark comedy
+4937,2,samuel l jackson,neg,fun,neg,True,dark comedy
+4937,3,crime,neg,family,neg,True,dark comedy
+4937,4,quirky,neg,steven spielberg,neg,True,dark comedy
+4937,5,dvd,pos,depressing,neg,False,dark comedy
+5376,1,spoof,neg,nazis,neg,True,super-hero
+5376,2,action,pos,classic,neg,False,super-hero
+5376,3,sequel,pos,music,pos,True,super-hero
+5376,4,dark,neg,thriller,neg,True,super-hero
+5376,5,superhero,pos,biography,neg,False,super-hero
+6300,1,nonlinear,neg,oscar (best actor),neg,True,organized crime
+6300,2,crime,neg,family,neg,True,violence
+6300,3,intense,neg,interesting,neg,True,violence
+6300,4,psychology,neg,bruce willis,neg,True,violence
+6300,5,mental illness,neg,heist,neg,True,violence
+133,1,sequel,neg,suicide,neg,True,los angeles
+133,2,new york city,neg,ghosts,neg,True,los angeles
+133,3,overrated,pos,nudity (topless - brief),pos,True,los angeles
+133,4,boxing,neg,bruce willis,neg,True,los angeles
+133,5,satire,neg,horror,neg,True,los angeles
+6914,1,nudity (topless - brief),neg,fun,neg,True,musical
+6914,2,fantasy,neg,drama,neg,True,music
+6914,3,music,pos,oscar (best picture),neg,False,musical
+6914,4,mafia,neg,family,neg,True,classic
+6914,5,prison,pos,musical,pos,True,classic
+1604,1,post apocalyptic,neg,chick flick,neg,True,martial arts
+1604,2,japan,neg,dvd,neg,True,martial arts
+1604,3,dystopia,neg,oscar (best actor),neg,True,martial arts
+1604,4,sci-fi,neg,adventure,neg,True,martial arts
+1604,5,overrated,pos,future,neg,False,martial arts
+1830,1,spoof,neg,nazis,neg,True,super-hero
+1830,2,action,pos,classic,neg,False,super-hero
+1830,3,sequel,pos,music,neg,False,super-hero
+1830,4,dark,neg,thriller,neg,True,super-hero
+1830,5,comic book,pos,los angeles,neg,False,super-hero
+2155,1,aliens,neg,cult film,pos,False,sci-fi
+2155,2,action,neg,romance,neg,True,sci-fi
+2155,3,sequel,neg,music,neg,True,sci-fi
+2155,4,dystopia,pos,oscar (best actor),neg,False,sci-fi
+2155,5,future,pos,overrated,pos,True,sci-fi
+2614,1,film noir,neg,fun,neg,True,comic book
+2614,2,revenge,pos,cute,neg,False,comic book
+2614,3,dark,neg,thriller,neg,True,comic book
+2614,4,action,pos,classic,neg,False,comic book
+2614,5,superhero,pos,biography,neg,False,comic book
+5106,1,nazis,neg,robots,neg,True,prison
+5106,2,classic,neg,surreal,neg,True,prison
+5106,3,great movie,neg,high school,neg,True,prison
+5106,4,fantasy,pos,stupid,pos,True,seen more than once
+5106,5,sci-fi,pos,murder,pos,True,seen more than once
+3144,1,crime,neg,family,neg,True,violence
+3144,2,organized crime,pos,drama,neg,False,violence
+3144,3,racism,neg,heist,neg,True,violence
+3144,4,intense,pos,interesting,neg,False,violence
+3144,5,mental illness,pos,mental illness,pos,True,violence
+2135,1,drama,pos,organized crime,neg,False,africa
+2135,2,depressing,neg,dvd,pos,False,africa
+2135,3,true story,neg,disturbing,neg,True,africa
+2135,4,violent,neg,predictable,neg,True,africa
+2135,5,war,neg,cult film,neg,True,africa
+7996,1,aliens,pos,historical,pos,True,sci-fi
+7996,2,arnold schwarzenegger,neg,based on a book,neg,True,action
+7996,3,dvd,neg,history,neg,True,action
+7996,4,adventure,neg,holocaust,neg,True,action
+7996,5,sequel,pos,suicide,neg,False,action
+2454,1,classic,neg,action,neg,True,martin scorsese
+2454,2,murder,neg,sci-fi,neg,True,martin scorsese
+2454,3,great movie,neg,high school,neg,True,martin scorsese
+2454,4,remake,neg,coming of age,neg,True,martin scorsese
+2454,5,violent,neg,girlie movie,neg,True,martin scorsese
+3828,1,drama,neg,organized crime,neg,True,steven spielberg
+3828,2,tom cruise,neg,cute,neg,True,steven spielberg
+3828,3,future,neg,oscar (best actor),neg,True,steven spielberg
+3828,4,nazis,neg,police,neg,True,steven spielberg
+3828,5,harrison ford,neg,biography,neg,True,steven spielberg
+1607,1,war,neg,magic,neg,True,classic
+1607,2,organized crime,pos,drama,neg,False,classic
+1607,3,dvd,neg,depressing,neg,True,classic
+1607,4,based on a book,pos,teen,pos,True,classic
+1607,5,prison,neg,musical,neg,True,classic
+2202,1,love,pos,underrated,neg,False,religion
+2202,2,death,neg,high school,neg,True,religion
+2202,3,comedy,pos,bruce willis,neg,False,religion
+2202,4,satire,pos,horror,pos,True,religion
+2202,5,hilarious,neg,great soundtrack,neg,True,religion
+3424,1,nazis,neg,british,neg,True,prison
+3424,2,classic,pos,action,neg,False,prison
+3424,3,seen more than once,pos,nudity (topless),neg,False,prison
+3424,4,great movie,pos,high school,neg,False,prison
+3424,5,stephen king,pos,stephen king,pos,True,prison
+6893,1,comedy,neg,bruce willis,neg,True,england
+6893,2,007,neg,time travel,neg,True,england
+6893,3,cute,neg,world war ii,pos,False,england
+6893,4,london,neg,underrated,neg,True,england
+6893,5,zombies,neg,space,neg,True,england
+5543,1,war,neg,magic,neg,True,classic
+5543,2,organized crime,neg,drama,neg,True,classic
+5543,3,based on a book,neg,teen,pos,False,classic
+5543,4,mafia,neg,family,neg,True,classic
+5543,5,prison,neg,comic book,neg,True,classic
+2987,1,martin scorsese,neg,sci-fi,neg,True,beautiful
+2987,2,organized crime,neg,drama,neg,True,cult film
+2987,3,action,neg,classic,pos,False,christmas
+2987,4,nonlinear,neg,oscar (best actor),neg,True,cult film
+2987,5,crime,neg,family,neg,True,christmas
+6253,1,sci-fi,neg,murder,pos,False,seen more than once
+6253,2,overrated,pos,murder,neg,False,seen more than once
+6253,3,drama,neg,hilarious,pos,False,seen more than once
+6253,4,classic,neg,classic,neg,True,seen more than once
+6253,5,fairy tale,neg,fairy tale,neg,True,disney
+5604,1,sequel,neg,music,neg,True,robots
+5604,2,arnold schwarzenegger,pos,based on a book,neg,False,robots
+5604,3,dystopia,pos,oscar (best actor),neg,False,robots
+5604,4,space,neg,history,neg,True,robots
+5604,5,sci-fi,pos,murder,pos,True,robots
+2642,1,dvd,neg,depressing,neg,True,quirky
+2642,2,dark comedy,neg,twist ending,neg,True,quirky
+2642,3,jim carrey,neg,biography,neg,True,quirky
+2642,4,love,pos,underrated,pos,True,quirky
+2642,5,seen more than once,pos,comedy,pos,True,quirky
+132,1,lesbian,neg,seen more than once,pos,False,teen
+132,2,seen more than once,pos,comedy,pos,True,teen
+132,3,time travel,neg,suspense,neg,True,teen
+132,4,nudity (topless),neg,seen more than once,pos,False,teen
+132,5,fun,pos,christmas,neg,False,teen
+7373,1,satire,neg,horror,neg,True,animation
+7373,2,family,neg,mafia,neg,True,animation
+7373,3,funny,neg,new york city,neg,True,animation
+7373,4,children,neg,great soundtrack,neg,True,animation
+7373,5,comedy,pos,bruce willis,neg,False,animation
+118,1,war,neg,france,neg,True,classic
+118,2,organized crime,neg,drama,neg,True,classic
+118,3,based on a book,neg,hilarious,neg,True,classic
+118,4,mafia,neg,family,neg,True,classic
+118,5,prison,neg,musical,neg,True,classic
+1332,1,england,neg,post-apocalyptic,neg,True,parody
+1332,2,comedy,neg,bruce willis,neg,True,parody
+1332,3,satire,neg,horror,neg,True,parody
+1332,4,stupid,pos,fantasy,pos,True,parody
+1332,5,underrated,neg,love,neg,True,parody
+426,1,time travel,neg,007,neg,True,tom cruise
+426,2,espionage,neg,family,neg,True,tom cruise
+426,3,murder,neg,overrated,neg,True,tom cruise
+426,4,remake,pos,coming of age,neg,False,tom cruise
+426,5,dystopia,neg,oscar (best actor),neg,True,tom cruise
+874,1,love,neg,underrated,neg,True,girlie movie
+874,2,new york city,neg,ghosts,neg,True,girlie movie
+874,3,drama,neg,organized crime,neg,True,girlie movie
+874,4,suicide,pos,sequel,neg,False,girlie movie
+874,5,fun,neg,film noir,neg,True,girlie movie
+4049,1,time travel,neg,romance,pos,False,tom cruise
+4049,2,espionage,neg,family,neg,True,tom cruise
+4049,3,murder,neg,overrated,neg,True,tom cruise
+4049,4,heist,pos,mental illness,pos,True,remake
+4049,5,post-apocalyptic,neg,england,neg,True,remake
+3006,1,true story,neg,disturbing,pos,False,oscar (best picture)
+3006,2,mental illness,neg,heist,neg,True,oscar (best picture)
+3006,3,mafia,neg,family,neg,True,oscar (best picture)
+3006,4,war,pos,magic,neg,False,oscar (best picture)
+3006,5,dvd,neg,oscar (best picture),pos,False,oscar (best picture)
+4495,1,sci-fi,neg,martin scorsese,neg,True,seen more than once
+4495,2,overrated,pos,nudity (topless - brief),neg,False,seen more than once
+4495,3,classic,neg,action,neg,True,seen more than once
+4495,4,based on a book,neg,hilarious,neg,True,seen more than once
+4495,5,prison,neg,musical,pos,False,seen more than once
+3271,1,children,pos,great soundtrack,neg,False,johnny depp
+3271,2,horror,neg,parody,neg,True,johnny depp
+3271,3,action,pos,romance,neg,False,johnny depp
+3271,4,dark,neg,thriller,neg,True,johnny depp
+3271,5,drugs,neg,terrorism,neg,True,johnny depp
+3940,1,nudity (topless),neg,boring,neg,True,lesbian
+3940,2,dvd,neg,depressing,neg,True,gay
+3940,3,beautiful,neg,love,neg,True,gay
+3940,4,coming of age,pos,remake,pos,True,lesbian
+3940,5,girlie movie,neg,violent,neg,True,gay
+702,1,war,pos,france,pos,True,action
+702,2,dvd,neg,history,neg,True,action
+702,3,harrison ford,neg,biography,pos,False,action
+702,4,sci-fi,pos,adventure,pos,True,action
+702,5,super-hero,neg,cute,neg,True,action
+7487,1,aliens,neg,cult film,pos,False,sci-fi
+7487,2,action,pos,classic,neg,False,sci-fi
+7487,3,robots,pos,violence,neg,False,sci-fi
+7487,4,dvd,pos,dvd,pos,True,sci-fi
+7487,5,future,neg,future,neg,True,sci-fi
+3160,1,true story,neg,aliens,neg,True,oscar (best picture)
+3160,2,mental illness,neg,heist,neg,True,oscar (best picture)
+3160,3,mafia,neg,family,neg,True,oscar (best picture)
+3160,4,war,neg,cult film,neg,True,oscar (best picture)
+3160,5,world war ii,neg,cute,neg,True,oscar (best picture)
+6122,1,dvd,pos,depressing,neg,False,quirky
+6122,2,dark comedy,pos,dystopia,neg,False,quirky
+6122,3,seen more than once,pos,nudity (topless),neg,False,quirky
+6122,4,crime,pos,crime,pos,True,quirky
+6122,5,memory,pos,memory,pos,True,quirky
+5868,1,aliens,neg,cult film,pos,False,sci-fi
+5868,2,action,pos,classic,neg,False,sci-fi
+5868,3,robots,neg,violence,neg,True,sci-fi
+5868,4,dvd,pos,depressing,neg,False,sci-fi
+5868,5,dystopia,pos,dystopia,pos,True,sci-fi
+2340,1,interesting,neg,disturbing,neg,True,harrison ford
+2340,2,action,pos,classic,neg,False,harrison ford
+2340,3,great soundtrack,neg,children,neg,True,harrison ford
+2340,4,adventure,neg,holocaust,neg,True,harrison ford
+2340,5,sci-fi,neg,murder,pos,False,harrison ford
+2295,1,espionage,pos,family,neg,False,hitchcock
+2295,2,murder,pos,overrated,neg,False,hitchcock
+2295,3,horror,neg,parody,pos,False,hitchcock
+2295,4,mystery,pos,mystery,pos,True,hitchcock
+2295,5,seen more than once,neg,seen more than once,neg,True,hitchcock
+747,1,interesting,neg,disturbing,neg,True,harrison ford
+747,2,action,pos,classic,neg,False,harrison ford
+747,3,great soundtrack,neg,children,neg,True,harrison ford
+747,4,adventure,pos,history,neg,False,harrison ford
+747,5,sci-fi,neg,murder,neg,True,harrison ford
+7860,1,dvd,pos,oscar (best picture),pos,True,quirky
+7860,2,dark comedy,neg,dystopia,neg,True,quirky
+7860,3,jim carrey,pos,biography,pos,True,quirky
+7860,4,love,neg,underrated,pos,False,quirky
+7860,5,memory,neg,great soundtrack,neg,True,quirky
+3345,1,love,neg,underrated,neg,True,religion
+3345,2,sci-fi,pos,murder,neg,False,aliens
+3345,3,thriller,neg,comic book,neg,True,serial killer
+3345,4,cannibalism,pos,conspiracy,neg,False,serial killer
+3345,5,martial arts,neg,nazis,pos,False,dystopia
+2601,1,morgan freeman,neg,oscar (best actor),pos,False,drama
+2601,2,overrated,neg,nudity (topless - brief),neg,True,seen more than once
+2601,3,based on a book,neg,arnold schwarzenegger,neg,True,seen more than once
+2601,4,fantasy,neg,stupid,neg,True,seen more than once
+2601,5,surreal,neg,classic,neg,True,seen more than once
+5699,1,sequel,neg,music,neg,True,los angeles
+5699,2,new york city,neg,serial killer,neg,True,los angeles
+5699,3,overrated,pos,murder,pos,True,los angeles
+5699,4,boxing,neg,bruce willis,neg,True,los angeles
+5699,5,satire,neg,horror,neg,True,los angeles
+6567,1,satire,pos,horror,neg,False,animation
+6567,2,family,neg,mafia,neg,True,animation
+6567,3,funny,neg,new york city,neg,True,animation
+6567,4,children,neg,great soundtrack,pos,False,animation
+6567,5,seen more than once,neg,nudity (topless),neg,True,animation
+1547,1,true story,neg,disturbing,neg,True,oscar (best picture)
+1547,2,mental illness,neg,heist,neg,True,oscar (best picture)
+1547,3,mafia,neg,family,neg,True,oscar (best picture)
+1547,4,war,pos,france,neg,False,oscar (best picture)
+1547,5,dvd,neg,history,neg,True,oscar (best picture)
+4883,1,film noir,neg,fun,neg,True,comic book
+4883,2,revenge,pos,cute,neg,False,comic book
+4883,3,dark,neg,thriller,neg,True,comic book
+4883,4,action,pos,classic,neg,False,comic book
+4883,5,superhero,neg,biography,neg,True,comic book
+4425,1,war,pos,sports,pos,True,classic
+4425,2,organized crime,neg,drama,neg,True,classic
+4425,3,based on a book,pos,arnold schwarzenegger,neg,False,classic
+4425,4,mafia,neg,family,neg,True,classic
+4425,5,prison,neg,comic book,neg,True,classic
+4994,1,mystery,neg,biography,neg,True,clint eastwood
+4994,2,oscar (best picture),pos,cult film,neg,False,clint eastwood
+4994,3,drama,pos,hilarious,neg,False,clint eastwood
+4994,4,los angeles,pos,comic book,neg,False,clint eastwood
+4994,5,overrated,pos,overrated,pos,True,boxing
+5592,1,film noir,pos,fun,pos,True,comic book
+5592,2,revenge,pos,cute,neg,False,comic book
+5592,3,dark,neg,thriller,neg,True,comic book
+5592,4,action,pos,classic,neg,False,comic book
+5592,5,superhero,pos,biography,neg,False,comic book
+7659,1,organized crime,neg,drama,neg,True,dark comedy
+7659,2,samuel l jackson,neg,fun,neg,True,dark comedy
+7659,3,crime,neg,family,neg,True,dark comedy
+7659,4,quirky,pos,steven spielberg,pos,True,dark comedy
+7659,5,dvd,pos,oscar (best picture),neg,False,dark comedy
+1718,1,war,neg,sports,pos,False,classic
+1718,2,organized crime,neg,drama,neg,True,classic
+1718,3,based on a book,neg,arnold schwarzenegger,neg,True,classic
+1718,4,seen more than once,neg,nudity (topless),neg,True,classic
+1718,5,slow,pos,historical,neg,False,japan
+6030,1,nazis,neg,spoof,neg,True,prison
+6030,2,classic,pos,action,neg,False,prison
+6030,3,seen more than once,pos,nudity (topless),pos,True,prison
+6030,4,great movie,pos,high school,neg,False,prison
+6030,5,morgan freeman,pos,oscar (best actor),neg,False,prison
+6256,1,slow,pos,historical,neg,False,high school
+6256,2,seen more than once,pos,nudity (topless),neg,False,high school
+6256,3,dark comedy,neg,twist ending,neg,True,high school
+6256,4,romance,neg,action,neg,True,comedy
+6256,5,based on a book,neg,arnold schwarzenegger,neg,True,prison
+725,1,crime,pos,family,pos,True,great soundtrack
+725,2,paris,neg,action,neg,True,black and white
+725,3,music,neg,sequel,neg,True,black and white
+725,4,mystery,neg,biography,neg,True,black and white
+725,5,great soundtrack,pos,memory,neg,False,black and white
+258,1,war,neg,cult film,pos,False,classic
+258,2,organized crime,neg,drama,neg,True,classic
+258,3,based on a book,neg,arnold schwarzenegger,pos,False,classic
+258,4,dvd,neg,depressing,neg,True,classic
+258,5,family,neg,espionage,neg,True,classic
+6812,1,family,neg,mafia,neg,True,espionage
+6812,2,murder,neg,overrated,neg,True,espionage
+6812,3,boring,neg,nudity (topless),neg,True,espionage
+6812,4,james bond,neg,psychology,neg,True,espionage
+6812,5,memory,pos,great soundtrack,neg,False,espionage
+5578,1,war,neg,cult film,neg,True,action
+5578,2,dvd,neg,history,neg,True,action
+5578,3,harrison ford,neg,biography,neg,True,action
+5578,4,sci-fi,pos,murder,pos,True,action
+5578,5,aliens,pos,true story,neg,False,action
+1410,1,drama,pos,fantasy,pos,True,steven spielberg
+1410,2,war,neg,magic,neg,True,nazis
+1410,3,racism,neg,heist,pos,False,nazis
+1410,4,steven spielberg,pos,girlie movie,neg,False,nazis
+1410,5,interesting,neg,disturbing,neg,True,harrison ford
+1294,1,slow,pos,historical,neg,False,high school
+1294,2,seen more than once,neg,nudity (topless),neg,True,high school
+1294,3,black comedy,neg,violent,neg,True,high school
+1294,4,fun,neg,christmas,neg,True,high school
+1294,5,hilarious,neg,great soundtrack,neg,True,high school
+2305,1,sad,neg,beautiful,neg,True,history
+2305,2,true story,neg,disturbing,neg,True,history
+2305,3,based on a book,neg,arnold schwarzenegger,neg,True,classic
+2305,4,biography,pos,jim carrey,pos,True,history
+2305,5,surreal,neg,classic,pos,False,dark comedy
+3491,1,classic,neg,surreal,neg,True,martin scorsese
+3491,2,murder,neg,overrated,neg,True,martin scorsese
+3491,3,oscar (best picture),neg,music,pos,False,mafia
+3491,4,organized crime,neg,drama,neg,True,martin scorsese
+3491,5,beautiful,pos,love,neg,False,martin scorsese
+5739,1,war,pos,magic,neg,False,classic
+5739,2,organized crime,neg,drama,neg,True,classic
+5739,3,based on a book,pos,hilarious,neg,False,classic
+5739,4,dvd,neg,history,neg,True,classic
+5739,5,family,neg,espionage,neg,True,classic
+6350,1,violent,neg,girlie movie,neg,True,mafia
+6350,2,new york city,pos,funny,neg,False,mafia
+6350,3,family,neg,mafia,pos,False,mafia
+6350,4,oscar (best picture),pos,dvd,pos,True,mafia
+6350,5,martin scorsese,neg,sci-fi,neg,True,mafia
+3624,1,heist,neg,conspiracy,neg,True,racism
+3624,2,prison,neg,comic book,neg,True,racism
+3624,3,politics,pos,future,neg,False,racism
+3624,4,disturbing,neg,true story,neg,True,racism
+3624,5,nazis,neg,spoof,neg,True,racism
+2592,1,war,neg,sports,neg,True,classic
+2592,2,organized crime,neg,drama,neg,True,classic
+2592,3,based on a book,neg,arnold schwarzenegger,neg,True,classic
+2592,4,mafia,neg,family,neg,True,classic
+2592,5,prison,neg,animation,neg,True,classic
+2763,1,war,pos,sports,pos,True,action
+2763,2,dvd,neg,depressing,neg,True,action
+2763,3,harrison ford,neg,biography,neg,True,action
+2763,4,sci-fi,neg,adventure,neg,True,action
+2763,5,dark,neg,thriller,neg,True,action
+3580,1,dark,neg,thriller,neg,True,dystopia
+3580,2,robots,neg,nazis,neg,True,dystopia
+3580,3,surreal,neg,classic,pos,False,dystopia
+3580,4,dystopia,pos,oscar (best actor),neg,False,sci-fi
+3580,5,aliens,neg,cult film,pos,False,sci-fi
+1109,1,matt damon,neg,beautiful,neg,True,france
+1109,2,love,neg,shakespeare,neg,True,france
+1109,3,chick flick,neg,disturbing,neg,True,romance
+1109,4,paris,pos,action,neg,False,romance
+1109,5,fairy tale,neg,vampire,pos,False,france
+7150,1,sci-fi,neg,murder,neg,True,seen more than once
+7150,2,overrated,neg,nudity (topless - brief),neg,True,seen more than once
+7150,3,based on a book,neg,hilarious,neg,True,seen more than once
+7150,4,fantasy,neg,drama,neg,True,seen more than once
+7150,5,dvd,neg,oscar (best picture),neg,True,seen more than once
+1130,1,stephen king,neg,family,neg,True,ghosts
+1130,2,psychology,neg,james bond,neg,True,ghosts
+1130,3,drama,pos,organized crime,pos,True,ghosts
+1130,4,bruce willis,neg,comedy,pos,False,ghosts
+1130,5,dvd,pos,depressing,neg,False,ghosts
+2746,1,girlie movie,neg,steven spielberg,neg,True,paris
+2746,2,love,pos,underrated,neg,False,paris
+2746,3,quirky,neg,quirky,pos,False,paris
+2746,4,coming of age,neg,remake,neg,True,paris
+2746,5,romance,neg,action,neg,True,paris
+1402,1,war,pos,france,neg,False,classic
+1402,2,organized crime,neg,drama,pos,False,classic
+1402,3,morgan freeman,pos,oscar (best actor),pos,True,classic
+1402,4,dvd,pos,history,neg,False,classic
+1402,5,mafia,neg,mafia,neg,True,classic
+7956,1,tom hanks,neg,fantasy,neg,True,world war ii
+7956,2,nazis,neg,spoof,neg,True,world war ii
+7956,3,historical,pos,johnny depp,neg,False,world war ii
+7956,4,steven spielberg,pos,epic,pos,True,world war ii
+7956,5,holocaust,neg,adventure,neg,True,world war ii
+5323,1,spoof,neg,nazis,neg,True,super-hero
+5323,2,sci-fi,neg,murder,pos,False,superhero
+5323,3,dark,neg,thriller,neg,True,superhero
+5323,4,action,neg,classic,neg,True,superhero
+5323,5,superhero,pos,biography,neg,False,super-hero
+3995,1,dark,pos,thriller,neg,False,dystopia
+3995,2,robots,neg,violence,neg,True,dystopia
+3995,3,surreal,neg,scary,pos,False,dystopia
+3995,4,future,neg,overrated,neg,True,dystopia
+3995,5,post apocalyptic,neg,chick flick,neg,True,dystopia
+1321,1,war,neg,sports,neg,True,action
+1321,2,dvd,pos,oscar (best picture),pos,True,action
+1321,3,harrison ford,neg,biography,neg,True,action
+1321,4,sci-fi,neg,murder,neg,True,action
+1321,5,aliens,neg,historical,neg,True,action
+1598,1,stephen king,neg,family,neg,True,ghosts
+1598,2,psychology,neg,bruce willis,neg,True,ghosts
+1598,3,predictable,neg,violent,neg,True,ghosts
+1598,4,drama,pos,fantasy,neg,False,ghosts
+1598,5,twist ending,neg,dark comedy,pos,False,ghosts
+3145,1,quirky,neg,steven spielberg,neg,True,time travel
+3145,2,thriller,neg,comic book,neg,True,time travel
+3145,3,sci-fi,pos,murder,pos,True,time travel
+3145,4,arnold schwarzenegger,neg,based on a book,neg,True,time travel
+3145,5,post apocalyptic,neg,chick flick,neg,True,time travel
+5271,1,tom hanks,pos,fantasy,neg,False,world war ii
+5271,2,nazis,neg,spoof,neg,True,world war ii
+5271,3,historical,pos,aliens,neg,False,world war ii
+5271,4,steven spielberg,pos,epic,neg,False,world war ii
+5271,5,war,pos,war,pos,True,world war ii
+5539,1,fun,neg,christmas,neg,True,politics
+5539,2,revenge,neg,cute,neg,True,politics
+5539,3,comic book,neg,prison,neg,True,politics
+5539,4,documentary,neg,boring,neg,True,politics
+5539,5,conspiracy,pos,sean connery,pos,True,politics
+6424,1,quirky,neg,steven spielberg,neg,True,time travel
+6424,2,thriller,pos,teen,neg,False,time travel
+6424,3,future,pos,politics,neg,False,time travel
+6424,4,sci-fi,pos,adventure,neg,False,time travel
+6424,5,bruce willis,neg,bruce willis,neg,True,time travel
+6625,1,crime,pos,family,pos,True,violence
+6625,2,organized crime,pos,drama,neg,False,violence
+6625,3,racism,neg,heist,pos,False,violence
+6625,4,intense,pos,interesting,neg,False,violence
+6625,5,brad pitt,neg,brad pitt,neg,True,violence
+5805,1,quirky,neg,steven spielberg,neg,True,hilarious
+5805,2,cute,neg,world war ii,neg,True,hilarious
+5805,3,seen more than once,pos,nudity (topless),neg,False,hilarious
+5805,4,comedy,pos,romance,neg,False,hilarious
+5805,5,parody,pos,horror,neg,False,hilarious
+131,1,suspense,neg,satire,neg,True,crime
+131,2,black comedy,neg,violent,neg,True,crime
+131,3,heist,neg,conspiracy,pos,False,crime
+131,4,brad pitt,neg,beautiful,neg,True,crime
+131,5,serial killer,neg,new york city,neg,True,crime
+2723,1,dark,neg,thriller,neg,True,dystopia
+2723,2,robots,neg,black and white,neg,True,dystopia
+2723,3,cannibalism,neg,conspiracy,neg,True,disturbing
+2723,4,post apocalyptic,neg,chick flick,neg,True,dystopia
+2723,5,dvd,pos,depressing,neg,False,dystopia
+6817,1,war,neg,magic,neg,True,classic
+6817,2,fantasy,neg,stupid,pos,False,music
+6817,3,drama,neg,hilarious,neg,True,music
+6817,4,family,neg,mafia,neg,True,musical
+6817,5,classic,pos,action,neg,False,music
+4704,1,nudity (topless),neg,boring,neg,True,aliens
+4704,2,sci-fi,neg,martin scorsese,pos,False,aliens
+4704,3,cult film,neg,oscar (best picture),neg,True,aliens
+4704,4,satire,neg,suspense,neg,True,aliens
+4704,5,space,pos,history,neg,False,aliens
+3986,1,children,neg,great soundtrack,neg,True,johnny depp
+3986,2,horror,neg,satire,neg,True,johnny depp
+3986,3,action,neg,romance,neg,True,johnny depp
+3986,4,dark,neg,thriller,neg,True,johnny depp
+3986,5,predictable,neg,violent,neg,True,johnny depp
+7075,1,oscar (best picture),pos,music,neg,False,fantasy
+7075,2,epic,pos,steven spielberg,pos,True,fantasy
+7075,3,overrated,pos,murder,neg,False,fantasy
+7075,4,magic,neg,war,neg,True,fantasy
+7075,5,adventure,pos,history,neg,False,fantasy
+5553,1,great soundtrack,neg,memory,pos,False,nonlinear
+5553,2,oscar (best picture),neg,cult film,neg,True,fantasy
+5553,3,overrated,neg,murder,pos,False,fantasy
+5553,4,magic,pos,war,pos,True,fantasy
+5553,5,based on a book,neg,teen,neg,True,fantasy
+756,1,sci-fi,pos,adventure,pos,True,seen more than once
+756,2,superhero,neg,biography,neg,True,action
+756,3,aliens,neg,historical,neg,True,action
+756,4,comic book,pos,prison,pos,True,action
+756,5,arnold schwarzenegger,neg,based on a book,neg,True,action
+1904,1,war,pos,sports,neg,False,classic
+1904,2,organized crime,neg,drama,neg,True,classic
+1904,3,based on a book,pos,hilarious,neg,False,classic
+1904,4,dvd,neg,oscar (best picture),neg,True,classic
+1904,5,morgan freeman,neg,oscar (best actor),neg,True,classic
+6260,1,organized crime,pos,drama,neg,False,british
+6260,2,hilarious,neg,drama,neg,True,british
+6260,3,based on a book,neg,arnold schwarzenegger,neg,True,british
+6260,4,drugs,neg,terrorism,pos,False,british
+6260,5,violence,pos,sequel,neg,False,british
+4031,1,aliens,neg,cult film,neg,True,sci-fi
+4031,2,action,pos,romance,neg,False,sci-fi
+4031,3,dvd,pos,history,neg,False,sci-fi
+4031,4,sequel,neg,music,neg,True,sci-fi
+4031,5,harrison ford,neg,biography,neg,True,sci-fi
+2706,1,memory,pos,great soundtrack,pos,True,matt damon
+2706,2,boring,pos,nudity (topless),neg,False,matt damon
+2706,3,murder,neg,jude law,neg,True,matt damon
+2706,4,psychology,pos,james bond,neg,False,matt damon
+2706,5,espionage,neg,family,neg,True,matt damon
+6541,1,war,neg,magic,pos,False,classic
+6541,2,organized crime,neg,drama,neg,True,classic
+6541,3,based on a book,neg,teen,neg,True,classic
+6541,4,seen more than once,pos,comedy,neg,False,classic
+6541,5,oscar (best picture),neg,music,neg,True,classic
+7934,1,future,neg,overrated,neg,True,space
+7934,2,sequel,neg,music,neg,True,space
+7934,3,dvd,neg,depressing,pos,False,space
+7934,4,aliens,neg,cult film,neg,True,space
+7934,5,sci-fi,neg,adventure,neg,True,space
+4650,1,film noir,neg,fun,neg,True,comic book
+4650,2,spoof,pos,nazis,neg,False,super-hero
+4650,3,dark,neg,thriller,neg,True,super-hero
+4650,4,comic book,pos,prison,neg,False,superhero
+4650,5,sci-fi,neg,murder,neg,True,superhero
+7637,1,england,neg,post-apocalyptic,neg,True,parody
+7637,2,comedy,neg,bruce willis,neg,True,parody
+7637,3,satire,neg,suspense,neg,True,parody
+7637,4,stupid,pos,fantasy,neg,False,parody
+7637,5,cute,pos,tom cruise,neg,False,parody
+5652,1,aliens,pos,historical,pos,True,sci-fi
+5652,2,action,pos,classic,pos,True,sci-fi
+5652,3,sequel,neg,music,neg,True,sci-fi
+5652,4,dystopia,neg,oscar (best actor),neg,True,sci-fi
+5652,5,robots,pos,violence,neg,False,sci-fi
+860,1,sequel,neg,music,neg,True,robots
+860,2,arnold schwarzenegger,neg,based on a book,pos,False,robots
+860,3,dystopia,pos,oscar (best actor),neg,False,robots
+860,4,space,neg,boring,neg,True,robots
+860,5,sci-fi,pos,murder,pos,True,robots
+3834,1,oscar (best picture),pos,cult film,neg,False,mel gibson
+3834,2,overrated,pos,future,neg,False,mel gibson
+3834,3,biography,pos,superhero,neg,False,mel gibson
+3834,4,history,pos,history,pos,True,mel gibson
+3834,5,post apocalyptic,neg,post apocalyptic,neg,True,mel gibson
+2347,1,bruce willis,neg,psychology,neg,True,samuel l jackson
+2347,2,death,neg,high school,neg,True,nonlinear
+2347,3,twist ending,pos,dark comedy,pos,True,nonlinear
+2347,4,samuel l jackson,pos,fun,pos,True,nonlinear
+2347,5,interesting,neg,disturbing,pos,False,nonlinear
+28,1,war,neg,sports,pos,False,action
+28,2,dvd,pos,history,neg,False,action
+28,3,aliens,neg,true story,neg,True,action
+28,4,superhero,neg,biography,neg,True,action
+28,5,sci-fi,neg,adventure,neg,True,action
+4245,1,war,neg,france,neg,True,action
+4245,2,dvd,pos,oscar (best picture),neg,False,action
+4245,3,oscar (best picture),neg,music,pos,False,tom hanks
+4245,4,stephen king,neg,family,neg,True,tom hanks
+4245,5,drama,pos,fantasy,neg,False,tom hanks
+5375,1,drama,pos,fantasy,neg,False,twist ending
+5375,2,suspense,pos,time travel,neg,False,twist ending
+5375,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+5375,4,mystery,neg,nudity (topless - brief),neg,True,twist ending
+5375,5,psychology,pos,bruce willis,pos,True,twist ending
+5523,1,violent,neg,girlie movie,neg,True,mafia
+5523,2,new york city,pos,ghosts,neg,False,mafia
+5523,3,family,pos,mafia,pos,True,mafia
+5523,4,based on a book,pos,hilarious,neg,False,classic
+5523,5,war,pos,magic,neg,False,classic
+6087,1,love,pos,underrated,pos,True,girlie movie
+6087,2,morgan freeman,neg,oscar (best actor),neg,True,drama
+6087,3,prison,pos,musical,pos,True,drama
+6087,4,tom hanks,neg,fantasy,pos,False,drama
+6087,5,great movie,neg,high school,neg,True,drama
+6953,1,violent,neg,girlie movie,pos,False,mafia
+6953,2,new york city,pos,serial killer,neg,False,mafia
+6953,3,oscar (best actor),pos,dystopia,neg,False,mafia
+6953,4,family,pos,family,pos,True,mafia
+6953,5,violence,neg,violence,neg,True,mafia
+6298,1,aliens,neg,true story,neg,True,sci-fi
+6298,2,action,pos,classic,pos,True,sci-fi
+6298,3,sequel,pos,music,pos,True,sci-fi
+6298,4,dystopia,neg,oscar (best actor),neg,True,sci-fi
+6298,5,robots,pos,nazis,neg,False,sci-fi
+3727,1,aliens,neg,true story,neg,True,sci-fi
+3727,2,action,neg,romance,pos,False,sci-fi
+3727,3,dvd,pos,oscar (best picture),neg,False,sci-fi
+3727,4,sequel,pos,music,pos,True,sci-fi
+3727,5,harrison ford,pos,biography,neg,False,sci-fi
+7443,1,murder,pos,overrated,neg,False,serial killer
+7443,2,psychology,pos,bruce willis,neg,False,serial killer
+7443,3,disturbing,pos,true story,neg,False,serial killer
+7443,4,thriller,pos,thriller,pos,True,serial killer
+7443,5,police,pos,police,pos,True,serial killer
+7191,1,true story,pos,disturbing,neg,False,oscar (best picture)
+7191,2,mental illness,neg,heist,neg,True,oscar (best picture)
+7191,3,mafia,neg,family,neg,True,oscar (best picture)
+7191,4,war,neg,cult film,neg,True,oscar (best picture)
+7191,5,dvd,pos,depressing,neg,False,oscar (best picture)
+6623,1,war,neg,cult film,neg,True,action
+6623,2,dvd,neg,oscar (best picture),neg,True,action
+6623,3,harrison ford,pos,biography,neg,False,action
+6623,4,sci-fi,neg,murder,neg,True,action
+6623,5,super-hero,pos,cute,pos,True,action
+482,1,drama,neg,organized crime,neg,True,war
+482,2,historical,pos,johnny depp,neg,False,war
+482,3,holocaust,neg,adventure,neg,True,war
+482,4,africa,pos,scary,pos,True,war
+482,5,world war ii,neg,cute,neg,True,war
+6645,1,england,neg,post-apocalyptic,neg,True,parody
+6645,2,comedy,neg,bruce willis,neg,True,parody
+6645,3,satire,neg,suspense,neg,True,parody
+6645,4,stupid,pos,fantasy,neg,False,parody
+6645,5,cute,neg,world war ii,neg,True,parody
+3714,1,future,neg,politics,neg,True,space
+3714,2,sequel,pos,violence,pos,True,space
+3714,3,dvd,pos,depressing,neg,False,space
+3714,4,aliens,pos,historical,neg,False,space
+3714,5,sci-fi,pos,adventure,neg,False,space
+1009,1,classic,neg,woody allen,neg,True,martin scorsese
+1009,2,murder,neg,overrated,neg,True,martin scorsese
+1009,3,great movie,neg,high school,neg,True,martin scorsese
+1009,4,remake,neg,nicolas cage,neg,True,martin scorsese
+1009,5,violent,neg,girlie movie,neg,True,martin scorsese
+4580,1,time travel,neg,romance,neg,True,tom cruise
+4580,2,espionage,neg,family,neg,True,tom cruise
+4580,3,murder,neg,overrated,neg,True,tom cruise
+4580,4,remake,neg,mystery,neg,True,tom cruise
+4580,5,action,neg,classic,neg,True,tom cruise
+3080,1,violent,pos,girlie movie,neg,False,mafia
+3080,2,new york city,pos,funny,neg,False,mafia
+3080,3,oscar (best actor),pos,dystopia,neg,False,mafia
+3080,4,family,pos,family,pos,True,mafia
+3080,5,violence,neg,violence,neg,True,mafia
+877,1,dvd,pos,oscar (best picture),neg,False,quirky
+877,2,dark comedy,pos,dystopia,neg,False,quirky
+877,3,seen more than once,neg,nudity (topless),pos,False,quirky
+877,4,crime,pos,crime,pos,True,quirky
+877,5,memory,pos,memory,neg,False,quirky
+2295,1,satire,neg,marvel,neg,True,animation
+2295,2,family,neg,mafia,neg,True,animation
+2295,3,funny,neg,true story,pos,False,animation
+2295,4,children,neg,great soundtrack,neg,True,animation
+2295,5,disney,pos,parody,pos,True,animation
+2322,1,space,neg,boring,neg,True,post apocalyptic
+2322,2,post-apocalyptic,pos,anime,neg,False,cannibalism
+2322,3,disturbing,neg,true story,neg,True,cannibalism
+2322,4,crime,neg,family,neg,True,cannibalism
+2322,5,dvd,neg,depressing,neg,True,cannibalism
+1467,1,espionage,neg,family,neg,True,brad pitt
+1467,2,crime,pos,crime,pos,True,brad pitt
+1467,3,post apocalyptic,neg,chick flick,neg,True,brad pitt
+1467,4,thriller,neg,dark,neg,True,brad pitt
+1467,5,bruce willis,neg,psychology,neg,True,brad pitt
+1128,1,nudity (topless),neg,seen more than once,neg,True,aliens
+1128,2,sci-fi,neg,murder,neg,True,aliens
+1128,3,satire,neg,horror,neg,True,aliens
+1128,4,action,neg,classic,neg,True,aliens
+1128,5,great soundtrack,neg,memory,neg,True,anime
+1212,1,stephen king,neg,family,neg,True,ghosts
+1212,2,psychology,neg,bruce willis,neg,True,ghosts
+1212,3,predictable,neg,violent,neg,True,ghosts
+1212,4,drama,neg,fantasy,pos,False,ghosts
+1212,5,twist ending,neg,dark comedy,neg,True,ghosts
+5587,1,nudity (topless),pos,boring,pos,True,aliens
+5587,2,future,neg,politics,pos,False,space
+5587,3,dvd,neg,depressing,pos,False,space
+5587,4,aliens,pos,cult film,neg,False,space
+5587,5,politics,neg,politics,pos,False,satire
+2686,1,post-apocalyptic,pos,england,neg,False,cannibalism
+2686,2,oscar (best actor),neg,morgan freeman,neg,True,cannibalism
+2686,3,disturbing,neg,chick flick,neg,True,cannibalism
+2686,4,crime,pos,family,neg,False,cannibalism
+2686,5,thriller,neg,comic book,neg,True,cannibalism
+6157,1,war,pos,sports,neg,False,classic
+6157,2,organized crime,neg,drama,neg,True,classic
+6157,3,dvd,pos,oscar (best picture),pos,True,tom cruise
+6157,4,remake,neg,nicolas cage,neg,True,tom cruise
+6157,5,aliens,neg,cult film,neg,True,tom cruise
+1701,1,quirky,neg,steven spielberg,neg,True,time travel
+1701,2,thriller,pos,comic book,neg,False,time travel
+1701,3,future,neg,based on a true story,neg,True,time travel
+1701,4,sci-fi,pos,murder,pos,True,time travel
+1701,5,brad pitt,neg,beautiful,neg,True,time travel
+861,1,robots,neg,violence,neg,True,funny
+861,2,hilarious,neg,drama,pos,False,funny
+861,3,animation,pos,prison,neg,False,funny
+861,4,fun,neg,christmas,neg,True,funny
+861,5,fairy tale,neg,underrated,pos,False,funny
+3893,1,family,neg,mafia,neg,True,espionage
+3893,2,murder,neg,overrated,neg,True,espionage
+3893,3,boring,pos,nudity (topless),neg,False,espionage
+3893,4,james bond,neg,psychology,neg,True,espionage
+3893,5,matt damon,pos,beautiful,neg,False,espionage
+784,1,black and white,neg,robots,neg,True,vampires
+784,2,war,neg,magic,neg,True,classic
+784,3,based on a book,neg,arnold schwarzenegger,pos,False,classic
+784,4,mafia,neg,family,neg,True,classic
+784,5,prison,pos,musical,neg,False,classic
+4584,1,oscar (best picture),neg,music,neg,True,fantasy
+4584,2,robots,neg,violence,neg,True,children
+4584,3,based on a book,neg,arnold schwarzenegger,neg,True,seen more than once
+4584,4,prison,neg,comic book,neg,True,seen more than once
+4584,5,action,neg,paris,neg,True,fantasy
+1504,1,intense,neg,interesting,pos,False,surreal
+1504,2,quirky,pos,steven spielberg,neg,False,surreal
+1504,3,dystopia,neg,oscar (best actor),neg,True,surreal
+1504,4,sci-fi,neg,adventure,neg,True,surreal
+1504,5,memory,neg,great soundtrack,neg,True,surreal
+2829,1,true story,neg,disturbing,neg,True,oscar (best picture)
+2829,2,mental illness,neg,heist,neg,True,oscar (best picture)
+2829,3,mafia,neg,family,neg,True,oscar (best picture)
+2829,4,war,pos,france,neg,False,oscar (best picture)
+2829,5,dvd,pos,japan,neg,False,oscar (best picture)
+1421,1,war,pos,cult film,pos,True,classic
+1421,2,historical,neg,slow,neg,True,world war ii
+1421,3,true story,pos,disturbing,neg,False,world war ii
+1421,4,steven spielberg,pos,girlie movie,pos,True,world war ii
+1421,5,tom hanks,pos,fantasy,neg,False,world war ii
+6292,1,oscar (best picture),neg,music,pos,False,fantasy
+6292,2,epic,pos,steven spielberg,neg,False,fantasy
+6292,3,boring,pos,nudity (topless),neg,False,fantasy
+6292,4,dvd,pos,dvd,pos,True,fantasy
+6292,5,sequel,neg,sequel,neg,True,fantasy
+3013,1,africa,neg,scary,neg,True,drugs
+3013,2,intense,neg,interesting,neg,True,drugs
+3013,3,crime,pos,family,pos,True,drugs
+3013,4,dark,neg,thriller,neg,True,drugs
+3013,5,violence,neg,teen,pos,False,drugs
+7714,1,intense,neg,interesting,neg,True,surreal
+7714,2,quirky,pos,steven spielberg,neg,False,surreal
+7714,3,sci-fi,pos,adventure,neg,False,surreal
+7714,4,seen more than once,neg,nudity (topless),pos,False,surreal
+7714,5,jim carrey,pos,jim carrey,pos,True,surreal
+7199,1,children,neg,great soundtrack,neg,True,johnny depp
+7199,2,horror,neg,satire,neg,True,johnny depp
+7199,3,action,neg,classic,neg,True,johnny depp
+7199,4,dark,pos,thriller,neg,False,johnny depp
+7199,5,suspense,neg,time travel,neg,True,johnny depp
+5425,1,oscar (best picture),neg,dvd,neg,True,fantasy
+5425,2,epic,neg,steven spielberg,pos,False,fantasy
+5425,3,johnny depp,neg,historical,neg,True,dark
+5425,4,love,neg,underrated,neg,True,nicolas cage
+5425,5,depressing,pos,depressing,pos,True,dark
+6160,1,quirky,neg,steven spielberg,neg,True,time travel
+6160,2,thriller,neg,teen,neg,True,time travel
+6160,3,sci-fi,pos,murder,pos,True,time travel
+6160,4,arnold schwarzenegger,neg,based on a book,neg,True,time travel
+6160,5,post apocalyptic,neg,chick flick,neg,True,time travel
+2277,1,espionage,pos,family,pos,True,hitchcock
+2277,2,murder,neg,overrated,neg,True,hitchcock
+2277,3,black comedy,neg,violent,neg,True,hitchcock
+2277,4,thriller,pos,dark,neg,False,hitchcock
+2277,5,seen more than once,neg,nudity (topless),neg,True,hitchcock
+1968,1,sequel,neg,violence,neg,True,robots
+1968,2,arnold schwarzenegger,pos,based on a book,neg,False,robots
+1968,3,dystopia,neg,oscar (best actor),pos,False,robots
+1968,4,space,neg,zombies,pos,False,robots
+1968,5,sci-fi,neg,sci-fi,neg,True,robots
+3813,1,quirky,neg,steven spielberg,neg,True,hilarious
+3813,2,cute,pos,tom cruise,pos,True,hilarious
+3813,3,seen more than once,pos,comedy,pos,True,hilarious
+3813,4,music,pos,sequel,neg,False,hilarious
+3813,5,parody,pos,hitchcock,neg,False,hilarious
+173,1,love,neg,shakespeare,pos,False,religion
+173,2,death,neg,high school,neg,True,religion
+173,3,religion,pos,psychology,neg,False,hilarious
+173,4,cute,neg,tom cruise,neg,True,hilarious
+173,5,comedy,neg,romance,neg,True,hilarious
+1642,1,war,neg,france,neg,True,action
+1642,2,dvd,neg,oscar (best picture),neg,True,action
+1642,3,harrison ford,neg,biography,pos,False,action
+1642,4,stupid,neg,fantasy,neg,True,parody
+1642,5,zombies,pos,space,pos,True,parody
+5772,1,aliens,neg,true story,neg,True,sci-fi
+5772,2,action,pos,romance,neg,False,sci-fi
+5772,3,dvd,pos,depressing,neg,False,sci-fi
+5772,4,sequel,pos,music,neg,False,sci-fi
+5772,5,harrison ford,pos,harrison ford,pos,True,sci-fi
+5356,1,martial arts,pos,nazis,pos,True,heist
+5356,2,remake,pos,mystery,neg,False,heist
+5356,3,based on a true story,neg,future,neg,True,heist
+5356,4,cars,neg,beautiful,neg,True,heist
+5356,5,matt damon,pos,matt damon,pos,True,heist
+1472,1,historical,neg,johnny depp,neg,True,tom hanks
+1472,2,overrated,neg,future,neg,True,tom hanks
+1472,3,dvd,neg,oscar (best picture),neg,True,tom hanks
+1472,4,stephen king,neg,family,neg,True,tom hanks
+1472,5,oscar (best actor),neg,morgan freeman,neg,True,tom hanks
+7887,1,sad,pos,beautiful,pos,True,history
+7887,2,boring,neg,nudity (topless),neg,True,magic
+7887,3,dvd,neg,oscar (best picture),neg,True,magic
+7887,4,sequel,neg,violence,neg,True,magic
+7887,5,fantasy,neg,tom hanks,neg,True,magic
+5021,1,murder,neg,overrated,neg,True,serial killer
+5021,2,psychology,neg,bruce willis,neg,True,serial killer
+5021,3,brad pitt,pos,beautiful,neg,False,serial killer
+5021,4,cannibalism,pos,conspiracy,neg,False,serial killer
+5021,5,crime,pos,family,neg,False,serial killer
+5749,1,film noir,neg,fun,neg,True,comic book
+5749,2,revenge,pos,cute,pos,True,comic book
+5749,3,dark,neg,thriller,neg,True,super-hero
+5749,4,marvel,neg,satire,pos,False,comic book
+5749,5,animation,neg,prison,neg,True,super-hero
+530,1,drama,neg,organized crime,neg,True,twist ending
+530,2,suspense,pos,satire,neg,False,twist ending
+530,3,mystery,pos,nudity (topless - brief),neg,False,twist ending
+530,4,memory,neg,great soundtrack,neg,True,twist ending
+530,5,bruce willis,neg,comedy,neg,True,twist ending
+2586,1,murder,neg,jude law,neg,True,serial killer
+2586,2,psychology,neg,religion,neg,True,serial killer
+2586,3,brad pitt,pos,beautiful,neg,False,serial killer
+2586,4,cannibalism,pos,conspiracy,neg,False,serial killer
+2586,5,crime,pos,family,neg,False,serial killer
+164,1,action,neg,classic,neg,True,anime
+164,2,fantasy,pos,tom hanks,neg,False,anime
+164,3,beautiful,neg,sad,neg,True,anime
+164,4,fun,pos,samuel l jackson,neg,False,anime
+164,5,japan,pos,dvd,neg,False,anime
+1166,1,organized crime,neg,drama,neg,True,cult film
+1166,2,musical,pos,prison,neg,False,cult film
+1166,3,mystery,neg,remake,neg,True,cult film
+1166,4,samuel l jackson,neg,fun,neg,True,cult film
+1166,5,zombies,neg,space,neg,True,cult film
+3198,1,quirky,neg,steven spielberg,neg,True,time travel
+3198,2,thriller,pos,comic book,neg,False,time travel
+3198,3,future,neg,oscar (best actor),neg,True,time travel
+3198,4,sci-fi,neg,murder,pos,False,time travel
+3198,5,brad pitt,pos,beautiful,neg,False,time travel
+1455,1,drama,neg,fantasy,neg,True,chick flick
+1455,2,fun,pos,samuel l jackson,neg,False,chick flick
+1455,3,tom hanks,neg,tom hanks,neg,True,chick flick
+1455,4,cute,neg,tom cruise,neg,True,chick flick
+1455,5,british,neg,nazis,neg,True,chick flick
+6095,1,drama,pos,hilarious,neg,False,war
+6095,2,historical,pos,johnny depp,neg,False,war
+6095,3,dvd,pos,history,neg,False,war
+6095,4,holocaust,neg,holocaust,neg,True,war
+6095,5,classic,pos,classic,pos,True,war
+7971,1,aliens,neg,true story,neg,True,sci-fi
+7971,2,action,pos,romance,neg,False,sci-fi
+7971,3,dvd,pos,depressing,pos,True,sci-fi
+7971,4,sequel,pos,violence,neg,False,sci-fi
+7971,5,space,pos,zombies,neg,False,sci-fi
+2188,1,war,neg,france,neg,True,action
+2188,2,dvd,neg,depressing,neg,True,action
+2188,3,harrison ford,neg,biography,neg,True,action
+2188,4,sci-fi,neg,martin scorsese,neg,True,action
+2188,5,aliens,neg,historical,neg,True,action
+2522,1,nudity (topless),neg,boring,neg,True,aliens
+2522,2,sci-fi,neg,adventure,neg,True,aliens
+2522,3,satire,pos,horror,pos,True,aliens
+2522,4,action,neg,paris,neg,True,aliens
+2522,5,future,neg,oscar (best actor),neg,True,aliens
+4123,1,war,pos,cult film,neg,False,classic
+4123,2,organized crime,pos,drama,pos,True,classic
+4123,3,based on a book,pos,teen,neg,False,classic
+4123,4,dvd,neg,depressing,neg,True,classic
+4123,5,family,neg,mafia,neg,True,classic
+6492,1,great soundtrack,pos,memory,neg,False,nonlinear
+6492,2,dark comedy,pos,dystopia,neg,False,samuel l jackson
+6492,3,twist ending,neg,twist ending,neg,True,nonlinear
+6492,4,crime,pos,family,neg,False,samuel l jackson
+6492,5,samuel l jackson,pos,samuel l jackson,pos,True,nonlinear
+6095,1,tom hanks,neg,fantasy,neg,True,world war ii
+6095,2,nazis,neg,police,neg,True,world war ii
+6095,3,historical,neg,johnny depp,neg,True,world war ii
+6095,4,steven spielberg,neg,epic,pos,False,world war ii
+6095,5,oscar (best picture),pos,dvd,neg,False,world war ii
+4523,1,great soundtrack,neg,memory,neg,True,nonlinear
+4523,2,africa,pos,scary,pos,True,drugs
+4523,3,twist ending,neg,dark comedy,neg,True,nonlinear
+4523,4,mystery,neg,biography,neg,True,nonlinear
+4523,5,samuel l jackson,pos,fun,pos,True,nonlinear
+891,1,slow,neg,historical,neg,True,baseball
+891,2,drama,neg,organized crime,neg,True,baseball
+891,3,super-hero,pos,cute,pos,True,baseball
+891,4,fun,neg,samuel l jackson,neg,True,baseball
+891,5,world war ii,neg,world war ii,neg,True,baseball
+5486,1,true story,neg,disturbing,neg,True,oscar (best picture)
+5486,2,mental illness,neg,heist,neg,True,oscar (best picture)
+5486,3,mafia,neg,family,pos,False,oscar (best picture)
+5486,4,war,neg,cult film,neg,True,oscar (best picture)
+5486,5,classic,neg,surreal,neg,True,oscar (best picture)
+5785,1,africa,pos,scary,pos,True,drugs
+5785,2,nonlinear,neg,oscar (best actor),neg,True,organized crime
+5785,3,brad pitt,pos,beautiful,pos,True,serial killer
+5785,4,drugs,neg,terrorism,pos,False,british
+5785,5,surreal,neg,classic,pos,False,violence
+2843,1,boring,neg,nudity (topless),pos,False,magic
+2843,2,adventure,neg,history,neg,True,magic
+2843,3,dvd,neg,oscar (best picture),neg,True,magic
+2843,4,sequel,neg,music,neg,True,magic
+2843,5,overrated,neg,murder,neg,True,magic
+7969,1,war,pos,cult film,neg,False,classic
+7969,2,organized crime,neg,drama,pos,False,classic
+7969,3,morgan freeman,neg,oscar (best actor),neg,True,classic
+7969,4,dvd,pos,oscar (best picture),pos,True,classic
+7969,5,based on a book,pos,hilarious,pos,True,classic
+6115,1,suspense,neg,satire,neg,True,crime
+6115,2,black comedy,pos,violent,neg,False,crime
+6115,3,dvd,neg,history,neg,True,tom hanks
+6115,4,drama,neg,organized crime,neg,True,tom hanks
+6115,5,space,neg,boring,neg,True,tom hanks
+515,1,post apocalyptic,neg,chick flick,neg,True,martial arts
+515,2,japan,pos,dvd,neg,False,martial arts
+515,3,seen more than once,pos,nudity (topless),neg,False,martial arts
+515,4,dystopia,neg,oscar (best actor),pos,False,martial arts
+515,5,beautiful,neg,beautiful,neg,True,martial arts
+4740,1,great soundtrack,neg,children,neg,True,nonlinear
+4740,2,death,pos,high school,neg,False,nonlinear
+4740,3,twist ending,pos,dark comedy,neg,False,nonlinear
+4740,4,psychology,pos,bruce willis,neg,False,nonlinear
+4740,5,memory,neg,memory,neg,True,nonlinear
+725,1,future,pos,politics,pos,True,space
+725,2,sequel,pos,violence,neg,False,space
+725,3,adventure,pos,sci-fi,pos,True,space
+725,4,satire,pos,horror,pos,True,space
+725,5,harrison ford,neg,biography,neg,True,space
+7633,1,world war ii,neg,cute,pos,False,007
+7633,2,england,neg,post-apocalyptic,neg,True,007
+7633,3,espionage,pos,family,pos,True,007
+7633,4,murder,pos,overrated,neg,False,007
+7633,5,action,pos,classic,pos,True,007
+7092,1,twist ending,neg,dark comedy,neg,True,revenge
+7092,2,robots,neg,violence,neg,True,funny
+7092,3,crime,neg,family,neg,True,quirky
+7092,4,love,neg,beautiful,neg,True,quirky
+7092,5,london,neg,underrated,neg,True,revenge
+4460,1,murder,neg,sci-fi,neg,True,serial killer
+4460,2,psychology,neg,james bond,neg,True,serial killer
+4460,3,brad pitt,neg,beautiful,neg,True,serial killer
+4460,4,cannibalism,neg,conspiracy,neg,True,serial killer
+4460,5,disturbing,pos,chick flick,neg,False,serial killer
+2416,1,dark,neg,thriller,neg,True,dystopia
+2416,2,robots,pos,violence,pos,True,dystopia
+2416,3,surreal,neg,classic,pos,False,dystopia
+2416,4,future,pos,politics,pos,True,dystopia
+2416,5,sci-fi,neg,murder,neg,True,dystopia
+2988,1,drama,neg,fantasy,neg,True,steven spielberg
+2988,2,tom cruise,neg,cute,neg,True,steven spielberg
+2988,3,future,pos,based on a true story,pos,True,steven spielberg
+2988,4,nazis,neg,spoof,neg,True,steven spielberg
+2988,5,harrison ford,neg,biography,neg,True,steven spielberg
+3545,1,musical,neg,prison,neg,True,london
+3545,2,africa,pos,scary,neg,False,london
+3545,3,revenge,neg,cute,neg,True,london
+3545,4,comic book,neg,thriller,neg,True,london
+3545,5,england,pos,post-apocalyptic,neg,False,london
+6135,1,war,neg,cult film,neg,True,classic
+6135,2,organized crime,neg,drama,neg,True,classic
+6135,3,based on a book,neg,hilarious,pos,False,classic
+6135,4,mafia,neg,family,neg,True,classic
+6135,5,prison,pos,animation,neg,False,classic
+1915,1,future,pos,oscar (best actor),pos,True,space
+1915,2,sequel,neg,suicide,neg,True,space
+1915,3,dvd,pos,japan,neg,False,space
+1915,4,aliens,pos,cult film,neg,False,space
+1915,5,sci-fi,pos,murder,neg,False,space
+7193,1,murder,neg,overrated,neg,True,fairy tale
+7193,2,disney,pos,parody,neg,False,fairy tale
+7193,3,satire,pos,suspense,neg,False,fairy tale
+7193,4,based on a book,neg,teen,neg,True,fairy tale
+7193,5,funny,pos,new york city,neg,False,fairy tale
+2496,1,aliens,pos,true story,neg,False,sci-fi
+2496,2,oscar (best picture),neg,music,neg,True,fantasy
+2496,3,overrated,pos,murder,pos,True,fantasy
+2496,4,dystopia,pos,oscar (best actor),neg,False,sci-fi
+2496,5,space,neg,boring,neg,True,sci-fi
+4403,1,africa,neg,scary,neg,True,drugs
+4403,2,intense,neg,interesting,neg,True,drugs
+4403,3,crime,neg,family,neg,True,drugs
+4403,4,dark,neg,thriller,neg,True,drugs
+4403,5,violence,pos,sequel,neg,False,drugs
+227,1,film noir,pos,fun,neg,False,comic book
+227,2,revenge,neg,cute,neg,True,comic book
+227,3,action,pos,classic,neg,False,comic book
+227,4,marvel,neg,satire,neg,True,comic book
+227,5,super-hero,pos,super-hero,pos,True,comic book
+869,1,morgan freeman,neg,oscar (best actor),neg,True,drama
+869,2,stephen king,neg,family,neg,True,drama
+869,3,prison,neg,musical,pos,False,drama
+869,4,tom hanks,neg,fantasy,neg,True,drama
+869,5,mel gibson,neg,terrorism,neg,True,drama
+5792,1,oscar (best picture),neg,dvd,neg,True,fantasy
+5792,2,epic,pos,steven spielberg,neg,False,fantasy
+5792,3,seen more than once,pos,nudity (topless),neg,False,fantasy
+5792,4,sequel,pos,music,pos,True,fantasy
+5792,5,boring,pos,nudity (topless),neg,False,fantasy
+5355,1,drama,pos,organized crime,neg,False,twist ending
+5355,2,suspense,pos,satire,neg,False,twist ending
+5355,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+5355,4,mystery,neg,nudity (topless - brief),pos,False,twist ending
+5355,5,psychology,neg,psychology,neg,True,twist ending
+1960,1,dvd,neg,oscar (best picture),neg,True,bruce willis
+1960,2,thriller,pos,comic book,neg,False,bruce willis
+1960,3,post apocalyptic,neg,chick flick,neg,True,bruce willis
+1960,4,ghosts,neg,new york city,neg,True,bruce willis
+1960,5,twist ending,neg,dark comedy,neg,True,bruce willis
+1908,1,satire,neg,horror,neg,True,animation
+1908,2,family,pos,espionage,pos,True,animation
+1908,3,funny,neg,girlie movie,neg,True,animation
+1908,4,children,pos,great soundtrack,neg,False,animation
+1908,5,seen more than once,neg,comedy,pos,False,animation
+2052,1,war,pos,cult film,neg,False,classic
+2052,2,organized crime,neg,drama,neg,True,classic
+2052,3,based on a book,pos,arnold schwarzenegger,neg,False,classic
+2052,4,dvd,neg,depressing,neg,True,classic
+2052,5,family,neg,mafia,neg,True,classic
+7797,1,bruce willis,neg,psychology,neg,True,samuel l jackson
+7797,2,great movie,neg,high school,pos,False,samuel l jackson
+7797,3,crime,neg,family,pos,False,samuel l jackson
+7797,4,death,neg,high school,neg,True,nonlinear
+7797,5,samuel l jackson,pos,fun,neg,False,nonlinear
+6554,1,classic,neg,action,neg,True,martin scorsese
+6554,2,dvd,neg,depressing,neg,True,mafia
+6554,3,new york city,neg,funny,neg,True,mafia
+6554,4,oscar (best picture),neg,music,pos,False,classic
+6554,5,murder,neg,overrated,neg,True,mafia
+4442,1,satire,pos,horror,neg,False,animation
+4442,2,family,pos,espionage,neg,False,animation
+4442,3,comedy,pos,bruce willis,neg,False,animation
+4442,4,fun,neg,fun,neg,True,animation
+4442,5,seen more than once,neg,seen more than once,neg,True,animation
+1611,1,historical,neg,johnny depp,neg,True,tom hanks
+1611,2,overrated,neg,nudity (topless - brief),neg,True,tom hanks
+1611,3,dvd,neg,depressing,neg,True,tom hanks
+1611,4,stephen king,neg,family,neg,True,tom hanks
+1611,5,steven spielberg,pos,quirky,neg,False,tom hanks
+5597,1,coming of age,pos,remake,neg,False,romance
+5597,2,historical,neg,johnny depp,neg,True,tom hanks
+5597,3,dvd,neg,depressing,neg,True,tom hanks
+5597,4,stephen king,neg,family,neg,True,tom hanks
+5597,5,oscar (best actor),neg,nonlinear,neg,True,tom hanks
+155,1,nudity (topless - brief),pos,mystery,neg,False,zombies
+155,2,cult film,neg,aliens,neg,True,zombies
+155,3,comedy,neg,seen more than once,neg,True,zombies
+155,4,post-apocalyptic,pos,england,pos,True,zombies
+155,5,shakespeare,neg,love,neg,True,zombies
+5369,1,great soundtrack,neg,memory,neg,True,nonlinear
+5369,2,psychology,neg,religion,pos,False,nonlinear
+5369,3,interesting,pos,disturbing,neg,False,nonlinear
+5369,4,black and white,pos,robots,pos,True,nonlinear
+5369,5,cult film,neg,oscar (best picture),neg,True,nonlinear
+2142,1,classic,pos,surreal,neg,False,martin scorsese
+2142,2,murder,neg,overrated,neg,True,martin scorsese
+2142,3,great movie,neg,high school,pos,False,martin scorsese
+2142,4,remake,pos,coming of age,pos,True,martin scorsese
+2142,5,organized crime,neg,drama,neg,True,martin scorsese
+4278,1,drama,neg,organized crime,pos,False,twist ending
+4278,2,suspense,pos,time travel,neg,False,twist ending
+4278,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+4278,4,mystery,neg,biography,neg,True,twist ending
+4278,5,psychology,neg,bruce willis,neg,True,twist ending
+1733,1,intense,pos,interesting,neg,False,japan
+1733,2,historical,pos,slow,neg,False,japan
+1733,3,romance,neg,action,pos,False,japan
+1733,4,overrated,neg,overrated,neg,True,japan
+1733,5,police,neg,police,neg,True,japan
+302,1,heist,neg,racism,neg,True,racism
+302,2,classic,neg,action,neg,True,prison
+302,3,great movie,neg,high school,neg,True,prison
+302,4,based on a book,neg,arnold schwarzenegger,neg,True,prison
+302,5,drama,neg,hilarious,neg,True,prison
+3879,1,war,neg,france,neg,True,action
+3879,2,dvd,pos,oscar (best picture),neg,False,action
+3879,3,superhero,neg,biography,neg,True,action
+3879,4,action,pos,classic,pos,True,sci-fi
+3879,5,harrison ford,neg,harrison ford,neg,True,sci-fi
+7604,1,sean connery,neg,conspiracy,neg,True,alfred hitchcock
+7604,2,horror,pos,parody,neg,False,alfred hitchcock
+7604,3,thriller,neg,comic book,neg,True,alfred hitchcock
+7604,4,psychology,neg,religion,neg,True,alfred hitchcock
+7604,5,hitchcock,pos,parody,neg,False,alfred hitchcock
+1162,1,murder,neg,overrated,neg,True,fairy tale
+1162,2,disney,pos,fairy tale,pos,True,fairy tale
+1162,3,comedy,neg,seen more than once,neg,True,animation
+1162,4,funny,pos,girlie movie,neg,False,animation
+1162,5,children,neg,great soundtrack,neg,True,animation
+1688,1,black and white,neg,robots,neg,True,vampires
+1688,2,dvd,pos,history,neg,False,vampires
+1688,3,cult film,pos,aliens,pos,True,vampires
+1688,4,interesting,neg,disturbing,neg,True,vampires
+1688,5,vampire,pos,fairy tale,neg,False,vampires
+2791,1,tom hanks,pos,fantasy,pos,True,world war ii
+2791,2,nazis,neg,british,neg,True,world war ii
+2791,3,historical,pos,johnny depp,pos,True,world war ii
+2791,4,steven spielberg,pos,quirky,neg,False,world war ii
+2791,5,oscar (best picture),neg,music,neg,True,world war ii
+4949,1,action,neg,paris,neg,True,terrorism
+4949,2,comic book,neg,prison,neg,True,terrorism
+4949,3,violence,neg,sequel,neg,True,terrorism
+4949,4,documentary,pos,boring,neg,False,terrorism
+4949,5,dystopia,neg,new york,neg,True,terrorism
+790,1,film noir,neg,fun,neg,True,comic book
+790,2,spoof,neg,nazis,neg,True,super-hero
+790,3,dark,neg,thriller,neg,True,super-hero
+790,4,marvel,neg,satire,pos,False,comic book
+790,5,superhero,pos,biography,neg,False,comic book
+2420,1,fantasy,neg,tom hanks,neg,True,music
+2420,2,hilarious,neg,based on a book,neg,True,music
+2420,3,drama,neg,organized crime,neg,True,music
+2420,4,aliens,neg,cult film,neg,True,satire
+2420,5,war,pos,france,pos,True,classic
+1111,1,drama,neg,organized crime,neg,True,chick flick
+1111,2,fun,pos,samuel l jackson,neg,False,chick flick
+1111,3,tom hanks,neg,fantasy,neg,True,chick flick
+1111,4,cute,pos,tom cruise,neg,False,chick flick
+1111,5,girlie movie,pos,violent,neg,False,chick flick
+1856,1,steven spielberg,neg,girlie movie,neg,True,dvd
+1856,2,war,neg,cult film,pos,False,classic
+1856,3,action,neg,classic,pos,False,dvd
+1856,4,sci-fi,neg,murder,neg,True,dvd
+1856,5,alfred hitchcock,neg,suspense,neg,True,classic
+6590,1,true story,neg,disturbing,neg,True,oscar (best picture)
+6590,2,mental illness,neg,heist,neg,True,oscar (best picture)
+6590,3,mafia,neg,family,neg,True,oscar (best picture)
+6590,4,war,neg,cult film,neg,True,oscar (best picture)
+6590,5,world war ii,neg,cute,neg,True,oscar (best picture)
+2932,1,film noir,neg,fun,neg,True,comic book
+2932,2,revenge,pos,cute,neg,False,comic book
+2932,3,dark,neg,thriller,neg,True,comic book
+2932,4,action,pos,romance,neg,False,comic book
+2932,5,superhero,pos,biography,neg,False,comic book
+295,1,war,neg,cult film,neg,True,classic
+295,2,steven spielberg,neg,quirky,neg,True,dvd
+295,3,action,pos,classic,pos,True,dvd
+295,4,nudity (topless),neg,boring,neg,True,aliens
+295,5,based on a true story,neg,future,neg,True,space
+7238,1,black and white,neg,robots,neg,True,vampires
+7238,2,dvd,pos,depressing,pos,True,vampires
+7238,3,interesting,neg,intense,neg,True,vampires
+7238,4,underrated,pos,love,pos,True,vampires
+7238,5,tom cruise,neg,cute,neg,True,vampires
+21,1,oscar (best picture),neg,music,neg,True,overrated
+21,2,intense,neg,interesting,neg,True,surreal
+21,3,seen more than once,neg,nudity (topless),neg,True,surreal
+21,4,boxing,neg,bruce willis,neg,True,los angeles
+21,5,black comedy,neg,violent,neg,True,los angeles
+2505,1,oscar (best picture),pos,music,neg,False,overrated
+2505,2,drama,pos,fantasy,neg,False,overrated
+2505,3,tom hanks,neg,fantasy,neg,True,overrated
+2505,4,martial arts,neg,nazis,neg,True,overrated
+2505,5,mel gibson,pos,terrorism,neg,False,overrated
+492,1,aliens,neg,true story,neg,True,sci-fi
+492,2,action,neg,classic,neg,True,sci-fi
+492,3,sequel,neg,suicide,pos,False,sci-fi
+492,4,dystopia,neg,oscar (best actor),neg,True,sci-fi
+492,5,space,pos,history,neg,False,sci-fi
+2661,1,war,neg,france,neg,True,action
+2661,2,dvd,neg,history,neg,True,action
+2661,3,harrison ford,neg,biography,neg,True,action
+2661,4,sci-fi,neg,adventure,neg,True,action
+2661,5,dark,neg,thriller,neg,True,action
+4645,1,quirky,pos,steven spielberg,neg,False,time travel
+4645,2,thriller,neg,teen,pos,False,time travel
+4645,3,post apocalyptic,neg,chick flick,neg,True,time travel
+4645,4,future,neg,oscar (best actor),neg,True,time travel
+4645,5,arnold schwarzenegger,neg,based on a book,neg,True,time travel
+4607,1,sci-fi,neg,murder,neg,True,superhero
+4607,2,film noir,neg,fun,neg,True,comic book
+4607,3,action,neg,classic,pos,False,comic book
+4607,4,marvel,pos,satire,neg,False,comic book
+4607,5,superhero,pos,biography,pos,True,super-hero
+7273,1,sci-fi,pos,murder,neg,False,superhero
+7273,2,spoof,neg,nazis,neg,True,super-hero
+7273,3,dark,neg,thriller,neg,True,super-hero
+7273,4,marvel,pos,satire,neg,False,super-hero
+7273,5,super-hero,pos,cute,neg,False,superhero
+32,1,dark,neg,thriller,pos,False,dystopia
+32,2,robots,neg,black and white,neg,True,dystopia
+32,3,surreal,neg,classic,pos,False,dystopia
+32,4,future,neg,oscar (best actor),neg,True,dystopia
+32,5,post apocalyptic,pos,chick flick,neg,False,dystopia
+4805,1,dark,neg,thriller,neg,True,dystopia
+4805,2,robots,pos,black and white,neg,False,dystopia
+4805,3,comic book,neg,prison,neg,True,dystopia
+4805,4,surreal,neg,classic,neg,True,dystopia
+4805,5,sci-fi,pos,martin scorsese,neg,False,dystopia
+6729,1,aliens,neg,cult film,neg,True,sci-fi
+6729,2,action,pos,classic,pos,True,sci-fi
+6729,3,sequel,pos,music,pos,True,sci-fi
+6729,4,seen more than once,neg,nudity (topless),pos,False,space
+6729,5,religion,neg,conspiracy,pos,False,parody
+2075,1,satire,neg,horror,neg,True,animation
+2075,2,family,neg,mafia,neg,True,animation
+2075,3,funny,neg,true story,neg,True,animation
+2075,4,children,neg,great soundtrack,neg,True,animation
+2075,5,comedy,neg,romance,neg,True,animation
+6338,1,interesting,neg,high school,neg,True,harrison ford
+6338,2,action,neg,classic,pos,False,harrison ford
+6338,3,great soundtrack,pos,hilarious,neg,False,harrison ford
+6338,4,adventure,neg,holocaust,neg,True,harrison ford
+6338,5,nazis,neg,police,neg,True,harrison ford
+2660,1,intense,pos,interesting,neg,False,surreal
+2660,2,quirky,pos,steven spielberg,neg,False,surreal
+2660,3,dystopia,neg,oscar (best actor),neg,True,surreal
+2660,4,sci-fi,neg,adventure,neg,True,surreal
+2660,5,memory,neg,great soundtrack,neg,True,surreal
+211,1,sci-fi,neg,adventure,neg,True,seen more than once
+211,2,superhero,neg,biography,neg,True,action
+211,3,aliens,neg,cult film,pos,False,action
+211,4,espionage,neg,family,neg,True,action
+211,5,dvd,pos,history,neg,False,action
+4887,1,love,neg,underrated,neg,True,religion
+4887,2,death,pos,high school,neg,False,religion
+4887,3,adventure,neg,history,neg,True,religion
+4887,4,sad,pos,beautiful,pos,True,religion
+4887,5,comedy,pos,bruce willis,neg,False,religion
+6536,1,historical,neg,slow,neg,True,tom hanks
+6536,2,overrated,neg,nudity (topless - brief),neg,True,tom hanks
+6536,3,dvd,pos,history,neg,False,tom hanks
+6536,4,stephen king,neg,family,neg,True,tom hanks
+6536,5,oscar (best actor),neg,dystopia,neg,True,tom hanks
+1866,1,action,neg,romance,neg,True,anime
+1866,2,fantasy,pos,stupid,neg,False,anime
+1866,3,cute,neg,world war ii,neg,True,anime
+1866,4,animation,neg,prison,neg,True,anime
+1866,5,fun,pos,christmas,neg,False,anime
+5586,1,espionage,neg,family,neg,True,hitchcock
+5586,2,murder,neg,overrated,neg,True,hitchcock
+5586,3,black comedy,neg,violent,neg,True,hitchcock
+5586,4,thriller,pos,comic book,pos,True,hitchcock
+5586,5,horror,neg,satire,neg,True,hitchcock
+1041,1,africa,neg,scary,neg,True,drugs
+1041,2,intense,neg,interesting,neg,True,drugs
+1041,3,crime,neg,family,pos,False,drugs
+1041,4,dark,neg,thriller,pos,False,drugs
+1041,5,dvd,neg,oscar (best picture),neg,True,quirky
+6298,1,spoof,neg,nazis,pos,False,super-hero
+6298,2,action,pos,classic,neg,False,super-hero
+6298,3,new york,neg,dystopia,pos,False,super-hero
+6298,4,sequel,pos,sequel,pos,True,super-hero
+6298,5,dvd,pos,dvd,pos,True,super-hero
+3232,1,nazis,pos,british,neg,False,prison
+3232,2,classic,pos,woody allen,neg,False,prison
+3232,3,revenge,pos,cute,neg,False,prison
+3232,4,seen more than once,pos,seen more than once,pos,True,prison
+3232,5,drama,pos,drama,pos,True,prison
+2788,1,nudity (topless - brief),pos,mystery,neg,False,zombies
+2788,2,cult film,pos,aliens,neg,False,zombies
+2788,3,sequel,neg,violence,neg,True,zombies
+2788,4,spoof,pos,nazis,pos,True,zombies
+2788,5,post-apocalyptic,neg,england,neg,True,zombies
+2549,1,comic book,neg,prison,neg,True,jim carrey
+2549,2,quirky,neg,steven spielberg,neg,True,jim carrey
+2549,3,romance,neg,action,neg,True,jim carrey
+2549,4,memory,neg,great soundtrack,neg,True,jim carrey
+2549,5,drama,neg,fantasy,neg,True,jim carrey
+4189,1,intense,neg,interesting,neg,True,surreal
+4189,2,quirky,pos,steven spielberg,neg,False,surreal
+4189,3,sci-fi,pos,murder,pos,True,surreal
+4189,4,seen more than once,pos,nudity (topless),neg,False,surreal
+4189,5,love,pos,underrated,neg,False,surreal
+5869,1,intense,neg,interesting,neg,True,surreal
+5869,2,quirky,pos,steven spielberg,neg,False,surreal
+5869,3,sci-fi,pos,adventure,neg,False,surreal
+5869,4,seen more than once,pos,nudity (topless),neg,False,surreal
+5869,5,jim carrey,pos,jim carrey,pos,True,surreal
+2053,1,war,pos,france,neg,False,action
+2053,2,dvd,neg,history,neg,True,action
+2053,3,harrison ford,neg,biography,neg,True,action
+2053,4,sci-fi,pos,murder,neg,False,action
+2053,5,dark,neg,thriller,neg,True,action
+69,1,satire,neg,marvel,neg,True,animation
+69,2,family,neg,espionage,neg,True,animation
+69,3,funny,neg,new york city,neg,True,animation
+69,4,children,neg,great soundtrack,neg,True,animation
+69,5,comedy,pos,seen more than once,pos,True,animation
+2866,1,future,neg,oscar (best actor),neg,True,space
+2866,2,war,neg,sports,neg,True,aliens
+2866,3,organized crime,neg,drama,neg,True,classic
+2866,4,sci-fi,pos,murder,neg,False,space
+2866,5,historical,neg,slow,neg,True,space
+1059,1,drama,pos,organized crime,neg,False,war
+1059,2,historical,pos,aliens,neg,False,war
+1059,3,dvd,neg,oscar (best picture),pos,False,war
+1059,4,holocaust,neg,holocaust,neg,True,war
+1059,5,classic,neg,classic,pos,False,war
+4664,1,action,neg,classic,neg,True,anime
+4664,2,fantasy,pos,drama,neg,False,anime
+4664,3,beautiful,neg,brad pitt,neg,True,anime
+4664,4,fun,neg,christmas,neg,True,anime
+4664,5,japan,neg,dvd,neg,True,anime
+1103,1,aliens,neg,historical,neg,True,sci-fi
+1103,2,action,pos,classic,neg,False,sci-fi
+1103,3,dvd,neg,oscar (best picture),pos,False,sci-fi
+1103,4,sequel,neg,suicide,pos,False,sci-fi
+1103,5,harrison ford,neg,harrison ford,neg,True,sci-fi
+3163,1,war,neg,france,pos,False,action
+3163,2,dvd,neg,depressing,neg,True,action
+3163,3,harrison ford,neg,biography,neg,True,action
+3163,4,sci-fi,neg,martin scorsese,neg,True,action
+3163,5,dark,neg,thriller,pos,False,action
+3424,1,drama,pos,organized crime,neg,False,twist ending
+3424,2,suspense,pos,alfred hitchcock,neg,False,twist ending
+3424,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+3424,4,mystery,pos,biography,neg,False,twist ending
+3424,5,psychology,pos,psychology,pos,True,twist ending
+6390,1,sequel,neg,music,neg,True,los angeles
+6390,2,new york city,pos,funny,neg,False,los angeles
+6390,3,classic,neg,surreal,neg,True,los angeles
+6390,4,overrated,neg,future,neg,True,los angeles
+6390,5,animation,neg,prison,neg,True,satire
+5788,1,dvd,neg,oscar (best picture),neg,True,holocaust
+5788,2,steven spielberg,pos,epic,neg,False,holocaust
+5788,3,disturbing,pos,interesting,neg,False,holocaust
+5788,4,war,pos,magic,pos,True,holocaust
+5788,5,biography,pos,mystery,neg,False,holocaust
+1484,1,dvd,pos,depressing,neg,False,mental illness
+1484,2,brad pitt,neg,beautiful,pos,False,mental illness
+1484,3,intense,neg,interesting,neg,True,mental illness
+1484,4,great movie,pos,high school,neg,False,mental illness
+1484,5,oscar (best picture),pos,oscar (best picture),pos,True,mental illness
+3683,1,war,neg,cult film,neg,True,classic
+3683,2,organized crime,neg,drama,neg,True,classic
+3683,3,based on a book,neg,teen,neg,True,classic
+3683,4,mafia,neg,family,neg,True,classic
+3683,5,prison,neg,animation,neg,True,classic
+487,1,drama,neg,organized crime,neg,True,steven spielberg
+487,2,tom cruise,neg,cute,neg,True,steven spielberg
+487,3,future,pos,oscar (best actor),neg,False,steven spielberg
+487,4,nazis,neg,police,neg,True,steven spielberg
+487,5,world war ii,neg,world war ii,neg,True,steven spielberg
+4669,1,historical,neg,johnny depp,neg,True,tom hanks
+4669,2,overrated,pos,murder,neg,False,tom hanks
+4669,3,oscar (best picture),pos,music,neg,False,tom hanks
+4669,4,dvd,neg,depressing,neg,True,tom hanks
+4669,5,drama,pos,organized crime,neg,False,tom hanks
+7195,1,oscar (best picture),neg,cult film,neg,True,mel gibson
+7195,2,overrated,pos,murder,neg,False,mel gibson
+7195,3,history,pos,space,neg,False,mel gibson
+7195,4,great movie,pos,high school,pos,True,mel gibson
+7195,5,drama,neg,hilarious,pos,False,mel gibson
+5896,1,quirky,neg,steven spielberg,neg,True,time travel
+5896,2,thriller,pos,comic book,neg,False,time travel
+5896,3,future,neg,oscar (best actor),neg,True,time travel
+5896,4,sci-fi,pos,murder,neg,False,time travel
+5896,5,brad pitt,pos,beautiful,neg,False,time travel
+3622,1,nudity (topless - brief),neg,mystery,neg,True,musical
+3622,2,murder,pos,overrated,pos,True,musical
+3622,3,music,neg,sequel,neg,True,musical
+3622,4,family,neg,mafia,neg,True,musical
+3622,5,violent,neg,girlie movie,pos,False,musical
+2350,1,drama,neg,fantasy,pos,False,war
+2350,2,historical,pos,johnny depp,pos,True,war
+2350,3,africa,neg,scary,neg,True,war
+2350,4,oscar (best picture),pos,dvd,pos,True,war
+2350,5,action,neg,classic,neg,True,war
+7827,1,film noir,pos,fun,neg,False,comic book
+7827,2,revenge,neg,cute,neg,True,comic book
+7827,3,action,pos,classic,neg,False,comic book
+7827,4,marvel,neg,satire,neg,True,comic book
+7827,5,super-hero,pos,super-hero,pos,True,comic book
+5416,1,film noir,neg,fun,neg,True,comic book
+5416,2,revenge,neg,cute,neg,True,comic book
+5416,3,action,pos,classic,neg,False,comic book
+5416,4,marvel,neg,satire,neg,True,comic book
+5416,5,superhero,pos,biography,neg,False,comic book
+2910,1,dvd,neg,depressing,neg,True,gay
+2910,2,london,neg,underrated,neg,True,gay
+2910,3,beautiful,neg,love,neg,True,gay
+2910,4,lesbian,neg,seen more than once,neg,True,gay
+2910,5,crime,neg,family,pos,False,oscar (best actor)
+5377,1,children,neg,great soundtrack,neg,True,johnny depp
+5377,2,horror,neg,satire,neg,True,johnny depp
+5377,3,action,pos,romance,neg,False,johnny depp
+5377,4,dark,neg,thriller,neg,True,johnny depp
+5377,5,adventure,pos,sci-fi,neg,False,johnny depp
+471,1,boring,neg,nudity (topless),pos,False,magic
+471,2,adventure,neg,holocaust,neg,True,magic
+471,3,dvd,pos,history,neg,False,magic
+471,4,sequel,pos,music,pos,True,magic
+471,5,based on a book,pos,arnold schwarzenegger,neg,False,magic
+1161,1,aliens,neg,cult film,neg,True,sci-fi
+1161,2,action,pos,classic,pos,True,sci-fi
+1161,3,sequel,neg,violence,neg,True,sci-fi
+1161,4,dystopia,pos,oscar (best actor),neg,False,sci-fi
+1161,5,future,neg,oscar (best actor),neg,True,sci-fi
+3298,1,drama,neg,organized crime,neg,True,steven spielberg
+3298,2,tom cruise,neg,cute,neg,True,steven spielberg
+3298,3,future,neg,overrated,neg,True,steven spielberg
+3298,4,steven spielberg,pos,epic,neg,False,nazis
+3298,5,interesting,neg,intense,neg,True,harrison ford
+2325,1,bruce willis,neg,comedy,pos,False,christmas
+2325,2,hitchcock,pos,parody,neg,False,christmas
+2325,3,family,neg,mafia,neg,True,christmas
+2325,4,world war ii,pos,cute,neg,False,christmas
+2325,5,seen more than once,pos,seen more than once,neg,False,christmas
+3064,1,black and white,pos,robots,neg,False,vampires
+3064,2,dvd,pos,depressing,neg,False,vampires
+3064,3,tom cruise,neg,cute,pos,False,vampires
+3064,4,cult film,neg,cult film,pos,False,vampires
+3064,5,bruce willis,neg,bruce willis,neg,True,vampires
+1176,1,true story,neg,funny,neg,True,oscar (best actor)
+1176,2,cannibalism,neg,conspiracy,neg,True,oscar (best actor)
+1176,3,beautiful,neg,cars,neg,True,gay
+1176,4,lesbian,neg,seen more than once,neg,True,gay
+1176,5,oscar (best actor),pos,dystopia,neg,False,gay
+2368,1,heist,neg,robin williams,neg,True,racism
+2368,2,prison,pos,animation,neg,False,racism
+2368,3,nudity (topless),neg,boring,pos,False,racism
+2368,4,politics,pos,future,neg,False,racism
+2368,5,violence,pos,violence,pos,True,racism
+2512,1,ghosts,neg,new york city,neg,True,stephen king
+2512,2,drama,neg,organized crime,pos,False,stephen king
+2512,3,classic,pos,action,neg,False,stephen king
+2512,4,based on a book,pos,arnold schwarzenegger,pos,True,stephen king
+2512,5,morgan freeman,neg,oscar (best actor),neg,True,stephen king
+5664,1,drama,neg,hilarious,neg,True,chick flick
+5664,2,fun,neg,nudity (topless - brief),pos,False,chick flick
+5664,3,tom hanks,neg,fantasy,neg,True,chick flick
+5664,4,cute,neg,world war ii,neg,True,chick flick
+5664,5,girlie movie,pos,funny,neg,False,chick flick
+1514,1,war,neg,sports,neg,True,action
+1514,2,dvd,pos,depressing,pos,True,action
+1514,3,harrison ford,neg,biography,neg,True,action
+1514,4,sci-fi,pos,adventure,neg,False,action
+1514,5,dark,neg,thriller,neg,True,action
+6248,1,boring,neg,space,neg,True,magic
+6248,2,adventure,neg,history,neg,True,magic
+6248,3,dvd,pos,oscar (best picture),pos,True,magic
+6248,4,sequel,pos,music,neg,False,magic
+6248,5,overrated,neg,murder,pos,False,magic
+2788,1,quirky,neg,steven spielberg,neg,True,time travel
+2788,2,thriller,pos,comic book,pos,True,time travel
+2788,3,sci-fi,pos,murder,pos,True,time travel
+2788,4,arnold schwarzenegger,pos,based on a book,neg,False,time travel
+2788,5,dystopia,neg,oscar (best actor),neg,True,time travel
+1376,1,twist ending,neg,dark comedy,neg,True,revenge
+1376,2,disturbing,neg,true story,neg,True,revenge
+1376,3,politics,neg,future,pos,False,revenge
+1376,4,magic,neg,war,neg,True,fantasy
+1376,5,dvd,neg,depressing,neg,True,funny
+1458,1,violent,neg,predictable,neg,True,mafia
+1458,2,new york city,pos,funny,pos,True,mafia
+1458,3,oscar (best picture),pos,music,neg,False,mafia
+1458,4,classic,neg,action,pos,False,mafia
+1458,5,organized crime,pos,drama,neg,False,mafia
+549,1,quirky,pos,steven spielberg,neg,False,time travel
+549,2,thriller,neg,comic book,neg,True,time travel
+549,3,sci-fi,pos,adventure,pos,True,time travel
+549,4,arnold schwarzenegger,neg,based on a book,pos,False,time travel
+549,5,dystopia,neg,dark comedy,neg,True,time travel
+6492,1,dvd,pos,japan,neg,False,quirky
+6492,2,dark comedy,pos,dystopia,neg,False,quirky
+6492,3,seen more than once,pos,nudity (topless),neg,False,quirky
+6492,4,crime,pos,crime,pos,True,quirky
+6492,5,memory,neg,memory,neg,True,quirky
+1960,1,intense,neg,interesting,pos,False,surreal
+1960,2,quirky,pos,steven spielberg,neg,False,surreal
+1960,3,dystopia,neg,new york,neg,True,surreal
+1960,4,sci-fi,neg,adventure,neg,True,surreal
+1960,5,memory,pos,great soundtrack,neg,False,surreal
+6486,1,dvd,neg,depressing,neg,True,quirky
+6486,2,oscar (best picture),neg,dvd,neg,True,fantasy
+6486,3,fun,pos,nudity (topless - brief),pos,True,funny
+6486,4,religion,neg,conspiracy,neg,True,funny
+6486,5,robots,neg,black and white,neg,True,funny
+5835,1,aliens,neg,cult film,neg,True,sci-fi
+5835,2,action,pos,classic,pos,True,sci-fi
+5835,3,sequel,neg,suicide,neg,True,sci-fi
+5835,4,dystopia,neg,oscar (best actor),neg,True,sci-fi
+5835,5,robots,neg,violence,pos,False,sci-fi
+2541,1,sean connery,neg,conspiracy,neg,True,alfred hitchcock
+2541,2,horror,neg,satire,pos,False,alfred hitchcock
+2541,3,thriller,neg,comic book,neg,True,alfred hitchcock
+2541,4,psychology,neg,bruce willis,neg,True,alfred hitchcock
+2541,5,hitchcock,neg,parody,pos,False,alfred hitchcock
+2308,1,nudity (topless - brief),neg,overrated,neg,True,musical
+2308,2,murder,pos,jude law,neg,False,musical
+2308,3,london,pos,underrated,pos,True,musical
+2308,4,music,neg,sequel,neg,True,musical
+2308,5,cannibalism,pos,conspiracy,pos,True,musical
+3995,1,oscar (best picture),neg,cult film,neg,True,fantasy
+3995,2,epic,neg,steven spielberg,neg,True,fantasy
+3995,3,fun,neg,christmas,neg,True,funny
+3995,4,black comedy,neg,violent,neg,True,quirky
+3995,5,action,neg,classic,neg,True,fantasy
+7079,1,tom hanks,neg,fantasy,neg,True,world war ii
+7079,2,nazis,pos,robots,neg,False,world war ii
+7079,3,true story,pos,funny,neg,False,world war ii
+7079,4,historical,neg,johnny depp,neg,True,world war ii
+7079,5,war,neg,magic,neg,True,world war ii
+1417,1,interesting,pos,intense,neg,False,harrison ford
+1417,2,action,pos,classic,pos,True,harrison ford
+1417,3,adventure,neg,holocaust,neg,True,harrison ford
+1417,4,steven spielberg,pos,girlie movie,neg,False,harrison ford
+1417,5,nazis,neg,police,neg,True,harrison ford
+7493,1,murder,neg,sci-fi,neg,True,fairy tale
+7493,2,disney,pos,fairy tale,pos,True,fairy tale
+7493,3,comedy,neg,romance,neg,True,animation
+7493,4,funny,neg,new york city,pos,False,animation
+7493,5,children,neg,great soundtrack,neg,True,animation
+657,1,spoof,neg,nazis,neg,True,super-hero
+657,2,film noir,pos,fun,neg,False,comic book
+657,3,action,pos,classic,neg,False,comic book
+657,4,marvel,pos,satire,neg,False,comic book
+657,5,super-hero,pos,super-hero,pos,True,comic book
+2293,1,dark,neg,thriller,neg,True,dystopia
+2293,2,robots,neg,violence,pos,False,dystopia
+2293,3,comic book,neg,prison,pos,False,dystopia
+2293,4,surreal,neg,classic,pos,False,dystopia
+2293,5,post apocalyptic,neg,post apocalyptic,neg,True,dystopia
+452,1,historical,pos,aliens,neg,False,tom hanks
+452,2,overrated,pos,nudity (topless - brief),neg,False,tom hanks
+452,3,steven spielberg,neg,quirky,neg,True,tom hanks
+452,4,oscar (best picture),pos,dvd,pos,True,tom hanks
+452,5,stephen king,neg,family,neg,True,tom hanks
+5511,1,nudity (topless),neg,boring,neg,True,aliens
+5511,2,sci-fi,pos,adventure,neg,False,aliens
+5511,3,cult film,neg,aliens,pos,False,aliens
+5511,4,satire,pos,suspense,neg,False,aliens
+5511,5,conspiracy,neg,conspiracy,neg,True,aliens
+3729,1,war,neg,magic,neg,True,action
+3729,2,dvd,neg,japan,pos,False,action
+3729,3,superhero,pos,biography,neg,False,action
+3729,4,harrison ford,neg,biography,neg,True,action
+3729,5,adventure,neg,holocaust,neg,True,action
+4526,1,johnny depp,pos,historical,pos,True,woody allen
+4526,2,oscar (best picture),pos,music,neg,False,woody allen
+4526,3,london,neg,underrated,pos,False,woody allen
+4526,4,comedy,pos,romance,neg,False,woody allen
+4526,5,new york,neg,new york,neg,True,woody allen
+613,1,family,neg,stephen king,neg,True,espionage
+613,2,murder,neg,overrated,neg,True,espionage
+613,3,boring,pos,documentary,pos,True,espionage
+613,4,james bond,neg,psychology,neg,True,espionage
+613,5,memory,pos,great soundtrack,pos,True,espionage
+2789,1,fun,neg,christmas,neg,True,politics
+2789,2,revenge,neg,cute,neg,True,politics
+2789,3,comic book,neg,prison,neg,True,politics
+2789,4,documentary,neg,boring,neg,True,politics
+2789,5,conspiracy,pos,heist,neg,False,politics
+5460,1,satire,neg,marvel,neg,True,animation
+5460,2,family,neg,mafia,neg,True,animation
+5460,3,funny,neg,girlie movie,neg,True,animation
+5460,4,children,neg,great soundtrack,neg,True,animation
+5460,5,comedy,neg,bruce willis,neg,True,animation
+122,1,war,pos,sports,neg,False,classic
+122,2,organized crime,neg,drama,neg,True,classic
+122,3,based on a book,neg,teen,neg,True,classic
+122,4,seen more than once,pos,comedy,neg,False,classic
+122,5,oscar (best picture),neg,music,neg,True,classic
+3500,1,oscar (best picture),neg,music,neg,True,fantasy
+3500,2,epic,neg,steven spielberg,neg,True,fantasy
+3500,3,overrated,pos,nudity (topless - brief),neg,False,fantasy
+3500,4,magic,neg,war,neg,True,fantasy
+3500,5,based on a book,pos,arnold schwarzenegger,neg,False,fantasy
+6401,1,war,neg,magic,neg,True,classic
+6401,2,organized crime,neg,drama,pos,False,classic
+6401,3,dvd,neg,depressing,neg,True,classic
+6401,4,based on a book,neg,teen,neg,True,classic
+6401,5,prison,neg,musical,neg,True,classic
+3967,1,sequel,neg,violence,pos,False,robots
+3967,2,quirky,neg,steven spielberg,neg,True,time travel
+3967,3,sci-fi,pos,adventure,neg,False,time travel
+3967,4,arnold schwarzenegger,pos,based on a book,pos,True,robots
+3967,5,post apocalyptic,neg,chick flick,neg,True,robots
+5803,1,stephen king,neg,family,neg,True,ghosts
+5803,2,psychology,neg,religion,neg,True,ghosts
+5803,3,drama,neg,organized crime,neg,True,ghosts
+5803,4,bruce willis,pos,comedy,neg,False,ghosts
+5803,5,dvd,pos,depressing,neg,False,ghosts
+759,1,dark comedy,pos,twist ending,neg,False,nicolas cage
+759,2,stupid,neg,fantasy,neg,True,nicolas cage
+759,3,love,pos,underrated,neg,False,nicolas cage
+759,4,prison,neg,comic book,neg,True,nicolas cage
+759,5,cars,neg,beautiful,neg,True,nicolas cage
+4891,1,aliens,pos,true story,neg,False,sci-fi
+4891,2,action,pos,classic,pos,True,sci-fi
+4891,3,sequel,neg,suicide,neg,True,sci-fi
+4891,4,dystopia,neg,dark comedy,neg,True,sci-fi
+4891,5,future,neg,politics,neg,True,sci-fi
+4527,1,interesting,neg,intense,neg,True,harrison ford
+4527,2,action,pos,romance,pos,True,harrison ford
+4527,3,racism,neg,heist,neg,True,nazis
+4527,4,holocaust,neg,adventure,pos,False,nazis
+4527,5,dvd,pos,depressing,pos,True,nazis
+2890,1,oscar (best picture),neg,music,neg,True,fantasy
+2890,2,epic,neg,steven spielberg,neg,True,fantasy
+2890,3,overrated,neg,nudity (topless - brief),neg,True,fantasy
+2890,4,magic,neg,war,neg,True,fantasy
+2890,5,sequel,pos,suicide,neg,False,action
+3406,1,intense,pos,interesting,neg,False,surreal
+3406,2,quirky,neg,steven spielberg,neg,True,surreal
+3406,3,seen more than once,neg,nudity (topless),pos,False,surreal
+3406,4,memory,neg,great soundtrack,neg,True,surreal
+3406,5,jim carrey,neg,biography,neg,True,surreal
+4160,1,war,neg,sports,neg,True,nazis
+4160,2,interesting,neg,disturbing,neg,True,harrison ford
+4160,3,adventure,pos,holocaust,neg,False,harrison ford
+4160,4,steven spielberg,pos,girlie movie,neg,False,nazis
+4160,5,nazis,neg,spoof,neg,True,harrison ford
+328,1,true story,pos,funny,neg,False,oscar (best picture)
+328,2,mental illness,neg,heist,neg,True,oscar (best picture)
+328,3,mafia,neg,family,neg,True,oscar (best picture)
+328,4,war,neg,france,neg,True,oscar (best picture)
+328,5,dvd,pos,history,neg,False,oscar (best picture)
+2869,1,quirky,neg,steven spielberg,neg,True,hilarious
+2869,2,cute,neg,tom cruise,neg,True,hilarious
+2869,3,seen more than once,neg,lesbian,pos,False,hilarious
+2869,4,comedy,neg,romance,pos,False,hilarious
+2869,5,parody,pos,disney,neg,False,hilarious
+7542,1,organized crime,neg,drama,neg,True,cult film
+7542,2,musical,pos,prison,neg,False,cult film
+7542,3,mystery,neg,biography,neg,True,cult film
+7542,4,samuel l jackson,neg,fun,neg,True,cult film
+7542,5,zombies,neg,space,pos,False,cult film
+6626,1,spoof,pos,nazis,neg,False,super-hero
+6626,2,action,neg,classic,pos,False,super-hero
+6626,3,new york,pos,dystopia,neg,False,super-hero
+6626,4,sequel,pos,sequel,pos,True,super-hero
+6626,5,dvd,neg,dvd,neg,True,super-hero
+192,1,hilarious,neg,based on a book,neg,True,boxing
+192,2,predictable,neg,violent,neg,True,boxing
+192,3,los angeles,neg,comic book,neg,True,boxing
+192,4,morgan freeman,neg,oscar (best actor),neg,True,boxing
+192,5,overrated,neg,nudity (topless - brief),neg,True,boxing
+378,1,jim carrey,pos,biography,neg,False,comedy
+378,2,fun,pos,nudity (topless - brief),pos,True,comedy
+378,3,seen more than once,neg,comedy,pos,False,comedy
+378,4,hilarious,pos,drama,neg,False,comedy
+378,5,samuel l jackson,neg,samuel l jackson,neg,True,comedy
+5774,1,quirky,pos,steven spielberg,neg,False,time travel
+5774,2,thriller,neg,dark,neg,True,time travel
+5774,3,sci-fi,pos,adventure,pos,True,time travel
+5774,4,arnold schwarzenegger,neg,based on a book,pos,False,time travel
+5774,5,dystopia,neg,new york,neg,True,time travel
+4645,1,true story,pos,disturbing,neg,False,oscar (best picture)
+4645,2,mental illness,neg,heist,neg,True,oscar (best picture)
+4645,3,mafia,neg,family,neg,True,oscar (best picture)
+4645,4,war,neg,cult film,neg,True,oscar (best picture)
+4645,5,dvd,neg,oscar (best picture),pos,False,oscar (best picture)
+1840,1,oscar (best picture),pos,music,neg,False,fantasy
+1840,2,epic,pos,steven spielberg,neg,False,fantasy
+1840,3,boring,neg,nudity (topless),neg,True,fantasy
+1840,4,dvd,pos,history,neg,False,fantasy
+1840,5,magic,pos,magic,pos,True,fantasy
+6166,1,hilarious,neg,based on a book,neg,True,boxing
+6166,2,predictable,neg,violent,neg,True,boxing
+6166,3,los angeles,neg,comic book,neg,True,boxing
+6166,4,morgan freeman,neg,oscar (best actor),neg,True,boxing
+6166,5,overrated,neg,nudity (topless - brief),neg,True,boxing
+7545,1,politics,neg,future,neg,True,true story
+7545,2,action,neg,classic,pos,False,sci-fi
+7545,3,time travel,neg,suspense,neg,True,dystopia
+7545,4,biography,pos,mystery,pos,True,true story
+7545,5,matt damon,neg,beautiful,neg,True,crime
+4403,1,oscar (best picture),neg,music,pos,False,fantasy
+4403,2,epic,pos,steven spielberg,neg,False,fantasy
+4403,3,boring,pos,space,neg,False,fantasy
+4403,4,dvd,pos,dvd,pos,True,fantasy
+4403,5,sequel,neg,sequel,neg,True,fantasy
+3865,1,historical,neg,johnny depp,neg,True,tom hanks
+3865,2,overrated,pos,nudity (topless - brief),neg,False,tom hanks
+3865,3,oscar (best picture),pos,music,neg,False,tom hanks
+3865,4,dvd,pos,depressing,neg,False,tom hanks
+3865,5,drama,pos,drama,pos,True,tom hanks
+1162,1,spoof,neg,nazis,neg,True,super-hero
+1162,2,action,neg,classic,pos,False,super-hero
+1162,3,espionage,neg,family,neg,True,007
+1162,4,murder,pos,overrated,pos,True,007
+1162,5,superhero,neg,biography,neg,True,super-hero
+7677,1,oscar (best picture),pos,cult film,neg,False,fantasy
+7677,2,epic,neg,steven spielberg,pos,False,fantasy
+7677,3,boring,pos,nudity (topless),neg,False,fantasy
+7677,4,dvd,neg,dvd,neg,True,fantasy
+7677,5,sequel,neg,sequel,neg,True,fantasy
+1795,1,quirky,neg,steven spielberg,neg,True,time travel
+1795,2,thriller,neg,dark,pos,False,time travel
+1795,3,future,pos,politics,neg,False,time travel
+1795,4,sci-fi,pos,adventure,neg,False,time travel
+1795,5,bruce willis,neg,bruce willis,pos,False,time travel
+3639,1,murder,neg,overrated,neg,True,fairy tale
+3639,2,disney,pos,fairy tale,pos,True,fairy tale
+3639,3,comedy,neg,bruce willis,neg,True,animation
+3639,4,funny,pos,new york city,neg,False,animation
+3639,5,children,neg,great soundtrack,pos,False,animation
+3487,1,ghosts,neg,new york city,neg,True,stephen king
+3487,2,drama,neg,fantasy,neg,True,stephen king
+3487,3,based on a book,pos,hilarious,neg,False,stephen king
+3487,4,tom hanks,neg,tom hanks,neg,True,stephen king
+3487,5,prison,neg,animation,neg,True,stephen king
+7882,1,murder,neg,overrated,neg,True,cars
+7882,2,fun,pos,samuel l jackson,neg,False,cars
+7882,3,nicolas cage,neg,remake,pos,False,cars
+7882,4,action,pos,romance,neg,False,cars
+7882,5,france,neg,france,neg,True,cars
+5646,1,sci-fi,neg,adventure,neg,True,seen more than once
+5646,2,overrated,neg,future,pos,False,seen more than once
+5646,3,surreal,neg,classic,neg,True,seen more than once
+5646,4,morgan freeman,neg,oscar (best actor),pos,False,seen more than once
+5646,5,based on a book,pos,hilarious,pos,True,seen more than once
+1430,1,post apocalyptic,neg,chick flick,neg,True,martial arts
+1430,2,japan,neg,dvd,pos,False,martial arts
+1430,3,seen more than once,neg,nudity (topless),neg,True,martial arts
+1430,4,dystopia,neg,new york,neg,True,martial arts
+1430,5,overrated,neg,murder,neg,True,martial arts
+1361,1,bruce willis,neg,boxing,neg,True,christmas
+1361,2,hitchcock,pos,parody,pos,True,christmas
+1361,3,action,neg,classic,pos,False,christmas
+1361,4,seen more than once,pos,comedy,neg,False,christmas
+1361,5,classic,neg,surreal,pos,False,christmas
+2752,1,organized crime,neg,drama,neg,True,british
+2752,2,hilarious,neg,based on a book,neg,True,british
+2752,3,london,pos,underrated,neg,False,british
+2752,4,drugs,neg,terrorism,neg,True,british
+2752,5,chick flick,pos,disturbing,neg,False,british
+5302,1,war,neg,magic,neg,True,classic
+5302,2,organized crime,neg,drama,neg,True,classic
+5302,3,based on a book,neg,hilarious,neg,True,classic
+5302,4,mafia,neg,family,neg,True,classic
+5302,5,prison,neg,musical,neg,True,classic
+184,1,intense,neg,interesting,neg,True,surreal
+184,2,quirky,neg,steven spielberg,neg,True,surreal
+184,3,seen more than once,neg,comedy,neg,True,surreal
+184,4,memory,neg,great soundtrack,neg,True,surreal
+184,5,dystopia,neg,new york,neg,True,surreal
+3206,1,aliens,neg,true story,neg,True,sci-fi
+3206,2,action,neg,romance,pos,False,sci-fi
+3206,3,dvd,neg,depressing,neg,True,sci-fi
+3206,4,sequel,pos,music,neg,False,sci-fi
+3206,5,space,pos,history,neg,False,sci-fi
+5239,1,murder,neg,jude law,neg,True,serial killer
+5239,2,psychology,neg,bruce willis,neg,True,serial killer
+5239,3,brad pitt,pos,beautiful,pos,True,serial killer
+5239,4,cannibalism,pos,conspiracy,neg,False,serial killer
+5239,5,police,neg,nazis,neg,True,serial killer
+4248,1,dvd,neg,oscar (best picture),pos,False,mental illness
+4248,2,brad pitt,neg,beautiful,neg,True,mental illness
+4248,3,based on a book,pos,teen,pos,True,mental illness
+4248,4,surreal,neg,classic,neg,True,mental illness
+4248,5,psychology,pos,religion,neg,False,mental illness
+7197,1,aliens,neg,cult film,pos,False,sci-fi
+7197,2,action,pos,romance,neg,False,sci-fi
+7197,3,robots,pos,black and white,neg,False,sci-fi
+7197,4,dvd,pos,dvd,pos,True,sci-fi
+7197,5,future,neg,future,neg,True,sci-fi
+2877,1,nudity (topless - brief),pos,mystery,neg,False,zombies
+2877,2,cult film,pos,oscar (best picture),neg,False,zombies
+2877,3,sequel,neg,violence,neg,True,zombies
+2877,4,spoof,pos,nazis,pos,True,zombies
+2877,5,post-apocalyptic,neg,scary,neg,True,zombies
+652,1,future,pos,oscar (best actor),pos,True,space
+652,2,war,neg,cult film,neg,True,aliens
+652,3,sci-fi,pos,murder,neg,False,aliens
+652,4,conspiracy,neg,heist,neg,True,aliens
+652,5,dvd,pos,history,neg,False,aliens
+2488,1,spoof,neg,nazis,neg,True,super-hero
+2488,2,action,pos,classic,neg,False,super-hero
+2488,3,sequel,pos,music,neg,False,super-hero
+2488,4,dark,pos,thriller,pos,True,super-hero
+2488,5,comic book,pos,prison,neg,False,super-hero
+4627,1,love,neg,underrated,neg,True,girlie movie
+4627,2,new york city,neg,serial killer,neg,True,girlie movie
+4627,3,drama,neg,organized crime,neg,True,girlie movie
+4627,4,suicide,pos,sequel,neg,False,girlie movie
+4627,5,fun,neg,christmas,neg,True,girlie movie
+2145,1,aliens,neg,true story,neg,True,sci-fi
+2145,2,jim carrey,neg,biography,neg,True,comedy
+2145,3,seen more than once,pos,nudity (topless),neg,False,comedy
+2145,4,dystopia,pos,new york,neg,False,sci-fi
+2145,5,funny,neg,new york city,neg,True,comedy
+4845,1,interesting,pos,disturbing,neg,False,harrison ford
+4845,2,action,neg,classic,neg,True,harrison ford
+4845,3,adventure,neg,holocaust,neg,True,harrison ford
+4845,4,steven spielberg,pos,epic,neg,False,harrison ford
+4845,5,nazis,neg,spoof,neg,True,harrison ford
+2501,1,animation,pos,prison,pos,True,satire
+2501,2,space,neg,boring,neg,True,satire
+2501,3,religion,neg,conspiracy,neg,True,satire
+2501,4,aliens,neg,cult film,neg,True,satire
+2501,5,parody,pos,disney,neg,False,satire
+3157,1,fun,neg,christmas,neg,True,politics
+3157,2,revenge,neg,cute,neg,True,politics
+3157,3,comic book,pos,prison,pos,True,politics
+3157,4,documentary,neg,boring,neg,True,politics
+3157,5,conspiracy,pos,heist,neg,False,politics
+1199,1,drama,neg,fantasy,neg,True,chick flick
+1199,2,fun,pos,film noir,neg,False,chick flick
+1199,3,tom hanks,neg,tom hanks,neg,True,chick flick
+1199,4,cute,pos,revenge,neg,False,chick flick
+1199,5,british,neg,nazis,neg,True,chick flick
+1922,1,true story,neg,funny,neg,True,oscar (best picture)
+1922,2,mental illness,pos,heist,neg,False,oscar (best picture)
+1922,3,organized crime,neg,drama,neg,True,oscar (best picture)
+1922,4,mafia,neg,family,neg,True,oscar (best picture)
+1922,5,oscar (best actor),neg,future,neg,True,oscar (best picture)
+5483,1,lesbian,neg,seen more than once,pos,False,suicide
+5483,2,high school,neg,great movie,neg,True,suicide
+5483,3,classic,pos,surreal,neg,False,dark comedy
+5483,4,war,neg,magic,neg,True,suicide
+5483,5,girlie movie,neg,violent,neg,True,suicide
+4937,1,oscar (best picture),pos,music,pos,True,fantasy
+4937,2,epic,pos,steven spielberg,neg,False,fantasy
+4937,3,dvd,pos,depressing,neg,False,fantasy
+4937,4,overrated,pos,nudity (topless - brief),neg,False,fantasy
+4937,5,adventure,pos,adventure,pos,True,fantasy
+1094,1,paris,pos,action,pos,True,black and white
+1094,2,memory,neg,great soundtrack,pos,False,black and white
+1094,3,seen more than once,pos,nudity (topless),neg,False,black and white
+1094,4,black and white,pos,robots,neg,False,great soundtrack
+1094,5,crime,neg,crime,neg,True,great soundtrack
+3401,1,hilarious,pos,great soundtrack,pos,True,boxing
+3401,2,predictable,neg,violent,neg,True,boxing
+3401,3,los angeles,neg,comic book,neg,True,boxing
+3401,4,morgan freeman,neg,oscar (best actor),neg,True,boxing
+3401,5,overrated,neg,future,neg,True,boxing
+3851,1,action,neg,classic,pos,False,anime
+3851,2,fantasy,neg,drama,neg,True,anime
+3851,3,classic,pos,woody allen,neg,False,dark comedy
+3851,4,superhero,neg,biography,neg,True,dark
+3851,5,baseball,neg,disney,pos,False,dark
+4995,1,oscar (best picture),neg,music,neg,True,fantasy
+4995,2,epic,neg,steven spielberg,neg,True,fantasy
+4995,3,overrated,neg,murder,neg,True,fantasy
+4995,4,magic,neg,war,neg,True,fantasy
+4995,5,boring,neg,nudity (topless),pos,False,fantasy
+3018,1,children,neg,great soundtrack,neg,True,johnny depp
+3018,2,horror,neg,satire,neg,True,johnny depp
+3018,3,action,neg,classic,neg,True,johnny depp
+3018,4,dark,neg,thriller,neg,True,johnny depp
+3018,5,predictable,pos,violent,neg,False,johnny depp
+393,1,musical,pos,prison,pos,True,disney
+393,2,children,neg,great soundtrack,neg,True,disney
+393,3,fairy tale,pos,disney,pos,True,disney
+393,4,family,neg,mafia,neg,True,animation
+393,5,cute,neg,revenge,neg,True,animation
+3396,1,robots,neg,black and white,neg,True,funny
+3396,2,twist ending,neg,dark comedy,neg,True,revenge
+3396,3,fun,pos,christmas,neg,False,funny
+3396,4,religion,neg,psychology,neg,True,funny
+3396,5,dvd,neg,oscar (best picture),neg,True,quirky
+123,1,sequel,neg,music,neg,True,robots
+123,2,arnold schwarzenegger,neg,based on a book,pos,False,robots
+123,3,dystopia,pos,dark comedy,neg,False,robots
+123,4,space,neg,zombies,neg,True,robots
+123,5,sci-fi,neg,adventure,neg,True,robots
+6022,1,sean connery,neg,conspiracy,pos,False,alfred hitchcock
+6022,2,horror,pos,satire,neg,False,alfred hitchcock
+6022,3,seen more than once,pos,nudity (topless),neg,False,alfred hitchcock
+6022,4,thriller,neg,thriller,neg,True,alfred hitchcock
+6022,5,mystery,neg,mystery,neg,True,alfred hitchcock
+4807,1,great soundtrack,pos,children,neg,False,nonlinear
+4807,2,dark comedy,pos,dystopia,neg,False,samuel l jackson
+4807,3,twist ending,neg,twist ending,neg,True,nonlinear
+4807,4,death,pos,high school,pos,True,nonlinear
+4807,5,great movie,pos,great movie,pos,True,samuel l jackson
+5252,1,musical,pos,prison,neg,False,disney
+5252,2,satire,neg,suspense,neg,True,animation
+5252,3,funny,neg,girlie movie,neg,True,animation
+5252,4,children,pos,great soundtrack,pos,True,animation
+5252,5,disney,neg,fairy tale,neg,True,animation
+1328,1,oscar (best picture),pos,music,neg,False,overrated
+1328,2,morgan freeman,neg,oscar (best actor),neg,True,drama
+1328,3,mel gibson,neg,terrorism,pos,False,overrated
+1328,4,drama,pos,organized crime,neg,False,overrated
+1328,5,seen more than once,neg,seen more than once,neg,True,overrated
+1663,1,drama,pos,organized crime,neg,False,twist ending
+1663,2,suspense,pos,satire,neg,False,twist ending
+1663,3,nonlinear,neg,oscar (best actor),pos,False,twist ending
+1663,4,mystery,neg,mystery,pos,False,twist ending
+1663,5,interesting,pos,interesting,pos,True,twist ending
+6416,1,drama,pos,fantasy,neg,False,twist ending
+6416,2,suspense,pos,alfred hitchcock,neg,False,twist ending
+6416,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+6416,4,mystery,neg,biography,neg,True,twist ending
+6416,5,psychology,neg,religion,neg,True,twist ending
+1232,1,war,neg,france,pos,False,classic
+1232,2,organized crime,pos,drama,neg,False,classic
+1232,3,morgan freeman,neg,oscar (best actor),neg,True,classic
+1232,4,dvd,neg,depressing,pos,False,classic
+1232,5,mafia,neg,mafia,neg,True,classic
+3804,1,nicolas cage,neg,remake,neg,True,new york city
+3804,2,aliens,neg,cult film,pos,False,sci-fi
+3804,3,woody allen,neg,classic,neg,True,new york city
+3804,4,organized crime,neg,drama,neg,True,new york city
+3804,5,new york,neg,dystopia,neg,True,new york city
+5377,1,morgan freeman,pos,oscar (best actor),neg,False,drama
+5377,2,oscar (best picture),pos,music,neg,False,overrated
+5377,3,mel gibson,neg,terrorism,neg,True,overrated
+5377,4,dvd,neg,depressing,neg,True,overrated
+5377,5,great movie,neg,high school,neg,True,drama
+6026,1,time travel,neg,romance,neg,True,tom cruise
+6026,2,espionage,neg,family,neg,True,tom cruise
+6026,3,murder,pos,overrated,neg,False,tom cruise
+6026,4,remake,neg,nicolas cage,neg,True,tom cruise
+6026,5,steven spielberg,neg,girlie movie,neg,True,tom cruise
+4,1,quirky,neg,steven spielberg,neg,True,time travel
+4,2,thriller,neg,comic book,neg,True,time travel
+4,3,sci-fi,neg,murder,pos,False,time travel
+4,4,arnold schwarzenegger,pos,based on a book,pos,True,time travel
+4,5,brad pitt,neg,beautiful,neg,True,time travel
+218,1,bruce willis,neg,boxing,neg,True,christmas
+218,2,hitchcock,pos,parody,neg,False,christmas
+218,3,world war ii,pos,cute,neg,False,christmas
+218,4,action,neg,classic,neg,True,christmas
+218,5,seen more than once,pos,nudity (topless),neg,False,christmas
+7630,1,aliens,neg,cult film,neg,True,sci-fi
+7630,2,los angeles,neg,comic book,neg,True,satire
+7630,3,space,neg,boring,neg,True,satire
+7630,4,harrison ford,pos,biography,pos,True,sci-fi
+7630,5,drama,neg,hilarious,neg,True,world war ii
+3346,1,lesbian,neg,seen more than once,pos,False,teen
+3346,2,seen more than once,pos,nudity (topless),neg,False,teen
+3346,3,robin williams,neg,heist,neg,True,teen
+3346,4,time travel,neg,suspense,neg,True,teen
+3346,5,comedy,neg,bruce willis,neg,True,teen
+7347,1,organized crime,neg,drama,neg,True,british
+7347,2,hilarious,neg,great soundtrack,neg,True,british
+7347,3,based on a book,pos,hilarious,neg,False,british
+7347,4,drugs,neg,terrorism,neg,True,british
+7347,5,chick flick,neg,family,neg,True,british
+2148,1,drama,neg,fantasy,neg,True,steven spielberg
+2148,2,tom cruise,neg,cute,neg,True,steven spielberg
+2148,3,future,pos,based on a true story,neg,False,steven spielberg
+2148,4,nazis,neg,british,neg,True,steven spielberg
+2148,5,world war ii,neg,world war ii,neg,True,steven spielberg
+3229,1,drama,neg,fantasy,neg,True,war
+3229,2,historical,neg,slow,neg,True,war
+3229,3,africa,neg,scary,neg,True,war
+3229,4,oscar (best picture),pos,dvd,pos,True,war
+3229,5,classic,pos,woody allen,neg,False,war
+7840,1,fun,pos,samuel l jackson,neg,False,politics
+7840,2,revenge,neg,cute,pos,False,politics
+7840,3,conspiracy,neg,heist,neg,True,politics
+7840,4,true story,neg,disturbing,neg,True,politics
+7840,5,documentary,neg,boring,neg,True,politics
+1011,1,war,neg,cult film,neg,True,action
+1011,2,dvd,neg,history,neg,True,action
+1011,3,harrison ford,neg,biography,neg,True,action
+1011,4,sci-fi,neg,murder,neg,True,action
+1011,5,aliens,neg,true story,neg,True,action
+5093,1,coming of age,neg,remake,pos,False,romance
+5093,2,historical,neg,johnny depp,neg,True,tom hanks
+5093,3,chick flick,pos,post apocalyptic,neg,False,romance
+5093,4,stephen king,neg,family,neg,True,tom hanks
+5093,5,oscar (best actor),neg,nonlinear,neg,True,tom hanks
+1467,1,jim carrey,neg,biography,neg,True,comedy
+1467,2,quirky,pos,steven spielberg,neg,False,time travel
+1467,3,love,pos,shakespeare,pos,True,nicolas cage
+1467,4,hilarious,pos,drama,neg,False,comedy
+1467,5,fun,neg,christmas,neg,True,time travel
+2181,1,drama,neg,hilarious,neg,True,africa
+2181,2,depressing,pos,dvd,neg,False,africa
+2181,3,violent,neg,girlie movie,neg,True,africa
+2181,4,beautiful,neg,matt damon,neg,True,africa
+2181,5,thriller,pos,comic book,neg,False,africa
+3020,1,terrorism,neg,drugs,neg,True,james bond
+3020,2,england,neg,post-apocalyptic,pos,False,james bond
+3020,3,london,neg,underrated,neg,True,james bond
+3020,4,espionage,pos,family,neg,False,james bond
+3020,5,007,neg,time travel,pos,False,james bond
+7270,1,drama,pos,organized crime,neg,False,twist ending
+7270,2,suspense,pos,satire,neg,False,twist ending
+7270,3,nonlinear,neg,oscar (best actor),neg,True,twist ending
+7270,4,mystery,neg,biography,neg,True,twist ending
+7270,5,psychology,pos,james bond,neg,False,twist ending
+5646,1,drama,neg,hilarious,neg,True,chick flick
+5646,2,fun,pos,christmas,neg,False,chick flick
+5646,3,tom hanks,neg,fantasy,neg,True,chick flick
+5646,4,cute,neg,world war ii,pos,False,chick flick
+5646,5,girlie movie,neg,violent,pos,False,chick flick
+6064,1,dvd,pos,depressing,neg,False,bruce willis
+6064,2,thriller,neg,dark,neg,True,bruce willis
+6064,3,ghosts,neg,new york city,neg,True,bruce willis
+6064,4,time travel,neg,romance,neg,True,bruce willis
+6064,5,predictable,pos,violent,neg,False,bruce willis
+7924,1,quirky,neg,steven spielberg,neg,True,time travel
+7924,2,thriller,pos,dark,neg,False,time travel
+7924,3,future,pos,overrated,pos,True,time travel
+7924,4,sci-fi,pos,martin scorsese,neg,False,time travel
+7924,5,brad pitt,neg,beautiful,neg,True,time travel
+7215,1,aliens,neg,cult film,neg,True,sci-fi
+7215,2,fun,neg,christmas,neg,True,politics
+7215,3,remake,neg,terrorism,neg,True,murder
+7215,4,007,neg,time travel,neg,True,murder
+7215,5,black comedy,neg,violent,neg,True,murder
+5133,1,matt damon,neg,beautiful,neg,True,france
+5133,2,girlie movie,neg,funny,neg,True,paris
+5133,3,comedy,neg,romance,pos,False,romance
+5133,4,france,neg,war,pos,False,paris
+5133,5,fairy tale,pos,underrated,neg,False,paris
+4137,1,true story,neg,aliens,neg,True,oscar (best picture)
+4137,2,mental illness,neg,heist,neg,True,oscar (best picture)
+4137,3,mafia,neg,family,neg,True,oscar (best picture)
+4137,4,war,neg,magic,neg,True,oscar (best picture)
+4137,5,world war ii,neg,cute,neg,True,oscar (best picture)
+819,1,film noir,neg,fun,neg,True,comic book
+819,2,revenge,neg,cute,neg,True,comic book
+819,3,action,pos,classic,neg,False,comic book
+819,4,marvel,neg,satire,neg,True,comic book
+819,5,superhero,pos,biography,neg,False,comic book
+1416,1,love,pos,underrated,pos,True,religion
+1416,2,death,neg,high school,neg,True,religion
+1416,3,sad,neg,beautiful,neg,True,religion
+1416,4,comedy,pos,seen more than once,neg,False,religion
+1416,5,hilarious,neg,great soundtrack,neg,True,religion
+3874,1,organized crime,neg,drama,neg,True,british
+3874,2,hilarious,neg,great soundtrack,neg,True,british
+3874,3,based on a book,neg,teen,pos,False,british
+3874,4,drugs,neg,terrorism,neg,True,british
+3874,5,chick flick,neg,disturbing,neg,True,british
+2699,1,oscar (best picture),pos,music,neg,False,mel gibson
+2699,2,overrated,pos,murder,neg,False,mel gibson
+2699,3,biography,pos,jim carrey,neg,False,mel gibson
+2699,4,history,pos,history,pos,True,mel gibson
+2699,5,post apocalyptic,neg,post apocalyptic,neg,True,mel gibson
+7180,1,quirky,neg,steven spielberg,neg,True,time travel
+7180,2,thriller,pos,comic book,neg,False,time travel
+7180,3,future,neg,based on a true story,neg,True,time travel
+7180,4,sci-fi,pos,murder,neg,False,time travel
+7180,5,brad pitt,pos,beautiful,neg,False,time travel
+4542,1,oscar (best picture),neg,music,pos,False,fantasy
+4542,2,epic,pos,steven spielberg,neg,False,fantasy
+4542,3,boring,pos,nudity (topless),neg,False,fantasy
+4542,4,dvd,pos,dvd,pos,True,fantasy
+4542,5,sequel,neg,sequel,neg,True,fantasy
+2913,1,martin scorsese,neg,sci-fi,neg,True,beautiful
+2913,2,mental illness,neg,heist,neg,True,beautiful
+2913,3,thriller,neg,comic book,neg,True,beautiful
+2913,4,africa,neg,scary,neg,True,beautiful
+2913,5,surreal,neg,classic,neg,True,beautiful
+4396,1,aliens,neg,true story,neg,True,sci-fi
+4396,2,action,pos,classic,pos,True,sci-fi
+4396,3,sequel,neg,suicide,neg,True,sci-fi
+4396,4,dystopia,pos,dark comedy,pos,True,sci-fi
+4396,5,robots,neg,violence,neg,True,sci-fi
+1771,1,historical,neg,johnny depp,neg,True,tom hanks
+1771,2,overrated,neg,murder,neg,True,tom hanks
+1771,3,dvd,pos,depressing,neg,False,tom hanks
+1771,4,stephen king,neg,family,neg,True,tom hanks
+1771,5,oscar (best actor),neg,nonlinear,neg,True,tom hanks
+6259,1,fun,neg,samuel l jackson,neg,True,politics
+6259,2,revenge,neg,cute,neg,True,politics
+6259,3,comic book,neg,prison,pos,False,politics
+6259,4,documentary,neg,boring,neg,True,politics
+6259,5,terrorism,neg,remake,neg,True,politics
+1772,1,aliens,neg,historical,neg,True,sci-fi
+1772,2,action,neg,romance,neg,True,sci-fi
+1772,3,sequel,neg,music,neg,True,sci-fi
+1772,4,dystopia,pos,new york,neg,False,sci-fi
+1772,5,future,pos,overrated,pos,True,sci-fi
+3034,1,intense,neg,interesting,neg,True,surreal
+3034,2,quirky,pos,steven spielberg,neg,False,surreal
+3034,3,sci-fi,neg,adventure,neg,True,surreal
+3034,4,seen more than once,pos,nudity (topless),neg,False,surreal
+3034,5,love,pos,shakespeare,neg,False,surreal
+39,1,future,neg,politics,neg,True,space
+39,2,sequel,neg,music,neg,True,space
+39,3,dvd,pos,oscar (best picture),neg,False,space
+39,4,aliens,pos,true story,neg,False,space
+39,5,sci-fi,neg,murder,neg,True,space
+6085,1,aliens,neg,historical,pos,False,sci-fi
+6085,2,action,pos,classic,neg,False,sci-fi
+6085,3,robots,neg,black and white,neg,True,sci-fi
+6085,4,dvd,neg,oscar (best picture),neg,True,sci-fi
+6085,5,dystopia,pos,oscar (best actor),neg,False,sci-fi
+232,1,nudity (topless),pos,seen more than once,pos,True,lesbian
+232,2,disturbing,neg,chick flick,neg,True,lesbian
+232,3,based on a true story,neg,future,neg,True,lesbian
+232,4,sad,neg,beautiful,neg,True,lesbian
+232,5,coming of age,pos,remake,pos,True,lesbian
+44,1,robots,pos,violence,neg,False,funny
+44,2,hilarious,pos,based on a book,neg,False,funny
+44,3,tom hanks,neg,fantasy,neg,True,funny
+44,4,animation,neg,prison,neg,True,funny
+44,5,religion,pos,conspiracy,pos,True,funny
+6116,1,historical,neg,slow,neg,True,tom hanks
+6116,2,overrated,neg,murder,neg,True,tom hanks
+6116,3,dvd,neg,oscar (best picture),neg,True,tom hanks
+6116,4,stephen king,neg,family,pos,False,tom hanks
+6116,5,oscar (best actor),neg,nonlinear,neg,True,tom hanks
+465,1,war,pos,france,neg,False,classic
+465,2,organized crime,neg,drama,neg,True,classic
+465,3,based on a book,pos,arnold schwarzenegger,neg,False,classic
+465,4,dvd,pos,history,neg,False,classic
+465,5,morgan freeman,neg,morgan freeman,neg,True,classic
+875,1,drama,neg,hilarious,neg,True,steven spielberg
+875,2,tom cruise,neg,cute,neg,True,steven spielberg
+875,3,future,neg,oscar (best actor),pos,False,steven spielberg
+875,4,nazis,neg,martial arts,neg,True,steven spielberg
+875,5,world war ii,neg,world war ii,neg,True,steven spielberg
+2636,1,children,neg,great soundtrack,neg,True,johnny depp
+2636,2,horror,neg,parody,neg,True,johnny depp
+2636,3,action,neg,paris,neg,True,johnny depp
+2636,4,dark,pos,thriller,neg,False,johnny depp
+2636,5,suspense,neg,satire,neg,True,johnny depp
+6636,1,organized crime,neg,drama,neg,True,cult film
+6636,2,musical,pos,prison,neg,False,cult film
+6636,3,mystery,neg,remake,neg,True,cult film
+6636,4,samuel l jackson,neg,fun,neg,True,cult film
+6636,5,zombies,neg,space,neg,True,cult film
+3100,1,memory,neg,great soundtrack,neg,True,matt damon
+3100,2,boring,pos,nudity (topless),pos,True,matt damon
+3100,3,crime,pos,family,neg,False,matt damon
+3100,4,heist,neg,racism,neg,True,matt damon
+3100,5,jude law,neg,murder,neg,True,matt damon
+7010,1,oscar (best picture),neg,music,neg,True,fantasy
+7010,2,epic,pos,steven spielberg,neg,False,fantasy
+7010,3,dvd,pos,depressing,neg,False,fantasy
+7010,4,overrated,pos,murder,neg,False,fantasy
+7010,5,adventure,pos,adventure,pos,True,fantasy
+1352,1,aliens,neg,true story,neg,True,sci-fi
+1352,2,action,neg,classic,pos,False,sci-fi
+1352,3,dvd,pos,oscar (best picture),neg,False,sci-fi
+1352,4,sequel,neg,suicide,neg,True,sci-fi
+1352,5,harrison ford,pos,biography,neg,False,sci-fi
+2000,1,espionage,neg,family,neg,True,hitchcock
+2000,2,murder,neg,overrated,neg,True,hitchcock
+2000,3,black comedy,neg,violent,neg,True,hitchcock
+2000,4,thriller,pos,comic book,neg,False,hitchcock
+2000,5,seen more than once,neg,comedy,neg,True,hitchcock
+4548,1,family,pos,chick flick,neg,False,espionage
+4548,2,murder,neg,overrated,neg,True,espionage
+4548,3,superhero,neg,biography,neg,True,action
+4548,4,sci-fi,neg,adventure,neg,True,action
+4548,5,sequel,neg,music,neg,True,action
+2348,1,bruce willis,neg,comedy,pos,False,samuel l jackson
+2348,2,great soundtrack,neg,memory,neg,True,nonlinear
+2348,3,twist ending,neg,dark comedy,pos,False,nonlinear
+2348,4,death,neg,high school,neg,True,nonlinear
+2348,5,samuel l jackson,pos,fun,neg,False,nonlinear
+2032,1,children,neg,great soundtrack,neg,True,johnny depp
+2032,2,horror,neg,vampires,neg,True,johnny depp
+2032,3,action,neg,classic,neg,True,johnny depp
+2032,4,dark,neg,thriller,neg,True,johnny depp
+2032,5,predictable,neg,violent,neg,True,johnny depp
+4879,1,organized crime,neg,drama,neg,True,british
+4879,2,hilarious,neg,based on a book,pos,False,british
+4879,3,london,neg,underrated,pos,False,british
+4879,4,based on a book,pos,teen,neg,False,british
+4879,5,shakespeare,pos,shakespeare,pos,True,british
+3788,1,historical,pos,johnny depp,neg,False,tom hanks
+3788,2,overrated,neg,future,pos,False,tom hanks
+3788,3,steven spielberg,neg,girlie movie,neg,True,tom hanks
+3788,4,oscar (best picture),pos,music,neg,False,tom hanks
+3788,5,stephen king,neg,stephen king,neg,True,tom hanks
+6285,1,dvd,pos,oscar (best picture),neg,False,holocaust
+6285,2,steven spielberg,neg,girlie movie,neg,True,holocaust
+6285,3,historical,pos,slow,neg,False,holocaust
+6285,4,nazis,pos,police,neg,False,holocaust
+6285,5,true story,neg,true story,neg,True,holocaust
+4739,1,satire,neg,horror,neg,True,animation
+4739,2,family,pos,crime,neg,False,animation
+4739,3,fun,neg,samuel l jackson,neg,True,animation
+4739,4,funny,neg,girlie movie,neg,True,animation
+4739,5,disney,neg,fairy tale,pos,False,animation
+2587,1,world war ii,neg,cute,pos,False,007
+2587,2,england,neg,post-apocalyptic,neg,True,007
+2587,3,espionage,neg,family,pos,False,007
+2587,4,murder,pos,jude law,neg,False,007
+2587,5,bond,pos,bond,pos,True,007
+2345,1,oscar (best picture),neg,music,neg,True,fantasy
+2345,2,epic,neg,steven spielberg,neg,True,fantasy
+2345,3,overrated,neg,murder,neg,True,fantasy
+2345,4,magic,neg,war,neg,True,fantasy
+2345,5,boring,neg,documentary,neg,True,fantasy
+1867,1,war,pos,sports,neg,False,action
+1867,2,dvd,neg,depressing,pos,False,action
+1867,3,aliens,neg,true story,neg,True,action
+1867,4,superhero,pos,biography,pos,True,action
+1867,5,sci-fi,pos,murder,pos,True,action
+4186,1,murder,neg,overrated,neg,True,fairy tale
+4186,2,disney,pos,fairy tale,pos,True,fairy tale
+4186,3,comedy,neg,bruce willis,neg,True,animation
+4186,4,funny,pos,new york city,neg,False,animation
+4186,5,children,neg,great soundtrack,neg,True,animation
+7784,1,quirky,neg,steven spielberg,neg,True,time travel
+7784,2,thriller,neg,dark,neg,True,time travel
+7784,3,sci-fi,neg,martin scorsese,neg,True,time travel
+7784,4,arnold schwarzenegger,neg,based on a book,pos,False,time travel
+7784,5,dystopia,neg,oscar (best actor),pos,False,time travel
+3994,1,nazis,neg,martial arts,pos,False,prison
+3994,2,classic,pos,action,neg,False,prison
+3994,3,revenge,pos,cute,pos,True,prison
+3994,4,seen more than once,pos,comedy,neg,False,prison
+3994,5,based on a book,pos,based on a book,pos,True,prison
+5694,1,dark,neg,thriller,neg,True,dystopia
+5694,2,robots,pos,violence,neg,False,dystopia
+5694,3,comic book,neg,prison,neg,True,dystopia
+5694,4,surreal,pos,scary,pos,True,dystopia
+5694,5,sci-fi,neg,adventure,neg,True,dystopia
+6825,1,future,neg,based on a true story,pos,False,space
+6825,2,sequel,neg,music,neg,True,space
+6825,3,dvd,neg,history,pos,False,space
+6825,4,aliens,pos,cult film,neg,False,space
+6825,5,harrison ford,pos,harrison ford,neg,False,space
+5831,1,war,neg,france,neg,True,classic
+5831,2,organized crime,neg,drama,neg,True,classic
+5831,3,based on a book,neg,teen,pos,False,classic
+5831,4,mafia,neg,family,neg,True,classic
+5831,5,prison,neg,animation,neg,True,classic
+4467,1,suspense,neg,satire,neg,True,crime
+4467,2,war,neg,france,neg,True,classic
+4467,3,jim carrey,neg,biography,neg,True,quirky
+4467,4,love,neg,underrated,neg,True,quirky
+4467,5,coming of age,neg,remake,neg,True,quirky
+2210,1,bruce willis,neg,psychology,neg,True,christmas
+2210,2,hitchcock,pos,parody,pos,True,christmas
+2210,3,action,neg,classic,neg,True,christmas
+2210,4,funny,neg,new york city,pos,False,christmas
+2210,5,new york,neg,dystopia,neg,True,christmas
+1503,1,hilarious,pos,based on a book,pos,True,boxing
+1503,2,predictable,neg,violent,neg,True,boxing
+1503,3,los angeles,neg,comic book,neg,True,boxing
+1503,4,morgan freeman,neg,oscar (best actor),neg,True,boxing
+1503,5,overrated,neg,future,neg,True,boxing
+5619,1,dvd,pos,oscar (best picture),pos,True,holocaust
+5619,2,steven spielberg,pos,girlie movie,neg,False,holocaust
+5619,3,disturbing,pos,interesting,neg,False,holocaust
+5619,4,war,pos,magic,neg,False,holocaust
+5619,5,biography,pos,biography,pos,True,holocaust
+3627,1,africa,pos,scary,pos,True,drugs
+3627,2,dvd,neg,history,pos,False,quirky
+3627,3,jim carrey,neg,biography,neg,True,quirky
+3627,4,love,neg,shakespeare,neg,True,quirky
+3627,5,coming of age,neg,remake,neg,True,quirky
+944,1,aliens,neg,true story,pos,False,sci-fi
+944,2,action,pos,classic,pos,True,sci-fi
+944,3,sequel,pos,music,neg,False,sci-fi
+944,4,dystopia,neg,new york,neg,True,sci-fi
+944,5,harrison ford,pos,biography,neg,False,sci-fi
