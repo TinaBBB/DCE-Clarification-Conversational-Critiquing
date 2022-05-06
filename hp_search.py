@@ -55,7 +55,7 @@ def fit(experiment_, model_name, dataset_, log_directory, device_, skip_eval, pl
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', type=str, default='VAEcontrast_multilayer')
-    parser.add_argument('--data_name', type=str, default='yelp_SIGIR')
+    parser.add_argument('--data_name', type=str, default='yelp')
     parser.add_argument('--fold_name', type=str, default='fold0_valid')
     parser.add_argument('--top_items', type=int, help='used to indicate top labels for each item')
     parser.add_argument('--top_users', type=int, help='if cuting the matrix with top user numbers')

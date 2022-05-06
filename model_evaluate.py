@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', type=str, default='VAEcontrast_multilayer')
-    parser.add_argument('--data_name', type=str, default='yelp_SIGIR')
+    parser.add_argument('--data_name', type=str, default='yelp')
     parser.add_argument('--top_items', type=int, help='used to indicate top labels for each item')
     parser.add_argument('--top_users', type=int, help='if cuting the matrix with top user numbers')
     parser.add_argument('--rating_threshold', type=float,

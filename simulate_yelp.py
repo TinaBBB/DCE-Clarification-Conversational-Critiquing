@@ -19,7 +19,7 @@ TABLE_PATH = "./tables"
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_name', type=str, default='yelp_SIGIR')
+    parser.add_argument('--data_name', type=str, default='yelp')
     parser.add_argument('--data_dir', type=str, default='fold0')
     parser.add_argument('--saved_model', type=str, default='VAEcontrast8.pt')
     parser.add_argument('--conf', type=str, default='sim_abs_diff_neg1_noise0_expert.config')
