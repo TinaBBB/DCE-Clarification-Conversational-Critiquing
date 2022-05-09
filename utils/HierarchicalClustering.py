@@ -141,7 +141,8 @@ class HierarchicalClustering(object):
                 k_range, sse, curve="convex", direction="decreasing")
             num_clusters = kl.elbow
         except:
-            print('setting cluster numbers')
+            # print('setting cluster numbers')
+            pass
 
         if num_clusters is None:
             if len(k_range) > 1:
