@@ -1,0 +1,2 @@
+conf,data_dir,data_name,kernel_method,rating_threshold,saved_model,seed,top_items,top_users,intra_distance,inter_distance
+sim_abs_diff_neg1_noise0_distributional.config,fold0,ml10_SIGIR,BK,1,models_DCE-VAE/VAEcontrast1.pt,201231,15,8000,"[5.8283453, 0.2805614124111905]","[6.147709, 0.26643931468327836]"

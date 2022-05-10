@@ -1,0 +1,2 @@
+conf,data_dir,data_name,kernel_method,rating_threshold,saved_model,seed,top_items,top_users,intra_distance,inter_distance
+sim_abs_diff_neg1_noise0_distributional.config,fold0,yelp_SIGIR,ELK,1,models_DCE-VAE/VAEmultilayer_contrast2.pt,201231,10,,"[5.4471555, 0.20566557473366967]","[5.7206955, 0.18841729408103333]"
