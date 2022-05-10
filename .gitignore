@@ -1,2 +1,6 @@
 data/
 *.pyc
+experiments/.vector_cache
+experiments/.ipynb_checkpoints
+.vector_cache
+
