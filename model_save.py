@@ -72,7 +72,8 @@ if __name__ == "__main__":
     torch.random.manual_seed(p.seed)
 
     data_dir = "{}/{}/{}/".format(DATA_PATH, p.data_name, p.data_dir)
-    log_dir = LOG_PATH / p.data_name / p.log_dir
+    model_folder = "models_DCE-VAE" if "contrast" in p.model_name else "models_VAE"
+    log_dir = LOG_PATH / p.data_name / model_folder / p.log_dir
     config_dir = CONFIG_PATH / p.data_name / p.conf
     print(config_dir)
     table_dir = "{}/{}/{}/{}/".format(TABLE_PATH, p.data_name, p.model_name, 'model_save')
@@ -128,4 +129,4 @@ if __name__ == "__main__":
     experiment.end()
 
     df = df.append(result_dict, ignore_index=True)
-    save_dataframe_csv(df, str(log_dir), 'metrics')
+    save_dataframe_csv(df, str(log_dir), '')
