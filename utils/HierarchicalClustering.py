@@ -1,6 +1,7 @@
+import warnings
+
 import numpy as np
 import torch
-import warnings
 from kneed import KneeLocator
 from sklearn.cluster import KMeans
 from utils.Tools import kernel_selection
@@ -8,8 +9,7 @@ from utils.Tools import kernel_selection
 warnings.filterwarnings('ignore')
 
 # for tree
-from anytree import Node, RenderTree
-from anytree.exporter import DotExporter
+from anytree import Node
 
 
 # model keyphrase gaussian distributions in
@@ -22,7 +22,6 @@ class HierarchicalClustering(object):
 
         # will get a dictionary for {"keyphrase": node}
         self.node_dict = {}
-        # self.node_dict_k = {}   #just investigating for fun, would cause memory
         self.dataset = dataset
         self.kmeans_kwargs = {
             "init": "k-means++",
@@ -32,7 +31,6 @@ class HierarchicalClustering(object):
         self.top_k_range = top_k_range
         self.lower_k_range = lower_k_range
         self.root_node = None
-        # self.root_node_k = None  # investigating for fun, woudl cause memory
 
     # Get hierarchy for keyphrase indexes
     def getKeyphraseIndexHierarchy(self, kernel_method):
