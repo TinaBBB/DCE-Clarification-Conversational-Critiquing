@@ -1,14 +1,17 @@
+import argparse
+import collections
+import json
+import os
 
 import numpy as np
-import argparse
+import pandas as pd
 import torch
 import torchtext
+from anytree.exporter import DotExporter
 from pathlib import Path
-import json
-import pandas as pd
+
 from utils.Dataset import Dataset
 from utils.HierarchicalClustering import HierarchicalClustering
-import collections
 from utils.io import save_dataframe_csv
 
 DATA_PATH = "./data"
@@ -44,7 +47,7 @@ if __name__ == "__main__":
     # model_dir = MODEL_PATH / p.data_name / (p.data_dir + '-' + p.saved_model)
     model_dir = MODEL_PATH / p.data_name / p.saved_model
     config_dir = CONFIG_PATH / p.data_name / p.conf
-    table_dir = "{}/{}/{}/{}/".format(TABLE_PATH, p.data_name, p.saved_model.split('.pt')[0], 'cluster_stats')
+    table_dir = "experiments/cluster_distances/{}/".format(p.data_name)
     with open(config_dir) as f:
         conf = json.load(f)
     # load model
@@ -59,10 +62,19 @@ if __name__ == "__main__":
     if conf['clarification_type'] != 'distributional':
         keyphrase_hierarchies = None
     else:
-        keyphrase_hierarchies = HierarchicalClustering(model, dataset, top_k_range=range(2, 11), lower_k_range=range(2, 11))
+        keyphrase_hierarchies = HierarchicalClustering(model, dataset)
         keyphrase_hierarchies.getKeyphraseHierarchy(kernel_method=p.kernel_method)
-        # DotExporter(keyphrase_hierarchies.root_node).to_picture("figures/yelp_tree.png")
-        print('end')
+
+        # Save KKT figure
+        save_figure_dir = 'experiments/kkt_figures/{}/'.format(p.data_name)
+        if not os.path.exists(save_figure_dir):
+            os.makedirs(save_figure_dir)
+
+        DotExporter(keyphrase_hierarchies.root_node, indent=2,
+                    nodeattrfunc=lambda node: "shape=plaintext, width=.01, height=.01, margin=0.01, fontsize=20").to_picture(
+            "{}tree_{}.pdf".format(save_figure_dir, p.kernel_method))
+
+        print('KKT figure saved to', save_figure_dir + 'tree_{}.pdf'.format(p.kernel_method))
 
     # 3. get inter- and intra- cluster distances
     # Get the glove embedding keys
@@ -92,21 +104,21 @@ if __name__ == "__main__":
                 if sum(S_bar) == torch.zeros([]):
                     continue
 
-                # 1. calculate intracluster distance, child's all children
+                # 1. calculate intra-cluster distance, child's all children
                 all_children = []
                 get_children(child, all_children)
                 # get children glove embeddings
                 stack_list = [gloveEmbed_dict[child_node.name] \
-                                             for child_node in all_children if
-                                             sum(gloveEmbed_dict[child_node.name]) != torch.zeros([])]
+                              for child_node in all_children if
+                              sum(gloveEmbed_dict[child_node.name]) != torch.zeros([])]
                 if not stack_list:
                     continue
                 subChildren_glove = torch.stack(stack_list, dim=0)
                 temp_intraDist = [torch.norm(s_glove - S_bar) for s_glove in subChildren_glove]
                 intraCluster_dist.append(np.mean(temp_intraDist))
 
-                # 2. calculate intercluster distance
-                for secondChild_idx in range(firstChild_idx+1, len(children_list)):
+                # 2. calculate inter-cluster distance
+                for secondChild_idx in range(firstChild_idx + 1, len(children_list)):
                     other_child = children_list[secondChild_idx]
                     if other_child == child: continue
                     # T_bar
@@ -117,12 +129,13 @@ if __name__ == "__main__":
                     get_children(other_child, all_children_others)
                     # get children glove embeddings
                     stack_list = [gloveEmbed_dict[child_node.name] \
-                                                       for child_node in all_children_others if
-                                                       sum(gloveEmbed_dict[child_node.name]) != torch.zeros([])]
+                                  for child_node in all_children_others if
+                                  sum(gloveEmbed_dict[child_node.name]) != torch.zeros([])]
                     if not stack_list:
                         continue
                     other_subChildren_glove = torch.stack(stack_list)
-                    temp_interDist=[torch.norm(s_glove - T_bar) for s_glove in subChildren_glove] + [torch.norm(t_glove - S_bar) for t_glove in other_subChildren_glove]
+                    temp_interDist = [torch.norm(s_glove - T_bar) for s_glove in subChildren_glove] + [torch.norm(t_glove - S_bar) for
+                                                                                                       t_glove in other_subChildren_glove]
 
                     interCluster_dist.append(np.mean(temp_interDist))
 
@@ -134,15 +147,15 @@ if __name__ == "__main__":
 
     # save statistics
     stats_dict = {'conf': p.conf,
-                    'data_dir': p.data_dir,
-                    'data_name': p.data_name,
-                    'kernel_method': p.kernel_method,
-                    'rating_threshold': p.rating_threshold,
-                    'saved_model': p.saved_model,
-                    'seed': p.seed,
-                    'top_items': p.top_items,
-                    'top_users': p.top_users,
+                  'data_dir': p.data_dir,
+                  'data_name': p.data_name,
+                  'kernel_method': p.kernel_method,
+                  'rating_threshold': p.rating_threshold,
+                  'saved_model': p.saved_model,
+                  'seed': p.seed,
+                  'top_items': p.top_items,
+                  'top_users': p.top_users,
                   'intra_distance': str(intraCluster_dist),
-                  'inter_distance': str(interCluster_dist)}
+                  'inter_distance': str(interCluster_dist)},
 
     save_dataframe_csv(pd.DataFrame(data=stats_dict, index=[0]), table_dir, 'intraInter_distances')
