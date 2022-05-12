@@ -5,4 +5,4 @@ experiments/.ipynb_checkpoints
 .vector_cache
 tables/ml10_SIGIR_prevResults
 tables/yelp_SIGIR_prevResults
-
+*.out
