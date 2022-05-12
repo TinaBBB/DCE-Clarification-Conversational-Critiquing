@@ -2,7 +2,7 @@
 module load python/3.7
 source ~/vae_uncertainty/bin/activate
 
-cd /home/tinashen/projects/def-ssanner/tinashen/VAE_uncertainty_word_embeddings
+cd /home/tinashen/projects/def-ssanner/tinashen/DCE-Clarification-Conversational-Critiquing
 
 
 # Experiment 1. DCE-expert
