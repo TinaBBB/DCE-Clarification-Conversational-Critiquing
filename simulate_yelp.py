@@ -1,11 +1,12 @@
-
 import argparse
 import json
+import os
+
 import numpy as np
 import pandas as pd
 import torch
-from anytree.exporter import DotExporter
 from pathlib import Path
+
 from utils.Dataset import Dataset
 from utils.HierarchicalClustering import HierarchicalClustering
 from utils.KAVgenerator import KAVgenerator
@@ -25,10 +26,14 @@ if __name__ == "__main__":
     parser.add_argument('--conf', type=str, default='sim_abs_diff_neg1_noise0_expert.config')
     parser.add_argument('--top_items', type=int, default=10, help='used to indicate top labels for each item')
     parser.add_argument('--kernel_method', type=str, default='BK', help='kernel method for computation')
+    parser.add_argument('--expNum', type=str, help='experiment number for the paper')
+    parser.add_argument('--methodName', type=str, help='method name for plotting the figure')
     parser.add_argument('--rejection_threshold', type=int, default=3,
                         help='rejection of threshold times will turn off the clarification stage')
     parser.add_argument('--rating_threshold', type=float, default=1,
                         help='used to indicate user liked items for generating uk matrices')
+    parser.add_argument('--save_examples', action='store_true',
+                        help='whether storing the simulation examples')
     parser.add_argument('--seed', type=int, default=201231)
     p = parser.parse_args()
 
@@ -38,7 +43,9 @@ if __name__ == "__main__":
     data_dir = "{}/{}/{}/".format(DATA_PATH, p.data_name, p.data_dir)
     model_dir = MODEL_PATH / p.data_name / p.saved_model
     config_dir = CONFIG_PATH / p.data_name / p.conf
-    table_dir = "{}/{}/{}/{}/".format(TABLE_PATH, p.data_name, p.saved_model.split('.pt')[0], 'c-critiquing')
+    table_dir = "{}/{}_experiment_results/{}/".format(TABLE_PATH, p.data_name, p.expNum)
+    if not os.path.exists(table_dir):
+        os.makedirs(table_dir)
     print(config_dir)
 
     with open(config_dir) as f:
@@ -64,7 +71,7 @@ if __name__ == "__main__":
 
     # load df
     experiment_df = pd.DataFrame(columns=['user_id', 'step', 'critiquing_keyphrase', 'critique_polarity',
-                               'clarification_keyphrase', 'clarification_polarity', 'accept_clarification'])
+                                          'clarification_keyphrase', 'clarification_polarity', 'accept_clarification'])
 
     conf['rejection_threshold'] = p.rejection_threshold
     dataset.train_item_keyphrase_matrix[dataset.train_item_keyphrase_matrix < 20] = 0
@@ -75,7 +82,8 @@ if __name__ == "__main__":
                   sim_conf=conf, experiment_df=experiment_df)
 
     r = s.simulate_hr()
-    save_dataframe_csv(pd.DataFrame(r), table_dir, p.conf.split(".")[0])
+    save_dataframe_csv(pd.DataFrame(r), table_dir, p.methodName)
 
     # also save experiment df table
-    save_dataframe_csv(s.experiment_df, table_dir, p.conf.split('.config')[0]+'_examples')
+    if p.save_examples:
+        save_dataframe_csv(s.experiment_df, table_dir, p.methodName + '_examples')
