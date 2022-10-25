@@ -8,6 +8,10 @@ Authors:
 
 All the compiling scripts can be found under `./cluster_bash/`, where experiments were ran using Compute Canada  
 
+# Dataset:
+* Yelp:
+* ML10M:
+
 # Hyperparameter tuning:
 * configuration folder: `./conf_hp_search/` <br>
 For example, to run the hyperparameter-tuning script for the model using one of the configurations, run the following:
@@ -37,6 +41,15 @@ All the configurations for different critiquing/clarification-based critiquing t
 ```
 python simulate_yelp.py --saved_model models_DCE-VAE/VAEmultilayer_contrast3.pt --data_name yelp_SIGIR --data_dir fold0 --conf sim_abs_diff_neg1_noise0_expert.config --top_items 10
 ```
+
+# Directory Utilities
+* `cluster_bash` stores all the bash scripts used to run the experiments, all subdirectory names are self-explanatory. All the bash scripts that are named with `run_<dataset>.sh` are used for compute canada executions and are not essential.  
+* `conf_<hp_search/simulate/>` are the configurations for the model experiments. 
+* `experiments` stores the experiment results presented in the paper
+* `models` stores the models used in the paper
+* `saves` stores the models and their corresponding model performance
+* `tables` stores the experiment tables for the clarification-critiquing tasks
+* 
 
 # Citation
 Please cite:
